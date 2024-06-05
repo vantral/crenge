@@ -1,0 +1,4270 @@
+{
+  "language": "Finnish",
+  "citation": "Sulkala, Helena and Karjalainen, Merja. 1992. Finnish. (Descriptive Grammar Series.) London: Routledge.",
+  "data": [
+    {
+      "nominal_flag": "root-LOC-DIR"
+    },
+    {
+      "nominal_flag": "-Vn ",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I am content with my vacation",
+      "№_as_in_source": 2.0,
+      "page": 2.0,
+      "glosses": "be-1SG content vacation-ill-1pos"
+    },
+    {
+      "nominal_flag": "-Vn ",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "came to see me",
+      "№_as_in_source": 2.0,
+      "page": 2.0,
+      "glosses": " come-impf-3pl I-par see-3inf-ill"
+    },
+    {
+      "nominal_flag": "-t PART",
+      "adposition": "mukaani",
+      "flag_on_adposition": "-Vn ",
+      "extended_uses_(non-spatials_and_argument-like)": "comitative",
+      "translation_of_example": " I would take/take her/him with me.",
+      "№_as_in_source": 8.0,
+      "page": 4.0,
+      "glosses": "take-lsg s/he-acc (with)-ill-lpos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "s/he is wrong",
+      "№_as_in_source": 9.0,
+      "page": 4.0,
+      "glosses": "be-con-(3sg) wrong-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he told children",
+      "№_as_in_source": 19.0,
+      "page": 7.0,
+      "glosses": "say-impf-(3sg) child-pl-all"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "the boat was there on the shore",
+      "№_as_in_source": 20.0,
+      "page": 7.0,
+      "glosses": "be-(3sg) (there)-ade shore-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "the boat was there on the shore",
+      "№_as_in_source": 20.0,
+      "page": 7.0,
+      "glosses": "be-(3sg) (there)-ade shore-ine"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he will come home",
+      "№_as_in_source": 23.0,
+      "page": 8.0,
+      "glosses": "s/he come-3sg home-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "did you see Marja yesterday evening?",
+      "№_as_in_source": 25.0,
+      "page": 8.0
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "Have you been there before?'",
+      "№_as_in_source": 27.0,
+      "page": 9.0,
+      "glosses": "go-2ptc (there)-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Does s/he have a red house?",
+      "№_as_in_source": 28.0,
+      "page": 9.0,
+      "glosses": "be-(3sg)-Q s/he-ade red house"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "It's Maija who is going to Oulu",
+      "№_as_in_source": 32.0,
+      "page": 10.0,
+      "glosses": "go-3sg Oulu-ill"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeeni",
+      "flag_on_adposition": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Who is coming after me?",
+      "№_as_in_source": 45.0,
+      "page": 12.0,
+      "glosses": "who come-3sg I-gen (track)-ill-lpos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "looking at whom",
+      "№_as_in_source": 55.0,
+      "page": 13.0,
+      "glosses": "who-par watch-2inf-ine-2pos"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "coming to the boat",
+      "№_as_in_source": 61.0,
+      "page": 14.0,
+      "glosses": "come-3sg boat-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "went to the cinema (literally \"to films\")",
+      "№_as_in_source": 66.0,
+      "page": 15.0,
+      "glosses": "go-impf-(3sg) film-pl-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he is going to Helsinki",
+      "№_as_in_source": 74.0,
+      "page": 16.0,
+      "glosses": "go-3sg Helsinki-ill"
+    },
+    {
+      "nominal_flag": "-nne",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "(went to the cinema and) where after that?",
+      "№_as_in_source": 66.0,
+      "page": 15.0,
+      "glosses": "go-impf-(3sg) (what-lat) "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "who was laughing at who?",
+      "№_as_in_source": 75.0,
+      "page": 16.0,
+      "glosses": "laugh-impf-(3sg) who-all"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "Is someone coming this afternoon",
+      "№_as_in_source": 77.0,
+      "page": 17.0,
+      "glosses": "come-3sg-Q afternoon-ade"
+    },
+    {
+      "nominal_flag": "-nne",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "You're going there",
+      "№_as_in_source": 79.0,
+      "page": 17.0,
+      "glosses": "go-2sg (it-lat)"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeen",
+      "flag_on_adposition": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "after this",
+      "№_as_in_source": 79.0,
+      "page": 17.0,
+      "glosses": "go-2sg this-gen (track)-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "from when .. is she working?",
+      "№_as_in_source": 81.0,
+      "page": 18.0,
+      "glosses": "what-ela (s/he work-3sg)"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "to when is she working",
+      "№_as_in_source": 81.0,
+      "page": 18.0,
+      "glosses": "what-ill (s/he work-3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "in the afternoon",
+      "№_as_in_source": 85.0,
+      "page": 18.0,
+      "glosses": "afternoon-ade-Q"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeen",
+      "flag_on_adposition": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "after what",
+      "№_as_in_source": 89.0,
+      "page": 19.0,
+      "glosses": "what-gen (track)-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": " learn to recognize",
+      "№_as_in_source": 135.0,
+      "page": 32.0,
+      "glosses": "learn-linf know-3inf-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "s/he had seen Maija that evening",
+      "№_as_in_source": 137.0,
+      "page": 33.0,
+      "glosses": "see-impf-2sg-Q evening-ade"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he asked me",
+      "№_as_in_source": 138.0,
+      "page": 33.0,
+      "glosses": "s/he ask-impf-(3sg) I-abl"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I asked her/him to go.",
+      "№_as_in_source": 145.0,
+      "page": 35.0,
+      "glosses": "ask-impf-lsg  go-3inf-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I forbade her/him to go.",
+      "№_as_in_source": 146.0,
+      "page": 35.0,
+      "glosses": "forbid-impf-lsg  go-3inf-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "This means abandoning the alternative.",
+      "№_as_in_source": 164.0,
+      "page": 39.0,
+      "glosses": "mean-3sg alternative-ela abandon-D-par"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "man who is sitting in your car.",
+      "№_as_in_source": 166.0,
+      "page": 40.0,
+      "glosses": "sit-3sg car-ine-2pos"
+    },
+    {
+      "nominal_flag": "-nne",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "came there",
+      "№_as_in_source": 174.0,
+      "page": 41.0,
+      "glosses": "come-impf-(3sg) (it-lat)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I don't like the man",
+      "№_as_in_source": 185.0,
+      "page": 44.0,
+      "glosses": "neg-lsg like-(a) man-ela"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Guess whose side s/he is on",
+      "№_as_in_source": 186.0,
+      "page": 44.0,
+      "glosses": "side-ade be-(3Sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "I didn't go where I wanted.",
+      "№_as_in_source": 189.0,
+      "page": 45.0,
+      "glosses": "neg-lsg go-2ptc (there)-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "I didn't go where I wanted.",
+      "№_as_in_source": 189.0,
+      "page": 45.0,
+      "glosses": "what-ine want-impf-lsg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The woman in the kitchen scolded me.",
+      "№_as_in_source": 194.0,
+      "page": 46.0,
+      "glosses": "kitchen-ine scold-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "The sweater made by my mother is in the wardrobe.",
+      "№_as_in_source": 199.0,
+      "page": 47.0,
+      "glosses": "be-(3sg) wardrobe-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "There is always someone to help.",
+      "№_as_in_source": 201.0,
+      "page": 47.0,
+      "glosses": "be-(3sg)  help-3inf-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "the woman sitting down is my mother",
+      "№_as_in_source": 202.0,
+      "page": 47.0,
+      "glosses": "be-(3sg)  help-3inf-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "It's a good house for mother to live in.",
+      "№_as_in_source": 203.0,
+      "page": 48.0,
+      "glosses": "be-(3sg) good house mother-all"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "cause",
+      "translation_of_example": "Marketta woke up to the ringing of the doorbell.",
+      "№_as_in_source": 207.0,
+      "page": 49.0,
+      "glosses": "wake-impf-(3sg) it-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "s/he learnt punctuality at school.",
+      "№_as_in_source": 208.0,
+      "page": 49.0,
+      "glosses": "be-impf-(3sg) learn-2ptc school-ine "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I'll go home",
+      "№_as_in_source": 210.0,
+      "page": 50.0,
+      "glosses": "go-lsg home-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "When the guests arrive",
+      "№_as_in_source": 213.0,
+      "page": 51.0,
+      "glosses": "arrive-2inf-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "everything will be in order",
+      "№_as_in_source": 214.0,
+      "page": 51.0,
+      "glosses": "be-(3sg) order-ine"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "I saw it when s/he was coming.",
+      "№_as_in_source": 216.0,
+      "page": 51.0,
+      "glosses": "arrive-2inf-ine-3pos"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "When driving a car",
+      "№_as_in_source": 218.0,
+      "page": 51.0,
+      "glosses": "car-ade drive-2inf-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "when planning the trip",
+      "№_as_in_source": 219.0,
+      "page": 52.0,
+      "glosses": "trip-par plan-p-2inf-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "While telling jokes",
+      "№_as_in_source": 220.0,
+      "page": 52.0,
+      "glosses": "tell-p-2inf-ine"
+    },
+    {
+      "nominal_flag": "-seen",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "prepared for the performance",
+      "№_as_in_source": 223.0,
+      "page": 53.0,
+      "glosses": "prepare-2ptc performance-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Make the food by cooking it",
+      "№_as_in_source": 225.0,
+      "page": 53.0,
+      "glosses": "cook-3inf-ade"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I trust your work",
+      "№_as_in_source": 228.0,
+      "page": 53.0,
+      "glosses": "trust-lsg work-ill-2pos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "runs with her heart pounding in her throat.",
+      "№_as_in_source": 231.0,
+      "page": 54.0,
+      "glosses": "throat-ine throb-2inf-ins"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I can go skating",
+      "№_as_in_source": 235.0,
+      "page": 54.0,
+      "glosses": "get-1sg skate-3inf-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I am going to the shop",
+      "№_as_in_source": 236.0,
+      "page": 55.0,
+      "glosses": "go-lsg shop-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I have a book",
+      "№_as_in_source": 239.0,
+      "page": 55.0,
+      "glosses": "I-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "By writing the letter you will succeed.",
+      "№_as_in_source": 251.0,
+      "page": 57.0,
+      "glosses": "write-3inf-ade"
+    },
+    {
+      "nominal_flag": "-nne",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "I wouldn't come.",
+      "№_as_in_source": 257.0,
+      "page": 59.0,
+      "glosses": "come-(a) (it-lat)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "The children are sitting eating",
+      "№_as_in_source": 260.0,
+      "page": 59.0,
+      "glosses": "sit-3pl eat-3inf-ine"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "Jukka-Pekka is going to Oulu to study",
+      "№_as_in_source": 261.0,
+      "page": 59.0,
+      "glosses": "leave-3sg study-3inf-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Matti is coming back from swimming",
+      "№_as_in_source": 262.0,
+      "page": 59.0,
+      "glosses": "come-3sg swim-3inf-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "Matti has been sentenced for breaking the law",
+      "№_as_in_source": 263.0,
+      "page": 60.0,
+      "glosses": "sentence-p-pas disofoey-D-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Not home yet but not at work any more",
+      "№_as_in_source": 265.0,
+      "page": 61.0,
+      "glosses": "neg-(3sg) work-ine-cl"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "It's on the roof that the cat is.",
+      "№_as_in_source": 283.0,
+      "page": 64.0,
+      "glosses": "roof-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Father has a new car.",
+      "№_as_in_source": 285.0,
+      "page": 65.0,
+      "glosses": "father-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "you must go to sleep",
+      "№_as_in_source": 296.0,
+      "page": 67.0,
+      "glosses": "go-2pl sleep-3inf-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "Knock on the door",
+      "№_as_in_source": 303.0,
+      "page": 68.0,
+      "glosses": "knock-(imp-2sg) door-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "Knock on the door",
+      "№_as_in_source": 303.0,
+      "page": 68.0,
+      "glosses": "knock-(imp-2sg) door-all"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ON",
+      "translation_of_example": "The man took a book from the table.",
+      "№_as_in_source": 309.0,
+      "page": 69.0,
+      "glosses": "take-impf-(3sg) table-abl"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The man has a dog",
+      "№_as_in_source": 310.0,
+      "page": 70.0,
+      "glosses": "man-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "There are birds on the roof",
+      "№_as_in_source": 311.0,
+      "page": 70.0,
+      "glosses": "roof-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he came to a sad end.",
+      "№_as_in_source": 312.0,
+      "page": 70.0,
+      "glosses": "s/he-all go-impf-(3sg) bad-D"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Maija became a teacher.",
+      "№_as_in_source": 313.0,
+      "page": 70.0,
+      "glosses": "Maija-ela come-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The girl is singing in the opera today",
+      "№_as_in_source": 315.0,
+      "page": 70.0,
+      "glosses": "sing-3sg opera-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeen",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "After Christmas s/he moved",
+      "№_as_in_source": 318.0,
+      "page": 71.0,
+      "glosses": "Christmas-gen (track)-ill move-irapf-(3sg)"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "s/he is going to a school",
+      "№_as_in_source": 320.0,
+      "page": 71.0,
+      "glosses": "go-3sg school-il"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "returned from his journey",
+      "№_as_in_source": 322.0,
+      "page": 72.0,
+      "glosses": "return-impf-( 3 sg) journey-abl"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "comes at the evening",
+      "№_as_in_source": 323.0,
+      "page": 72.0,
+      "glosses": "evening-ade come-3sg"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The children are playing in the yard",
+      "№_as_in_source": 325.0,
+      "page": 72.0,
+      "glosses": "yard-ade play-3pl"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Mother had already given her/him her/his medicine",
+      "№_as_in_source": 329.0,
+      "page": 73.0,
+      "glosses": "s/he-all be-impf-(3sg) give-2ptc"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "Lassi is eating at home in Oulu at two o'clock twice this week.",
+      "№_as_in_source": 331.0,
+      "page": 73.0,
+      "glosses": "eat-(3sg) this-ade week-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Lassi is eating at home in Oulu at two o'clock twice this week.",
+      "№_as_in_source": 331.0,
+      "page": 73.0,
+      "glosses": "eat-(3sg) Oulu-ine"
+    },
+    {
+      "nominal_flag": "-nA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Lassi is eating at home in Oulu at two o'clock twice this week.",
+      "№_as_in_source": 331.0,
+      "page": 73.0,
+      "glosses": "eat-(3sg) home-ess"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I am sitting on a chair in the balcony",
+      "№_as_in_source": 333.0,
+      "page": 73.0,
+      "glosses": "sit-lsg balcony-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "I am sitting on a chair in the balcony",
+      "№_as_in_source": 333.0,
+      "page": 73.0,
+      "glosses": "sit-lsg chair-ine "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he lives in Oulu.",
+      "№_as_in_source": 335.0,
+      "page": 74.0,
+      "glosses": "live-3sg Oulu-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument ",
+      "translation_of_example": "I like my work.",
+      "№_as_in_source": 334.0,
+      "page": 74.0,
+      "glosses": "like-lsg work-ela-lpos"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There are two children in the street",
+      "№_as_in_source": 336.0,
+      "page": 74.0,
+      "glosses": "street-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument ",
+      "translation_of_example": "The man is driving a white car.",
+      "№_as_in_source": 340.0,
+      "page": 75.0,
+      "glosses": "drive-3sg car-ade"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The girl seemed nice",
+      "№_as_in_source": 341.0,
+      "page": 75.0,
+      "glosses": "seem-impf-(3sg) nice-abl"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "läheltä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "APUD",
+      "translation_of_example": "person who has followed the matter from close to",
+      "№_as_in_source": 354.0,
+      "page": 77.0,
+      "glosses": "be-(3sg) matter-par (near)-elä follow-2ptc"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he is known to me.",
+      "№_as_in_source": 356.0,
+      "page": 77.0,
+      "glosses": "be-(3sg) 1-all known"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "The man is guilty of a great crime.",
+      "№_as_in_source": 357.0,
+      "page": 77.0,
+      "glosses": "on syyllinen suureen rikokseen."
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "vastaan",
+      "directional_meaning": "G",
+      "spatial_domain": "APUD",
+      "translation_of_example": "man is coming towards me",
+      "№_as_in_source": 364.0,
+      "page": 78.0,
+      "glosses": "man come-3sg I-par (towards)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "The man was famous for his good look",
+      "№_as_in_source": 367.0,
+      "page": 79.0,
+      "glosses": "be-impf-(3sg) famous magnificence-ela-3pos"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "Everybody was satisfied with the result.",
+      "№_as_in_source": 368.0,
+      "page": 79.0,
+      "glosses": "be-impf-3pl satisfied-pl-par result-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "young teacher who is known for her angry nature",
+      "№_as_in_source": 372.0,
+      "page": 80.0,
+      "glosses": "be-(3sg) know-p+2ptc angry-ela character-ela-3pos"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he left without her/his parents' knowledge",
+      "№_as_in_source": 379.0,
+      "page": 82.0,
+      "glosses": "leave-impf-(3sg) parent-pl-abl-3pos secret-par"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Oulu is far from Helsinki.",
+      "№_as_in_source": 379.0,
+      "page": 82.0,
+      "glosses": "Oulu be-(3sg) (far)-ess Helsinki-el"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "lähellä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "There is a lake near the house.",
+      "№_as_in_source": 383.0,
+      "page": 83.0,
+      "glosses": "house-gen (near)-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "lähellä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "There is a lake near the house.",
+      "№_as_in_source": 383.0,
+      "page": 83.0,
+      "glosses": "(near)-ade house-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "edellä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "S",
+      "spatial_domain": "front",
+      "translation_of_example": "Does s/he come at the front of the queue (or at the end?)",
+      "№_as_in_source": 386.0,
+      "page": 83.0,
+      "glosses": "come-3sg-Q queue-gen (front)-ade"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jäljessä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "S",
+      "spatial_domain": "back",
+      "translation_of_example": "Does s/he come (at the front of the queue) or at the end?'",
+      "№_as_in_source": 386.0,
+      "page": 83.0,
+      "glosses": "come-3sg-Q queue-gen (track)-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeeni",
+      "flag_on_adposition": "-Vn",
+      "translation_of_example": "The woman watched me go",
+      "№_as_in_source": 387.0,
+      "page": 84.0,
+      "glosses": "watch-impf-(3sg) 1-gen (track) -ill-lpos"
+    },
+    {
+      "nominal_flag": "-seen",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he came here before her/his journey to London.'",
+      "№_as_in_source": 392.0,
+      "page": 85.0,
+      "glosses": "come-impf-(3sg) before journey-par London-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The elderly have experience.",
+      "№_as_in_source": 397.0,
+      "page": 86.0,
+      "glosses": "old-pl-ade be-(3 sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Country people do not like cities.",
+      "№_as_in_source": 398.0,
+      "page": 86.0,
+      "glosses": "country-ade  neg-3pl like-(a)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Country people do not like cities.",
+      "№_as_in_source": 398.0,
+      "page": 86.0,
+      "glosses": "like-(a) city-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "in the same old houses",
+      "№_as_in_source": 402.0,
+      "page": 88.0,
+      "glosses": "same-pl-ine old-pl-ine house-pl-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "comitative",
+      "translation_of_example": "with those black cats",
+      "№_as_in_source": 414.0,
+      "page": 90.0,
+      "glosses": "those-pl-ade black-pl-ade cat-pl-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "three other beautiful girls (have)",
+      "№_as_in_source": 415.0,
+      "page": 91.0,
+      "glosses": "three-ade other-ade beautiful-ade girl-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "in all the girls",
+      "№_as_in_source": 417.0,
+      "page": 91.0,
+      "glosses": "all-pl-ine girl-pl-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "the law about the new taxation system",
+      "№_as_in_source": 420.1,
+      "page": 92.0,
+      "glosses": "law new-ela taxation-system-ela"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "the reason for dismissal",
+      "№_as_in_source": 420.3,
+      "page": 92.0,
+      "glosses": "reason dismiss-D-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "The train for Kemi leaves soon.",
+      "№_as_in_source": 421.0,
+      "page": 92.0,
+      "glosses": "train Kemi-ill leave-3sg"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "pohjalla",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "bottom",
+      "translation_of_example": "The coffee at the bottom of the cup is cold",
+      "№_as_in_source": 422.0,
+      "page": 92.0,
+      "glosses": "cup-gen bottom-ade be-(3sg) cold-par"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "The return from town was hard.",
+      "№_as_in_source": 424.0,
+      "page": 92.0,
+      "glosses": "town-ela return-D be-impf-(3Sg) hard-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "välillä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "BETWEEN",
+      "translation_of_example": "The subject is the boundary between adverbials and attributes.",
+      "№_as_in_source": 425.0,
+      "page": 93.0,
+      "glosses": "boundary adverbial-gen and attribute-gen (inter)-ade"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "juuressa",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "I watch the child at my feet.",
+      "№_as_in_source": 426.0,
+      "page": 93.0,
+      "glosses": "child-par foot-pl-gen-lpos root-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "It brings joy to the boy himself.",
+      "№_as_in_source": 427.0,
+      "page": 93.0,
+      "glosses": "bring-3sg boy-all self-all-3pos"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The law affects taxation itself a lot.",
+      "№_as_in_source": 431.0,
+      "page": 93.0,
+      "glosses": "affect-3sg taxation-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "The bicycle at least is here.",
+      "№_as_in_source": 432.0,
+      "page": 94.0,
+      "glosses": "be-(3sg) this-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "You would be needed particularly in Finland",
+      "№_as_in_source": 433.0,
+      "page": 94.0,
+      "glosses": "Finland-ine need-p-con-pas^"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Jaakko is the smallest of all of the boys",
+      "№_as_in_source": 439.0,
+      "page": 95.0,
+      "glosses": "be-(3sg) small-sup boy they-pl-ela all-pl-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "in the Northern Finland newspaper",
+      "№_as_in_source": 448.0,
+      "page": 96.0,
+      "glosses": "North-Finland-gen newspaper-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "a part of the year",
+      "№_as_in_source": 452.1,
+      "page": 97.0,
+      "glosses": "part year-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he lives in Oulu",
+      "№_as_in_source": 455.0,
+      "page": 97.0,
+      "glosses": "s/he live-3sg Oulu-ine"
+    },
+    {
+      "nominal_flag": "-ssa",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he lives (in Oulu, the white) city of the North",
+      "№_as_in_source": 455.0,
+      "page": 97.0,
+      "glosses": "s/he live-3sg white-ine city-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "We Finns have guts",
+      "№_as_in_source": 456.0,
+      "page": 98.0,
+      "glosses": "we-pl-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "We Finns have guts",
+      "№_as_in_source": 456.0,
+      "page": 98.0,
+      "glosses": "finn-pl-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "You have the skill",
+      "№_as_in_source": 458.0,
+      "page": 98.0,
+      "glosses": "you-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Sometimes we visit Oulu",
+      "№_as_in_source": 475.0,
+      "page": 102.0,
+      "glosses": "visit-lpl Oulu-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "(we visit Oulu) near town",
+      "№_as_in_source": 475.0,
+      "page": 102.0,
+      "glosses": "visit-lpl near-ine town-ine "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "We Finns are going to arrange a trip to Sweden.",
+      "№_as_in_source": 476.0,
+      "page": 102.0,
+      "glosses": "arrange-lpl trip-acc Sweden-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "A big piece of the cake disappeared",
+      "№_as_in_source": 476.0,
+      "page": 102.0,
+      "glosses": "piece cake-ela disappear-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "walked around there",
+      "№_as_in_source": 480.0,
+      "page": 103.0,
+      "glosses": "walk-impf-(3sg) (there)-ade"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Maija went to read",
+      "№_as_in_source": 481.0,
+      "page": 103.0,
+      "glosses": "go-impf-(3sg) read-3inf-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "mother is coming in the morning",
+      "№_as_in_source": 485.0,
+      "page": 104.0,
+      "glosses": "mother is coming morning-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "when coming",
+      "№_as_in_source": 493.0,
+      "page": 106.0,
+      "glosses": "come-2inf-ine-3pos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "when leaving",
+      "№_as_in_source": 493.0,
+      "page": 106.0,
+      "glosses": "leave-2inf-ine-3pos"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I like and love you",
+      "№_as_in_source": 496.0,
+      "page": 106.0,
+      "glosses": "like-1sg you-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Gorbachev stopped in Helsinki",
+      "№_as_in_source": 502.0,
+      "page": 107.0,
+      "glosses": "stop-impf-(3sg) Helsinki-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Gorbachev stopped in Oulu",
+      "№_as_in_source": 502.0,
+      "page": 107.0,
+      "glosses": "stop-impf-(3sg) Oulu-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he liked people",
+      "№_as_in_source": 528.0,
+      "page": 111.0,
+      "glosses": "s/he like-impf-(3sg) man-pl-ela"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "A beautiful girl and an ugly one were walking down the road",
+      "№_as_in_source": 537.0,
+      "page": 113.0,
+      "glosses": "walk-impf-3pl road-ade"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "lady and gentleman walked down to the shore",
+      "№_as_in_source": 539.0,
+      "page": 114.0,
+      "glosses": "walk-impf-3pl shore-ill"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "edessä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "front",
+      "translation_of_example": "The dog walks in front of the man",
+      "№_as_in_source": 541.0,
+      "page": 114.0,
+      "glosses": "walk-3sg man-gen (front)-ine "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jäljessä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "behind",
+      "translation_of_example": "The dog walks (in front of the man) and behind him",
+      "№_as_in_source": 541.0,
+      "page": 114.0,
+      "glosses": "walk-3sg man-gen (track)-ine "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeen",
+      "flag_on_adposition": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "The evening comes after the morning and the day",
+      "№_as_in_source": 542.0,
+      "page": 114.0,
+      "glosses": "come-3sg day-gen (track)-ill "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "A boy gave a present to a girl",
+      "№_as_in_source": 572.0,
+      "page": 120.0,
+      "glosses": "give-impf-(3sg)  girl-all"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "A girl and her guests are sitting on a bench",
+      "№_as_in_source": 573.0,
+      "page": 121.0,
+      "glosses": "sit-3pl bench-ade"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "It would be nice to travel to Budapest",
+      "№_as_in_source": 586.0,
+      "page": 123.0,
+      "glosses": "travel-linf Budapest-ill"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "The boy whom you know too is coming from over there",
+      "№_as_in_source": 587.0,
+      "page": 123.0,
+      "glosses": "come-3sg that-abl"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "One is travelling to Sweden",
+      "№_as_in_source": 590.0,
+      "page": 124.0,
+      "glosses": "travel-3sg Sweden-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "(One is travelling to Sweden) the other to Uukuniemi",
+      "№_as_in_source": 590.0,
+      "page": 124.0,
+      "glosses": "travel-3sg Uukuniemi-all"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "A dog is running in the forest",
+      "№_as_in_source": 598.0,
+      "page": 125.0,
+      "glosses": "spring-3sg forest-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Asko is in Stockholm",
+      "№_as_in_source": 599.0,
+      "page": 125.0,
+      "glosses": "be-(3sg) Stockholm-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "he didn't tell him",
+      "№_as_in_source": 603.0,
+      "page": 126.0,
+      "glosses": "neg-(3sg) tell-2ptc s/he-all"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "he moves to Finland.",
+      "№_as_in_source": 604.0,
+      "page": 127.0,
+      "glosses": "move-3sg Finland-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "I can see a boy at the kiosk",
+      "№_as_in_source": 610.0,
+      "page": 127.0,
+      "glosses": "see-1sg kiosk-ade"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "buying a sausage from it.",
+      "№_as_in_source": 610.0,
+      "page": 127.0,
+      "glosses": "buy-3sg (there)-abi"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "the girls told the boys ",
+      "№_as_in_source": 611.0,
+      "page": 128.0,
+      "glosses": "say-impf-3pl boy-pl-all"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Maija said to Matti",
+      "№_as_in_source": 615.0,
+      "page": 129.0,
+      "glosses": "say-impf-(3sg) Matti-all"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The fact that she die made Maija cry",
+      "№_as_in_source": 620.0,
+      "page": 130.0,
+      "glosses": "make-impf-(3sg) cry-3inf-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "(S/he) sat her/himself down on the stone",
+      "№_as_in_source": 629.0,
+      "page": 133.0,
+      "glosses": "sit-impf-refl-(3sg) stone-all"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "after she had returned from the trip.",
+      "№_as_in_source": 632.0,
+      "page": 134.0,
+      "glosses": "trip-abl return-p+2ptc-par-3pos-cl"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The girl bought herself a dog",
+      "№_as_in_source": 639.0,
+      "page": 136.0,
+      "glosses": "buy-impf- (3sg) self-all-3pos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I gave it to my own sister.",
+      "№_as_in_source": 640.0,
+      "page": 137.0,
+      "glosses": "give-impf-lsg own-all sister-all-1pos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "I found only faults in myself.",
+      "№_as_in_source": 650.0,
+      "page": 138.0,
+      "glosses": "find-impf-1sg  own-ine self-ine-1Pos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he described me to myself.",
+      "№_as_in_source": 653.0,
+      "page": 139.0,
+      "glosses": "describe-impf-(3sg) self-all-lpos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "brings joy to us.",
+      "№_as_in_source": 663.0,
+      "page": 141.0,
+      "glosses": "we-pl-all bring-D-3sg"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he gave me confidence in myself",
+      "№_as_in_source": 666.0,
+      "page": 141.0,
+      "glosses": "give-impf-(3sg) I-all"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he gives us money",
+      "№_as_in_source": 667.0,
+      "page": 142.0,
+      "glosses": "give-3sg we-pl-all"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "It is my part in educating myself.",
+      "№_as_in_source": 672.0,
+      "page": 143.0,
+      "glosses": "be-(3sg) part-lpos educate-D-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The only thing dear to me is myself",
+      "№_as_in_source": 673.0,
+      "page": 143.0,
+      "glosses": "I-all be-(3sg) dear"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN ",
+      "translation_of_example": "Confidence in yourselves will strengthen in you.",
+      "№_as_in_source": 675.0,
+      "page": 143.0,
+      "glosses": "you-pl-ine strengthen-3sg"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "IN ",
+      "translation_of_example": "S/he took away (from me) my confidence in myself",
+      "№_as_in_source": 676.0,
+      "page": 143.0,
+      "glosses": "remove-impf-(3sg) I-abl"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he asked me only to be myself.",
+      "№_as_in_source": 679.0,
+      "page": 144.0,
+      "glosses": "ask-impf-(3sg) be-3inf-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "sisters are going on holiday",
+      "№_as_in_source": 690.0,
+      "page": 147.0,
+      "glosses": "go-3pl holiday-all"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "They met (each other) in the street.",
+      "№_as_in_source": 695.0,
+      "page": 147.0,
+      "glosses": "meet-impf-3pl street-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The boys are quarrelling in the street",
+      "№_as_in_source": 698.0,
+      "page": 148.0,
+      "glosses": "quarrel-3pl street-ade"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The children gave each other present",
+      "№_as_in_source": 702.0,
+      "page": 149.0,
+      "glosses": "give-impf-3pl other-pl-all-3pos"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The children gave each other's parents presents",
+      "№_as_in_source": 703.0,
+      "page": 149.0,
+      "glosses": "give-impf-3pl  parent-pl-all"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The members of the family are dear to each other.",
+      "№_as_in_source": 708.0,
+      "page": 151.0,
+      "glosses": "be-3pl dear-pl-par other-pl-all-3pos"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The children are also close to each other's parents",
+      "№_as_in_source": 709.0,
+      "page": 151.0,
+      "glosses": "be-3pl close-pl-par parent-pl-all "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he introduced the pupils to each other.",
+      "№_as_in_source": 716.0,
+      "page": 152.0,
+      "glosses": "introduce-impf-(3sg) pupil-pl-(acc) other-pl-all-3pos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he introduced us to each other's friends.",
+      "№_as_in_source": 717.0,
+      "page": 152.0,
+      "glosses": "introduce-impf-(3sg)  friend-pl-all "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Each of you brings joy to the other",
+      "№_as_in_source": 736.0,
+      "page": 156.0,
+      "glosses": "bring-D-3sg you-pl-all "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Listening to each other brings joy to musicians.",
+      "№_as_in_source": 737.0,
+      "page": 156.0,
+      "glosses": "bring-D-3sg muaician-pl-all "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he gives each of us money",
+      "№_as_in_source": 740.0,
+      "page": 157.0,
+      "glosses": " give-3sg we-pl-all"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he introduced the people visiting us",
+      "№_as_in_source": 741.0,
+      "page": 157.0,
+      "glosses": " introduce-irapf-(3sg) we-pl-all"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he gave each of you money from the other's account.'",
+      "№_as_in_source": 744.0,
+      "page": 158.0,
+      "glosses": " give-impf-(3sg) tileiltä"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "The party is at the same time an occasion for pupils to get to know each other again",
+      "№_as_in_source": 746.0,
+      "page": 158.0,
+      "glosses": "be-(3sg) same-ade "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "to get to know each other again.",
+      "№_as_in_source": 746.0,
+      "page": 158.0,
+      "glosses": "acquaint-D-par other-pl-ill-3pos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "it is the pupils' contribution to educating each other",
+      "№_as_in_source": 747.0,
+      "page": 158.0,
+      "glosses": "be-(3sg) contribution educate-D-ine "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "In this way an understanding of each other strengthens in us.",
+      "№_as_in_source": 754.0,
+      "page": 160.0,
+      "glosses": "this-ade way-ade  strengthen~3sg"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "In this way an understanding of each other strengthens in us.",
+      "№_as_in_source": 754.0,
+      "page": 160.0,
+      "glosses": "this-ade way-ade  strengthen~3sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "S/he sees each of you in the other.",
+      "№_as_in_source": 755.0,
+      "page": 160.0,
+      "glosses": " see-3sg you-pl-ine "
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "the postman brought the letters to us from each other",
+      "№_as_in_source": 757.0,
+      "page": 160.0,
+      "glosses": "bring-impf-(3sg) we-pl-abl"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "the postman brought the letters to us from each other",
+      "№_as_in_source": 757.0,
+      "page": 160.0,
+      "glosses": "bring-impf-(3sg) other-pl-all-1plposs"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "We have a lot of work",
+      "№_as_in_source": 759.0,
+      "page": 161.0,
+      "glosses": "we-pl-ade be-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "At our place s/he spoke about (us) helping each other.",
+      "№_as_in_source": 760.0,
+      "page": 161.0,
+      "glosses": "we-pl-ade talk-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "s/he spoke about (us) helping",
+      "№_as_in_source": 760.0,
+      "page": 161.0,
+      "glosses": "talk-impf-(3sg) help-D-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The understanding of one another is important in your life.",
+      "№_as_in_source": 762.0,
+      "page": 162.0,
+      "glosses": "be-(3sg) important life-ine-2plpos "
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "S/he searched in the albums of each of us for pictures of the other.",
+      "№_as_in_source": 763.0,
+      "page": 162.0,
+      "glosses": " search-impf-(3sg) album-pl-ela-lplpos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he gossiped to each of us about the children of the other.",
+      "№_as_in_source": 764.0,
+      "page": 162.0,
+      "glosses": "gossip-impf-(3sg) other-pl-all-iplpos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "When they saw each other",
+      "№_as_in_source": 766.0,
+      "page": 163.0,
+      "glosses": "see-2 inf-ine-3pos start-impf-3pl laugh-linf"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "They hastened out (in order) to help each other.",
+      "№_as_in_source": 757.0,
+      "page": 163.0,
+      "glosses": " hasten-impf-3pl help-3inf-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "our anxiety about each other is still increasing",
+      "№_as_in_source": 774.0,
+      "page": 164.0,
+      "glosses": "anxiety other-pl-ela-ipipos increase-3sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "At work we must help each other.",
+      "№_as_in_source": 776.0,
+      "page": 165.0,
+      "glosses": "work-ine be-(3sg) help-p-iptc"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I'll buy more sweets for Tommi ",
+      "№_as_in_source": 780.0,
+      "page": 165.0,
+      "glosses": "buy-lsg Tommi-all "
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Emma is the most beautiful of us.",
+      "№_as_in_source": 790.0,
+      "page": 167.0,
+      "glosses": "be-(3sg) beautiful-comp 3pl-ela"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The greater the income a man has the less money he spends",
+      "№_as_in_source": 811.0,
+      "page": 171.0,
+      "glosses": "be-(3sg) man-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "It la as dark outside as in a sack",
+      "№_as_in_source": 818.0,
+      "page": 172.0,
+      "glosses": "be-(3sg) dark-par as sack-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The flowers are now at their most beautiful",
+      "№_as_in_source": 825.0,
+      "page": 174.0,
+      "glosses": " be-lpl beautiful-sup-ade-3pos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The horse belongs to that man.'",
+      "№_as_in_source": 850.0,
+      "page": 177.0,
+      "glosses": "belong-3sg that-all man-all"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The man is quick on his feet.",
+      "№_as_in_source": 853.0,
+      "page": 178.0,
+      "glosses": "be-(3sg) quick foot-pl-ela-3pos"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The book is with me.",
+      "№_as_in_source": 855.0,
+      "page": 178.0,
+      "glosses": "be-(3sg) i-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The car has new wheels.",
+      "№_as_in_source": 856.0,
+      "page": 179.0,
+      "glosses": "car-ine be-(3sg) "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I have a fever.",
+      "№_as_in_source": 857.0,
+      "page": 179.0,
+      "glosses": "I-ine be-(3sg) "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "I was swimming",
+      "№_as_in_source": 859.0,
+      "page": 180.0,
+      "glosses": "be-impf-isg swim-3inf-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I gave it to Matti.",
+      "№_as_in_source": 865.0,
+      "page": 181.0,
+      "glosses": "Matti-all give-impf-lsg"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "It was only me who was there.",
+      "№_as_in_source": 866.0,
+      "page": 181.0,
+      "glosses": "(there)-ade be-impf-lsg "
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "Blue were her/his eyes.",
+      "№_as_in_source": 876.0,
+      "page": 184.0,
+      "glosses": " s/he-ade be-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "they are scarcely on the increase in Finland",
+      "№_as_in_source": 900.0,
+      "page": 189.0,
+      "glosses": " Finland-ine increase-p-pas "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": " there is something familiar about her.",
+      "№_as_in_source": 189.0,
+      "page": 901.0,
+      "glosses": "s/he-ine be-(3sg) "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jälkeen",
+      "flag_on_adposition": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "After the programme will come the news",
+      "№_as_in_source": 907.0,
+      "page": 191.0,
+      "glosses": "programme-gen (track)-ill follow-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Harry has the good possibilities.",
+      "№_as_in_source": 909.0,
+      "page": 191.0,
+      "glosses": "be-3pl Harri-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There are plenty of mushrooms in the forest",
+      "№_as_in_source": 922.0,
+      "page": 193.0,
+      "glosses": "forest-ine be-(3sg)"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "You'll soon get tired of this rush.",
+      "№_as_in_source": 924.0,
+      "page": 193.0,
+      "glosses": " rush-ill tire-2sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Yesterday many tourist groups visited the town.",
+      "№_as_in_source": 925.0,
+      "page": 194.0,
+      "glosses": "town-ine visit-impf-3pl"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "I told you that some guests were coming",
+      "№_as_in_source": 930.0,
+      "page": 195.0,
+      "glosses": " (there)-abl come~3sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "When I came home I saw her/him.",
+      "№_as_in_source": 944.0,
+      "page": 197.0,
+      "glosses": "come-2inf-ine-lpos see-impf-lsg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "The fault was noticed while the machine was being repaired",
+      "№_as_in_source": 945.0,
+      "page": 197.0,
+      "glosses": "notice-p-impf-pas repair-p-2inf-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "She went to the market.",
+      "№_as_in_source": 948.0,
+      "page": 198.0,
+      "glosses": "market-ade go-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "she went to the department store today",
+      "№_as_in_source": 949.0,
+      "page": 198.0,
+      "glosses": "department-store-ine go-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Again he was brought to the hospital.",
+      "№_as_in_source": 950.0,
+      "page": 198.0,
+      "glosses": " bring-p-impf-pas hospital-ill "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "They are not known in Finland",
+      "№_as_in_source": 951.0,
+      "page": 198.0,
+      "glosses": "Finland-ine neg-(3sg) know-p-(a)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Previously Swedish was spoken better in Finland",
+      "№_as_in_source": 954.0,
+      "page": 199.0,
+      "glosses": "Finland-ine speak-p-impf-pas"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "They thought there that he had gone to Tornio.",
+      "№_as_in_source": 955.0,
+      "page": 199.0,
+      "glosses": "(there)-ade guess-p-impf-pas "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "S/he was informed of the journey again in the autumn.",
+      "№_as_in_source": 956.0,
+      "page": 199.0,
+      "glosses": "autumn-ade come-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he was informed of the journey again in the autumn.",
+      "№_as_in_source": 956.0,
+      "page": 199.0,
+      "glosses": " s/he-all come-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he was informed of the journey again in the autumn.",
+      "№_as_in_source": 956.0,
+      "page": 199.0,
+      "glosses": "information trip-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "book that she has borrowed from the library",
+      "№_as_in_source": 961.0,
+      "page": 201.0,
+      "glosses": "be-(3sg) borrow-2ptc library-ela "
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Mother is giving the book to the child",
+      "№_as_in_source": 961.0,
+      "page": 201.0,
+      "glosses": "give-3sg lapselle"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The girl will become a teacher.",
+      "№_as_in_source": 963.0,
+      "page": 203.0,
+      "glosses": "girl-ela come-3sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "There is some juice in the glass",
+      "№_as_in_source": 979.0,
+      "page": 211.0,
+      "glosses": " be-(3sg) glass-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "While you were being diligent I was only sleeping. ",
+      "№_as_in_source": 985.0,
+      "page": 212.0,
+      "glosses": "be-2inf-ine-2pos sleep-impf-lsg"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "This book belongs to me.",
+      "№_as_in_source": 1000.0,
+      "page": 215.0,
+      "glosses": "belong-3sg I-all"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "This book belongs to the library",
+      "№_as_in_source": 1001.0,
+      "page": 215.0,
+      "glosses": "belong-3sg library-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The juice became strong",
+      "№_as_in_source": 1012.0,
+      "page": 217.0,
+      "glosses": "juice-ela come-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I was made king.",
+      "№_as_in_source": 1014.0,
+      "page": 217.0,
+      "glosses": "I-ela make-p-impf-pas "
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "We trained her/him as a teacher.",
+      "№_as_in_source": 1018.0,
+      "page": 218.0,
+      "glosses": "educate-impf-lpl s/he-ela"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I am satisfied with you.",
+      "№_as_in_source": 1019.0,
+      "page": 218.0,
+      "glosses": "be-lsg satisfied you-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Having visited Tallinna, Marketta speaks Estonian.",
+      "№_as_in_source": 1026.0,
+      "page": 220.0,
+      "glosses": "Tallinn-ine go-2ptc-ess M"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he asks me to go to school.",
+      "№_as_in_source": 1034.0,
+      "page": 221.0,
+      "glosses": "go-linf school-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Matti gave an apple to Maija.",
+      "№_as_in_source": 1047.0,
+      "page": 223.0,
+      "glosses": "ive-impf-(3sg) Maija-all"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I heard it from Maija.",
+      "№_as_in_source": 1049.0,
+      "page": 223.0,
+      "glosses": "hear-impf-lsg Maija-abl"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he is from a good family.",
+      "№_as_in_source": 1050.0,
+      "page": 223.0,
+      "glosses": "be-(3sg) good-ela family-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The quarrel began from Maija.",
+      "№_as_in_source": 1051.0,
+      "page": 223.0,
+      "glosses": "begin-impf-(3sg) Maija-ela"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I made the bread with the machine",
+      "№_as_in_source": 1054.0,
+      "page": 224.0,
+      "glosses": "make-impf-lsg machine-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "there was a man with a white shirt there.",
+      "№_as_in_source": 1066.0,
+      "page": 225.0,
+      "glosses": "be-impf-(3sg) white-ine shirt-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "There was a white-shirted man there",
+      "№_as_in_source": 1067.0,
+      "page": 226.0,
+      "glosses": "(there)-ade be-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "There was a man there with a white shirt on.'",
+      "№_as_in_source": 1069.0,
+      "page": 226.0,
+      "glosses": " be-impf-(3sg) man white shirt head-ade-3pos"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "There was a man there who had a white shirt.",
+      "№_as_in_source": 1070.0,
+      "page": 226.0,
+      "glosses": "who-ade be-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The girl has a cat.",
+      "№_as_in_source": 1077.0,
+      "page": 227.0,
+      "glosses": "girl-ade be-(3sg) "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "There are branches on the tree.",
+      "№_as_in_source": 1078.0,
+      "page": 227.0,
+      "glosses": "tree-ine be-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he has good taste.'",
+      "№_as_in_source": 1084.0,
+      "page": 229.0,
+      "glosses": "s/he-ade be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "He is a man who has good taste.",
+      "№_as_in_source": 1085.0,
+      "page": 229.0,
+      "glosses": "who-ade be-(3sg) "
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "A house is made of brick",
+      "№_as_in_source": 1095.0,
+      "page": 230.0,
+      "glosses": "be-(3sg) brick-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There is brick in the house",
+      "№_as_in_source": 1096.0,
+      "page": 231.0,
+      "glosses": "house-ine be-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he did it in his/her own way.'",
+      "№_as_in_source": 1100.0,
+      "page": 231.0,
+      "glosses": "make-impf-(3sg) own-ade way-ade-3pos"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I think of you with love",
+      "№_as_in_source": 1101.0,
+      "page": 231.0,
+      "glosses": "think-lsg love-ade"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "S/he exhausted her/himself with work",
+      "№_as_in_source": 1106.0,
+      "page": 232.0,
+      "glosses": "exhaust-impf-(3sg) work-ela"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "S/he became exhausted with work",
+      "№_as_in_source": 1107.0,
+      "page": 232.0,
+      "glosses": "exhaust-impf-(3sg) vork-ill-3pos "
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "purpose",
+      "translation_of_example": "I used the books for my work",
+      "№_as_in_source": 1100.0,
+      "page": 232.0,
+      "glosses": "use-impf-isg work-ill-ipos "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I use the stick for hitting.",
+      "№_as_in_source": 1112.0,
+      "page": 233.0,
+      "glosses": "use-lsg stick-par hit-D-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I told her/him about the work ",
+      "№_as_in_source": 1113.0,
+      "page": 223.0,
+      "glosses": "tell-impf-lsg work-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The consultation was about the problems ",
+      "№_as_in_source": 1114.0,
+      "page": 223.0,
+      "glosses": "be-impf-(3sg) problem-pl-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I was a soldier in Berlin",
+      "№_as_in_source": 1115.0,
+      "page": 223.0,
+      "glosses": "be-impf-lsg Berlin-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "We made him king.",
+      "№_as_in_source": 1118.0,
+      "page": 234.0,
+      "glosses": "make-impf-lpl s/he-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "some of the boys",
+      "№_as_in_source": 1123.0,
+      "page": 235.0,
+      "glosses": "some-pl boy-pl-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "None of the cheeses tasted good",
+      "№_as_in_source": 1126.0,
+      "page": 235.0,
+      "glosses": "(what-cl) cheese-pl-ela neg-(3sg) taste-D-2ptc"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": " tasted good.",
+      "№_as_in_source": 1126.0,
+      "page": 235.0,
+      "glosses": "neg-(3sg) taste-D-2ptc good-abl "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I got the book for a hundred marks",
+      "№_as_in_source": 1128.0,
+      "page": 236.0,
+      "glosses": "get-impf-lsg hundred-ade mark-ade"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I got it for the price of a hundred marks.",
+      "№_as_in_source": 1129.0,
+      "page": 236.0,
+      "glosses": "get-impf-lsg hundred-gen mark-gen price-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I got it for a hundred marks.",
+      "№_as_in_source": 1130.0,
+      "page": 236.0,
+      "glosses": "get-impf-lsg hundred-ill mark-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "There is no hotel for a hundred kilometres.'",
+      "№_as_in_source": 1135.0,
+      "page": 237.0,
+      "glosses": "neg-(3sg) be-(a) hundred-ill kilometre-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "PATH",
+      "spatial_domain": "APUD",
+      "translation_of_example": "The distance to the door is ten metres",
+      "№_as_in_source": 1136.0,
+      "page": 237.0,
+      "glosses": "door-all be-(3sg) "
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The building is a hundred metres in height",
+      "№_as_in_source": 1144.0,
+      "page": 238.0,
+      "glosses": "be-(3sg) hundred metre-par height-abl-3pos"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Marjatta is in the house",
+      "№_as_in_source": 1154.0,
+      "page": 242.0,
+      "glosses": "be-(3sg) house-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "The boots are on (my) feet.",
+      "№_as_in_source": 1155.0,
+      "page": 242.0,
+      "glosses": "be-(3sg) foot-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "The thermometer is on the window.'",
+      "№_as_in_source": 1156.0,
+      "page": 242.0,
+      "glosses": "be-(3sg) window-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "There is a lamp on the ceiling.",
+      "№_as_in_source": 1157.0,
+      "page": 242.0,
+      "glosses": "ceiling-ine be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "The cat is sitting on the roof.",
+      "№_as_in_source": 1158.0,
+      "page": 242.0,
+      "glosses": "sit-3sg roof-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "They are rowing on the lake.",
+      "№_as_in_source": 1159.0,
+      "page": 242.0,
+      "glosses": "row-3pl lake-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I will call at the station.",
+      "№_as_in_source": 1160.0,
+      "page": 242.0,
+      "glosses": "Käyn asemalla."
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "The picture is on the wall.",
+      "№_as_in_source": 1161.0,
+      "page": 242.0,
+      "glosses": "be-(3sg) wall-ade"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Marjatta came out of the shop.",
+      "№_as_in_source": 1162.0,
+      "page": 243.0,
+      "glosses": "leave-impf-(3sg) shop-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "A tile fell from the roof.'",
+      "№_as_in_source": 1163.0,
+      "page": 243.0,
+      "glosses": "roof-ela fall-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "The car left the street.'",
+      "№_as_in_source": 1164.0,
+      "page": 243.0,
+      "glosses": "leave-impf-(3sg) street-abl"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ON",
+      "translation_of_example": "A cup fell off the table.",
+      "№_as_in_source": 1165.0,
+      "page": 243.0,
+      "glosses": "fall-impf-(3sg) table-abl"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "I am coming from the station.",
+      "№_as_in_source": 1166.0,
+      "page": 243.0,
+      "glosses": "come-lsg station-abl"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Marjatta goes to the institute.",
+      "№_as_in_source": 1167.0,
+      "page": 243.0,
+      "glosses": "go-3sg institute-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Pauli is travelling south.'",
+      "№_as_in_source": 1168.0,
+      "page": 243.0,
+      "glosses": "travel-3sg south-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "The tile was fastened to the roof.",
+      "№_as_in_source": 1169.0,
+      "page": 244.0,
+      "glosses": "fasten-p-impf-pas roof-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "The path continues to the shore.'",
+      "№_as_in_source": 1170.0,
+      "page": 224.0,
+      "glosses": "extend-3sg shore-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "The cat is climbing onto the table",
+      "№_as_in_source": 1171.0,
+      "page": 244.0,
+      "glosses": "climb-3sg table-all"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I am going to the station",
+      "№_as_in_source": 1172.0,
+      "page": 244.0,
+      "glosses": "go-lsg station-all"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ohi",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "I will drive past Oulu to Tornio.",
+      "№_as_in_source": 1173.0,
+      "page": 244.0,
+      "glosses": "drive-lsg Oulu-gen past "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I will drive past Oulu to Tornio.",
+      "№_as_in_source": 1173.0,
+      "page": 244.0,
+      "glosses": "drive-lsg Tornio-ill"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "lähe-llä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Marjatta lives near the university.",
+      "№_as_in_source": 1174.0,
+      "page": 244.0,
+      "glosses": "live-3sg university-gen (near)-ade"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "lähe-llä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Marjatta lives near the university.",
+      "№_as_in_source": 1174.0,
+      "page": 244.0,
+      "glosses": "live-3sg (near)-ade university-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "lähe-ltä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Harri moved from near the university.",
+      "№_as_in_source": 1176.0,
+      "page": 245.0,
+      "glosses": "move-impf~(3sg) university-gen (near)-abl "
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "lähe-ltä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Harri moved from near the university.",
+      "№_as_in_source": 1176.0,
+      "page": 245.0,
+      "glosses": "move-impf~(3sg) (near)-abi university-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "lähe-lle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Tuomas moved to near the university",
+      "№_as_in_source": 1176.0,
+      "page": 245.0,
+      "glosses": "move-impf-(3sg) university-gen (near)-ali"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "lähe-lle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Tuomas moved to near the university",
+      "№_as_in_source": 1176.0,
+      "page": 245.0,
+      "glosses": "move-impf~(3sg) (near)-ali university-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "liki-tse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "APUD",
+      "translation_of_example": "I go quite near the station.",
+      "№_as_in_source": 1178.0,
+      "page": 245.0,
+      "glosses": "go-lsg station-gen (near)-pro "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "lähe-ltä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "APUD",
+      "translation_of_example": "I go quite near the station.",
+      "№_as_in_source": 1178.0,
+      "page": 245.0,
+      "glosses": "go-lsg station-gen (near)-abl"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Ilkka is at school.",
+      "№_as_in_source": 1179.0,
+      "page": 246.0,
+      "glosses": "be-(3sg) school-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "sisä-llä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "The tennis-court is inside the school",
+      "№_as_in_source": 1180.0,
+      "page": 246.0,
+      "glosses": "be-(3sg) school-gen (inner)-ade"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Heikki is coming out of school.",
+      "№_as_in_source": 1181.0,
+      "page": 246.0,
+      "glosses": "come-3sg school-el"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "sisä-ltä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "IN",
+      "translation_of_example": "Bring the key from inside the house!",
+      "№_as_in_source": 1182.0,
+      "page": 246.0,
+      "glosses": "bring-(imp-2sg) house-gen (inner)-abi"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Erkki is going to school.",
+      "№_as_in_source": 1183.0,
+      "page": 246.0,
+      "glosses": "go-3sg school-ill"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "sisäpuolelle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Go inside the fence!",
+      "№_as_in_source": 1184.0,
+      "page": 246.0,
+      "glosses": "go-(imp-2sg) fence-gen (inner)-side-all "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "läpi",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "I went through the kitchen.",
+      "№_as_in_source": 1185.0,
+      "page": 246.0,
+      "glosses": "go-impf-lsg kitchen-gen through"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "I go out through the kitchen.",
+      "№_as_in_source": 1186.0,
+      "page": 246.0,
+      "glosses": "go-lsg kitchen-ela "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ulkopuolella",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "outside",
+      "translation_of_example": "Pekka is standing outside the house.",
+      "№_as_in_source": 1187.0,
+      "page": 247.0,
+      "glosses": "stand-3sg house-gen (outer)-side-ade"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ulkopuolelta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "outside",
+      "translation_of_example": "Jukka is coming from outside the court.",
+      "№_as_in_source": 1188.0,
+      "page": 247.0,
+      "glosses": "come-3sg field-gen (outer)-side-abl"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ulkopuolelle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "outside",
+      "translation_of_example": "Tommi is going outside the court.",
+      "№_as_in_source": 1189.0,
+      "page": 247.0,
+      "glosses": "go-3sg field-gen (outer)-side-all"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ulkopuolitse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "outside",
+      "translation_of_example": "One cannot go there via the outside of the house.",
+      "№_as_in_source": 1190.0,
+      "page": 247.0,
+      "glosses": "house-gen (outer)-side-pro ei pääse"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ulkopuolta",
+      "flag_on_adposition": "-ta PART",
+      "directional_meaning": "PATH",
+      "spatial_domain": "outside",
+      "translation_of_example": "One cannot go there via the outside of the house.",
+      "№_as_in_source": 1190.0,
+      "page": 247.0,
+      "glosses": "house-gen (outer)-side-par neg-(3sg) get-(a)"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "edessä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "front",
+      "translation_of_example": "Jaakko is standing in front of the car",
+      "№_as_in_source": 1191.0,
+      "page": 248.0,
+      "glosses": "stand-3sg car-gen (front)-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "edestä",
+      "flag_on_adposition": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "front",
+      "translation_of_example": "Leena took the bicycle from in front of the car.",
+      "№_as_in_source": 1192.0,
+      "page": 248.0,
+      "glosses": "take-impf-(3sg) car-gen (front)-elä"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "eteen",
+      "flag_on_adposition": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "front",
+      "translation_of_example": "Jaakko ran in front of the car.",
+      "№_as_in_source": 1193.0,
+      "page": 248.0,
+      "glosses": "run-impf-(3sg) car-gen (front)-ill"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "editse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "front",
+      "translation_of_example": "The boys are running across in front of the house.",
+      "№_as_in_source": 1194.0,
+      "page": 248.0,
+      "glosses": "run-3pl house-gen (front)-pro"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "edestä",
+      "flag_on_adposition": "-stA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "front",
+      "translation_of_example": "The boys are running in front of the hous",
+      "№_as_in_source": 1195.0,
+      "page": 248.0,
+      "glosses": "run-3pl house-gen (front)-ela"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "etupuolelle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "P",
+      "spatial_domain": "front",
+      "translation_of_example": "Granny planted flowers in front of the house.",
+      "№_as_in_source": 1196.0,
+      "page": 248.0,
+      "glosses": "plant-impf-(3sg) house-gen (front)-side-all "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "takana",
+      "flag_on_adposition": "-nA ESS",
+      "directional_meaning": "P",
+      "spatial_domain": "behind",
+      "translation_of_example": "They are playing ball behind the house",
+      "№_as_in_source": 1197.0,
+      "page": 249.0,
+      "glosses": "house-gen (back)-ess play-p-pas"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "takaa",
+      "flag_on_adposition": "-a PART",
+      "directional_meaning": "S",
+      "spatial_domain": "behind",
+      "translation_of_example": "A car is coming from behind the house.",
+      "№_as_in_source": 1198.0,
+      "page": 249.0,
+      "glosses": "house-gen (back)-par come-3sg"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "taakse",
+      "flag_on_adposition": "-kse TRA",
+      "directional_meaning": "G",
+      "spatial_domain": "behind",
+      "translation_of_example": "Jaakko ran behind the house",
+      "№_as_in_source": 1199.0,
+      "page": 249.0,
+      "glosses": " run-impf-(3sg) house-gen (back)-tra"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "takana",
+      "flag_on_adposition": "-nA ESS",
+      "directional_meaning": "P",
+      "spatial_domain": "behind",
+      "translation_of_example": "S/he is walking behind/after the car.",
+      "№_as_in_source": 1200.0,
+      "page": 249.0,
+      "glosses": "walk-3sg car-gen (back)-ess"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "perässä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "behind",
+      "translation_of_example": "S/he is walking behind/after the car.",
+      "№_as_in_source": 1200.0,
+      "page": 249.0,
+      "glosses": "walk-3sg car-gen  rear-ine "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "jaljessä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "behind",
+      "translation_of_example": "S/he is walking behind/after the car.",
+      "№_as_in_source": 1200.0,
+      "page": 249.0,
+      "glosses": "walk-3sg car-gen  (track)-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "taitse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "behind",
+      "translation_of_example": "It is dangerous to run behind a car",
+      "№_as_in_source": 1201.0,
+      "page": 249.0,
+      "glosses": "run-linf car-gen (back)-pro"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "yläpuolella",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ABOVE",
+      "translation_of_example": "The lamp is above the table.",
+      "№_as_in_source": 1202.0,
+      "page": 250.0,
+      "glosses": "be-(3sg) table-gen (upper)-side-ade"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "yläpuolelta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ABOVE",
+      "translation_of_example": "A lamp fell from above the table.",
+      "№_as_in_source": 1203.0,
+      "page": 250.0,
+      "glosses": "table-gen (upper)-side-abi fall-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "yläpuolelle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "ABOVE",
+      "translation_of_example": "A lamp was put above the table",
+      "№_as_in_source": 1204.0,
+      "page": 250.0,
+      "glosses": "put-p-impf-pas table-gen (upper) -side-all"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "yli",
+      "directional_meaning": "PATH",
+      "spatial_domain": "ABOVE",
+      "translation_of_example": "It is difficult to go over a ditch.",
+      "№_as_in_source": 1205.0,
+      "page": 250.0,
+      "glosses": "ditch-gen over  go-linf "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "päällä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "The book is on the table.",
+      "№_as_in_source": 1206.0,
+      "page": 250.0,
+      "glosses": "be-(3sg) table-gen (head)-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "The book is on the table",
+      "№_as_in_source": 1206.0,
+      "page": 250.0,
+      "glosses": "be-(3sg) table-ade "
+    },
+    {
+      "nominal_flag": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ON",
+      "translation_of_example": "Take the book from the table.",
+      "№_as_in_source": 1207.0,
+      "page": 250.0,
+      "glosses": "take-(imp-2sg)  table-abl"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "päältä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "ON",
+      "translation_of_example": "Take the book from the table",
+      "№_as_in_source": 1207.0,
+      "page": 250.0,
+      "glosses": "take-(imp-2sg)   table-gen (head)-abl"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "Put the book on the table",
+      "№_as_in_source": 1208.0,
+      "page": 251.0,
+      "glosses": "put-(imp-2sg)  table-all "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "päälle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "Put the book on the table",
+      "№_as_in_source": 1208.0,
+      "page": 251.0,
+      "glosses": "put-(imp-2sg) table-gen (head)-all"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "päällitse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "ON",
+      "translation_of_example": "A cat is running across the table.",
+      "№_as_in_source": 1209.0,
+      "page": 251.0,
+      "glosses": "run-3sg table-gen (head)-D-pro)"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "alla",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "under",
+      "translation_of_example": "The cat is under the table",
+      "№_as_in_source": 1210.0,
+      "page": 251.0,
+      "glosses": "be~(3sg) table-gen (under)-ade"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "alta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "under",
+      "translation_of_example": "The cat is coming from under the table.",
+      "№_as_in_source": 1211.0,
+      "page": 251.0,
+      "glosses": "come-3sg table-gen (under)-abi"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "alle",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "under",
+      "translation_of_example": "The cat is going under the table",
+      "№_as_in_source": 1212.0,
+      "page": 251.0,
+      "glosses": "go-3sg table-gen (under)-all "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "alitse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "under",
+      "translation_of_example": "The child is crawling under the table",
+      "№_as_in_source": 1213.0,
+      "page": 251.0,
+      "glosses": " crawl-(3sg) table-gen (under)-pro"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "alapuolta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "A beetle is walking on the underneath of the table",
+      "№_as_in_source": 1214.0,
+      "page": 252.0,
+      "glosses": "walk-3sg table-gen (lower)-side-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "alapuolta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "A beetle is walking on the underneath of the table",
+      "№_as_in_source": 1214.0,
+      "page": 252.0,
+      "glosses": "walk-3sg table-gen (lower-surface)-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "vieressä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Tuomas is standing beside the car",
+      "№_as_in_source": 1215.0,
+      "page": 252.0,
+      "glosses": "stand-3sg oar-gen side-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "vieressä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Tuomas is standing by Pekka.",
+      "№_as_in_source": 1216.0,
+      "page": 252.0,
+      "glosses": "stand-3sg oar-gen side-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "rinnalla",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Tuomas is standing by Pekka.",
+      "№_as_in_source": 1216.0,
+      "page": 252.0,
+      "glosses": "stand-3sg side-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "rinnalta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Pauli came up from beside Matti.",
+      "№_as_in_source": 1217.0,
+      "page": 252.0,
+      "glosses": "raise-impf-(3sg) Matti-gen breast-abl"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "viereen",
+      "flag_on_adposition": "-Vn",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Valve sat down by the table",
+      "№_as_in_source": 1218.0,
+      "page": 252.0,
+      "glosses": "sit-impf-(3sg) table-gen side-ill"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "vieritse",
+      "flag_on_adposition": "-itse",
+      "directional_meaning": "PATH",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Irmeli went by the table.",
+      "№_as_in_source": 1219.0,
+      "page": 253.0,
+      "glosses": "go-impf-(3sg) table-gen side-pro "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "vierestä",
+      "flag_on_adposition": "-stA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "APUD",
+      "translation_of_example": "Irmeli went by the table.",
+      "№_as_in_source": 1219.0,
+      "page": 253.0,
+      "glosses": "go-impf-(3sg) table-gen side-ela"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "kyljessä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "We warmed ourselves beside the stove",
+      "№_as_in_source": 1220.0,
+      "page": 253.0,
+      "glosses": "warm-D-D-impf-lpl stove-gen rib-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "kupeessa",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "We warmed ourselves beside the stove",
+      "№_as_in_source": 1220.0,
+      "page": 253.0,
+      "glosses": "warm-D-D-impf-lpl stove-gen flank-ine"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "vasten",
+      "directional_meaning": "G",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "I am lifting it against the wall.",
+      "№_as_in_source": 1221.0,
+      "page": 253.0,
+      "glosses": "lift-lsg wall-par (against)"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "tällä puolen ",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "It is sunny on this side of the road.",
+      "№_as_in_source": 1222.0,
+      "page": 253.0,
+      "glosses": "road-gen this-ade side-ins be-(3sg)"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "toiselta puolen ",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Bengt came from the other side of the river.",
+      "№_as_in_source": 1223.0,
+      "page": 254.0,
+      "glosses": "come-impf-(3sg) other-abl side-gen river-par"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "poikki",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "Bengt came across the river",
+      "№_as_in_source": 1224.0,
+      "page": 254.0,
+      "glosses": "come-impf-(3sg) river-gen across"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "välissä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "BETWEEN",
+      "translation_of_example": "My car is between the post-box and the spruce.",
+      "№_as_in_source": 1225.0,
+      "page": 254.0,
+      "glosses": "be-(3sg) post-box-gen and spruce-gen middle-ine"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "välille",
+      "flag_on_adposition": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "BETWEEN",
+      "translation_of_example": "The letter had fallen between the post-box and the spruce tree",
+      "№_as_in_source": 1226.0,
+      "page": 254.0,
+      "glosses": " be-impf-(3sg) fall-2ptc post-box-gen and spruce-gen middle-all"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "keskeltä",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "P",
+      "spatial_domain": "BETWEEN",
+      "translation_of_example": "It is difficult to leave from amongst the children.",
+      "№_as_in_source": 1227.0,
+      "page": 254.0,
+      "glosses": "child-pl-gen (inter)-abl be-(3sg) "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "lomasta",
+      "flag_on_adposition": "-stA",
+      "directional_meaning": "P",
+      "spatial_domain": "BETWEEN",
+      "translation_of_example": "The lake is to be seen between the trees.",
+      "№_as_in_source": 1228.0,
+      "page": 255.0,
+      "glosses": "tree-pl-gen (middle)-elä see-D-3sg"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ympärillä",
+      "flag_on_adposition": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "around",
+      "translation_of_example": "There are no big cities around Oulu",
+      "№_as_in_source": 1229.0,
+      "page": 255.0,
+      "glosses": "Oulu-gen (round)-ade neg-(3sg) be-(a) "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "ympäristössä",
+      "flag_on_adposition": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "around",
+      "translation_of_example": "There are no big cities in the surroundings of Oulu",
+      "№_as_in_source": 1229.0,
+      "page": 255.0,
+      "glosses": "Oulu-gen surrounding-ine neg-(3sg) be-(a) "
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "vastapäätä",
+      "flag_on_adposition": "-tA PART",
+      "directional_meaning": "P",
+      "spatial_domain": "opposite",
+      "translation_of_example": "Marja is sitting opposite me",
+      "№_as_in_source": 1230.0,
+      "page": 255.0,
+      "glosses": "sit-3sg I-par (opposite)-par"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There is a fire in the house opposite",
+      "№_as_in_source": 1231.0,
+      "page": 255.0,
+      "glosses": "(opposite)-D-ine house-ine be-(3sg)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Leena is coming from the house opposite.",
+      "№_as_in_source": 1232.0,
+      "page": 255.0,
+      "glosses": "come-3sg (opposite)-D-ela house-ela"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "pitkin",
+      "directional_meaning": "PATH",
+      "spatial_domain": "IN",
+      "translation_of_example": "You can get out by going down the corridor.",
+      "№_as_in_source": 1234.0,
+      "page": 256.0,
+      "glosses": "corridor-par long-ins get-3sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "In the dark it is easier to go along the road.",
+      "№_as_in_source": 1235.0,
+      "page": 256.0,
+      "glosses": "dark-ine be-(3sg) "
+    },
+    {
+      "nominal_flag": "-tA PART",
+      "adposition": "myöten",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "In the dark it is easier to go along the road.",
+      "№_as_in_source": 1235.0,
+      "page": 256.0,
+      "glosses": "go-linf way-par (along)"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "poikki",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "Matti is running across the field.",
+      "№_as_in_source": 1236.0,
+      "page": 256.0,
+      "glosses": " run-3sg field-gen across"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "We'll meet at three o'clock",
+      "№_as_in_source": 1237.0,
+      "page": 256.0,
+      "glosses": "meet-lpl clock three(abi) "
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I'll come home at five o'clock",
+      "№_as_in_source": 1242.0,
+      "page": 257.0,
+      "glosses": "coroe-lsg (clock) five-abl"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "Jukka-Pekka intends to leave in the morning",
+      "№_as_in_source": 1253.0,
+      "page": 258.0,
+      "glosses": "leave-linf morning-ela"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "He'll come back towards midnight",
+      "№_as_in_source": 1254.0,
+      "page": 259.0,
+      "glosses": "come-3sg evening-night-ela"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "some time in January'",
+      "№_as_in_source": 1259.0,
+      "page": 259.0,
+      "glosses": "January-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "Aino was here during 1972 and 1973.",
+      "№_as_in_source": 1263.0,
+      "page": 260.0,
+      "glosses": " be-impf-(3sg) (here)-ade"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "päästä",
+      "flag_on_adposition": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I'll come in an hour.",
+      "№_as_in_source": 1272.0,
+      "page": 261.0,
+      "glosses": "come-lsg hour-gen (head)-ela"
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "sisällä",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I'll come in an hour",
+      "№_as_in_source": 1273.0,
+      "page": 261.0,
+      "glosses": "come-lsg hour-gen (inner)-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I lived in Sweden for a year.",
+      "№_as_in_source": 1278.0,
+      "page": 262.0,
+      "glosses": "live-impf-lsg Sweden-ine"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Marja is going to Somalia for a year",
+      "№_as_in_source": 1280.0,
+      "page": 263.0,
+      "glosses": "leave-3sg Somalia-ill"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "adposition": "mennessä",
+      "flag_on_adposition": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "Everything will happen/happened by Monday",
+      "№_as_in_source": 1281.0,
+      "page": 263.0,
+      "glosses": "happen-3sg Monday-ill go-2inf-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "G",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "I've lived here",
+      "№_as_in_source": 1284.0,
+      "page": 263.0,
+      "glosses": "live-2ptc (here)-ade"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I've lived here since 1988.",
+      "№_as_in_source": 1284.0,
+      "page": 263.0,
+      "glosses": "live-2ptc year-ela 1988 "
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I'll begin studying from Monday.",
+      "№_as_in_source": 1285.0,
+      "page": 263.0,
+      "glosses": "Monday-ela leave-2inf-ins"
+    },
+    {
+      "nominal_flag": "-hVn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I postponed my arrival until Monday.",
+      "№_as_in_source": 1287.0,
+      "page": 264.0,
+      "glosses": "postpone-impf-lsg Monday-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I haven't seen Esteri for a week.'",
+      "№_as_in_source": 1288.0,
+      "page": 264.0,
+      "glosses": "neg-lsg be-(a) see-2ptc week-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I won’t leave for another a month",
+      "№_as_in_source": 1289.0,
+      "page": 264.0,
+      "glosses": "leave-(a) month-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "Jaakko is in his sixth year.'",
+      "№_as_in_source": 1296.0,
+      "page": 265.0,
+      "glosses": "be-(3sg) six-D-ade year-ade"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "S/he works from morning to evening.",
+      "№_as_in_source": 1297.0,
+      "page": 265.0,
+      "glosses": "work-D-3sg morning-ela "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "S/he works from morning to evening.",
+      "№_as_in_source": 1297.0,
+      "page": 265.0,
+      "glosses": "work-D-3sg evening-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "The situation is the same from day to day.",
+      "№_as_in_source": 1298.0,
+      "page": 265.0,
+      "glosses": "be-(3sg) same day-ela "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "The situation is the same from day to day.",
+      "№_as_in_source": 1298.0,
+      "page": 265.0,
+      "glosses": "be-(3sg) same day-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "One gets lots of joy from blue thoughts",
+      "№_as_in_source": 1300.0,
+      "page": 266.0,
+      "glosses": "blue-pl-ela thought-pl-ela be-(3sg)"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "There were a hundred children there",
+      "№_as_in_source": 1303.0,
+      "page": 267.0,
+      "glosses": "(there)-ade be-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There are tigers in forests.",
+      "№_as_in_source": 1314.0,
+      "page": 270.0,
+      "glosses": "forest-pl-ine be-(3sg)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I have not heard anything about her/him",
+      "№_as_in_source": 1321.0,
+      "page": 272.0,
+      "glosses": "neg-lsg be-(a) hear-2ptc s/he-ela"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Marja give-3sg book-acc Marjatta-all",
+      "№_as_in_source": 1331.0,
+      "page": 275.0,
+      "glosses": " give-3sg Marjatta-all"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "We women will go to the sauna now.",
+      "№_as_in_source": 1335.0,
+      "page": 277.0,
+      "glosses": "go-lpl sauna-ill"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Liisa saw herself in the mirror.",
+      "№_as_in_source": 1338.0,
+      "page": 279.0,
+      "glosses": " see-impf-(3sg) mirror-ela"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "Its nest is in a tree.",
+      "№_as_in_source": 1350.0,
+      "page": 282.0,
+      "glosses": "be-(3sg) tree-ine"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "A statue was taken to a refuse dump",
+      "№_as_in_source": 1353.0,
+      "page": 288.0,
+      "glosses": "bring-p-impf-pas refuse-dump-al"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "In Oulu a statue was taken to a refuse dump.",
+      "№_as_in_source": 1354.0,
+      "page": 289.0,
+      "glosses": "Oulu-ine bring-p-impf-pas"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "People read a lot in Finland.",
+      "№_as_in_source": 1357.0,
+      "page": 289.0,
+      "glosses": "Finland-ine read-p-pas"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "Finnish is spoken well there.",
+      "№_as_in_source": 1359.0,
+      "page": 289.0,
+      "glosses": "(there)-ade speak-p-pas "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I really know nothing at all.",
+      "№_as_in_source": 1360.0,
+      "page": 290.0,
+      "glosses": "neg-(3sg) this-ine now know-p-(a)"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "We can see from this that everything is in order.",
+      "№_as_in_source": 1361.0,
+      "page": 290.0,
+      "glosses": "this-ela can-p-pas notice-linf"
+    },
+    {
+      "nominal_flag": "-a PART",
+      "adposition": "pitkin",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "You are throwing rubbish along the road!",
+      "№_as_in_source": 1362.0,
+      "page": 290.0,
+      "glosses": "throw-p-pas along road-par"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "How far have you come?",
+      "№_as_in_source": 1363.0,
+      "page": 290.0,
+      "glosses": "what-ela (far)-par come-p-pas"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "The house is being built",
+      "№_as_in_source": 1368.0,
+      "page": 291.0,
+      "glosses": "be-p-pas build-3inf-ine"
+    },
+    {
+      "nominal_flag": "-ltA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The boy broke a cup.",
+      "№_as_in_source": 1373.0,
+      "page": 292.0,
+      "glosses": "break-D-impf-(3sg) boy-abl"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Aulikki forces Harri to leave.",
+      "№_as_in_source": 1388.0,
+      "page": 295.0,
+      "glosses": "force-3sg leave-3inf-ill"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Pauli makes Harri write a letter",
+      "№_as_in_source": 1390.0,
+      "page": 295.0,
+      "glosses": "write-D-3sg Harri-ade "
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "people are running in the yard.'",
+      "№_as_in_source": 1398.0,
+      "page": 297.0,
+      "glosses": "yard-ade run-p-pas"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I am sitting in the kitchen.",
+      "№_as_in_source": 1397.0,
+      "page": 297.0,
+      "glosses": "sit-lsg kitchen-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "Anna's cat is sleeping on the sofa.",
+      "№_as_in_source": 1400.0,
+      "page": 298.0,
+      "glosses": "sleep-3sg sofa-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "I am washing dishes.",
+      "№_as_in_source": 1408.0,
+      "page": 299.0,
+      "glosses": "be-lsg wash-3inf-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Would you have a ticket, madam?",
+      "№_as_in_source": 1412.0,
+      "page": 299.0,
+      "glosses": "be-impf-(3sg)-Q madam-ade "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I've already lived in Kempele for six years.",
+      "№_as_in_source": 1415.0,
+      "page": 300.0,
+      "glosses": "be-lsg live-2ptc Kempele-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Minna had been in Tallinna last spring",
+      "№_as_in_source": 1418.0,
+      "page": 301.0,
+      "glosses": "be-impf-(3sg) be-2ptc Tallinna-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I've been in Lapland twice.",
+      "№_as_in_source": 1438.0,
+      "page": 304.0,
+      "glosses": "be-lsg be-2ptc Lapland-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "ALL-PURPOSE",
+      "translation_of_example": "I've been waiting here an hour already",
+      "№_as_in_source": 1439.0,
+      "page": 305.0,
+      "glosses": "be-lsg wait-2ptc (here)-ade"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Riitta moved the table to the library",
+      "№_as_in_source": 1442.0,
+      "page": 306.0,
+      "glosses": "move-impf-(3sg) library-ill "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "I read a book in an hour.",
+      "№_as_in_source": 1448.0,
+      "page": 307.0,
+      "glosses": "read-lsg hour-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The taxi took me five kilometres south of Oulu.",
+      "№_as_in_source": 1455.0,
+      "page": 308.0,
+      "glosses": "go-D-impf-(3sg) Oulu-ela south-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "The taxi took me five kilometres south of Oulu.",
+      "№_as_in_source": 1455.0,
+      "page": 308.0,
+      "glosses": "go-D-impf-(3sg) south-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Jukka-Pekka ate dinner at Hilikku ",
+      "№_as_in_source": 1465.0,
+      "page": 310.0,
+      "glosses": " eat-impf-(3sg) Hilikku-ine"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "Outi has already hated him for a long time.'",
+      "№_as_in_source": 1467.0,
+      "page": 310.0,
+      "glosses": "be-(3sg) hate-2ptc long-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Hannu has gone to the sea to inspect the nets",
+      "№_as_in_source": 1469.0,
+      "page": 310.0,
+      "glosses": "be-(3sg) sea-ade "
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "I am going to the shop",
+      "№_as_in_source": 1470.0,
+      "page": 311.0,
+      "glosses": "be-lsg go-D-ine shop-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I am going to the shop",
+      "№_as_in_source": 1470.0,
+      "page": 311.0,
+      "glosses": "be-lsg go-D-ine shop-ill"
+    },
+    {
+      "nominal_flag": "-lle",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "The train is just arriving at platform two.'",
+      "№_as_in_source": 1471.0,
+      "page": 311.0,
+      "glosses": "arrive-3sg (platform)-all"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "It is stopping raining.",
+      "№_as_in_source": 1478.0,
+      "page": 312.0,
+      "glosses": "stop-(3sg) rain-3inf-ela "
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "ATTACHMENT",
+      "translation_of_example": "Heikki is throwing a ball at the wall.'",
+      "№_as_in_source": 1480.0,
+      "page": 312.0,
+      "glosses": "throw-3sg wall-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Jaakko is flinging stones into the river.",
+      "№_as_in_source": 1482.0,
+      "page": 313.0,
+      "glosses": "fling-D-3sg  river-ill"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "When Irmeli came Matti was sleeping",
+      "№_as_in_source": 1483.0,
+      "page": 314.0,
+      "glosses": "Irmeli-gen come-2inf-ine Matti sleep-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "This can be corrected.",
+      "№_as_in_source": 1540.0,
+      "page": 327.0,
+      "glosses": "be-(3sg) correct-p-lptc-pl-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "can be read",
+      "№_as_in_source": 1549.0,
+      "page": 330.0,
+      "glosses": "be-(3sg) read-p-lptc-pl-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There were only boys in the house",
+      "№_as_in_source": 1552.0,
+      "page": 332.0,
+      "glosses": "be-impf-(3sg) house-ine"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "Seven boys are walking down the road.",
+      "№_as_in_source": 1553.0,
+      "page": 332.0,
+      "glosses": "walk-3sg road-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "The boys go by bus",
+      "№_as_in_source": 1554.0,
+      "page": 333.0,
+      "glosses": "go-3sg bus-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "We go by car",
+      "№_as_in_source": 1555.0,
+      "page": 333.0,
+      "glosses": " go-p-pas car-ade"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "aspectual",
+      "translation_of_example": "Matti is busy singing",
+      "№_as_in_source": 1565.0,
+      "page": 336.0,
+      "glosses": "be-(3sg) sing-3inf-ine"
+    },
+    {
+      "nominal_flag": "-stA",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Matti is coming from singing",
+      "№_as_in_source": 1566.0,
+      "page": 336.0,
+      "glosses": " come-3sg sing-3inf-ela"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Matti is going to sing.",
+      "№_as_in_source": 1567.0,
+      "page": 336.0,
+      "glosses": "go-3sg sing-3inf-ill"
+    },
+    {
+      "nominal_flag": "-Vn",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": " don't come home",
+      "№_as_in_source": 1568.0,
+      "page": 336.0,
+      "glosses": "Kotiin ei ole tulemista."
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There are lots of children in tiny houses.",
+      "№_as_in_source": 1571.0,
+      "page": 338.0,
+      "glosses": "little-pl-ine house-pl-ine live-3sg"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There were a good teacher and good pupils at the school.",
+      "№_as_in_source": 1572.0,
+      "page": 338.0,
+      "glosses": "school-ine be-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The river is broadest here.",
+      "№_as_in_source": 1581.0,
+      "page": 340.0,
+      "glosses": "this-ade point-ade be-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "Today you are at your most beautiful.",
+      "№_as_in_source": 1583.0,
+      "page": 340.0,
+      "glosses": "be-2sg beautiful-sup+pl-ade-2pos"
+    },
+    {
+      "nominal_flag": "-lle",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "I gave water to two dogs.",
+      "№_as_in_source": 1590.0,
+      "page": 345.0,
+      "glosses": "give-impf-lsg two-all dog-all"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "on the fifth floor",
+      "№_as_in_source": 1591.0,
+      "page": 346.0,
+      "glosses": "five-D-ine floor-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "extended_uses_(non-spatials_and_argument-like)": "time",
+      "translation_of_example": "in the fifth Olympic Games",
+      "№_as_in_source": 1591.0,
+      "page": 346.0,
+      "glosses": "five-D-pl-ine Olympic Game-pl-ine"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There was snow in only a few places.",
+      "№_as_in_source": 1595.0,
+      "page": 348.0,
+      "glosses": "few-pl-ine place-pl-ine be-impf-(3sg) "
+    },
+    {
+      "nominal_flag": "-llA",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "S/he was not to be bought even with a lot of money.",
+      "№_as_in_source": 1599.0,
+      "page": 348.0,
+      "glosses": "buy-linf (much)-ade-cl money-ade"
+    },
+    {
+      "nominal_flag": "-llA",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "There was a load of sand on the road.'",
+      "№_as_in_source": 1600.0,
+      "page": 348.0,
+      "glosses": "road-ade be-impf-(3sg)"
+    },
+    {
+      "nominal_flag": "-ssA",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I go to Sweden very often.",
+      "№_as_in_source": 1605.0,
+      "page": 350.0,
+      "glosses": "go-lsg Sweden-ine "
+    },
+    {
+      "nominal_flag": "-n GEN",
+      "adposition": "rinnalta",
+      "flag_on_adposition": "-ltA",
+      "directional_meaning": "S",
+      "spatial_domain": "APUD",
+      "translation_of_example": "from beside the girl",
+      "№_as_in_source": 1613.0,
+      "page": 360.0,
+      "glosses": "girl-gen chest-abl"
+    }
+  ]
+}

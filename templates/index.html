@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typological Research Project</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="/">Source-Goal Asymmetry</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/sample">Sample</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/chapters">Chapters</a>
+                </li>
+            </ul>
+        </div>
+    </nav>    
+    <div class="container mt-5">
+        <div class="jumbotron text-center bg-neutral-blue text-white">
+            <h1 class="display-4"><b>Source-Goal Asymmetry in the Languages of the World</b></h1>
+            <p class="lead">Investigating the distinction of topological configurations in 50 languages.</p>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body ">
+                        <h5 class="card-title">Project Overview</h5>
+                        <p class="card-text">The study aims to investigate this asymmetry across 50 diverse languages by analyzing adnominal encoding of goals and sources in basic topological relations.
+                        </p>
+                        <p>Data collection poses a methodological challenge as directional and topological meanings are rarely exhaustively covered in grammatical descriptions, requiring a thorough examination of textual examples for a fuller understanding of the language's spatial system.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Our Team</h5>
+                        <p class="card-text">Konstantin Filatov</p>
+                        <p class="card-text">Rita Popova</p>
+                        <p class="card-text">Anton Buzanov</p>
+                        <p class="card-text">Asya Alekseeva</p>
+                        <p class="card-text">Liza Goroshnikova</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Primary Values Tested</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">IN: Being inside a container</li>
+                            <li class="list-group-item">ON: Being on a flat horizontal surface</li>
+                            <li class="list-group-item">UNDER: Being under a reference point without touching it</li>
+                            <li class="list-group-item">APUD: Being in close proximity to a reference point without further specification</li>
+                        </ul>
+                        <a href="/topological_relations" class="btn bg-neutral-blue mt-3">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Research Methods</h5>
+                        <p class="card-text">We plan to gather a database of spatial relationship expression strategies from 50 languages. Data will be sourced from the most comprehensive grammatical descriptions or annotated corpora available for each language.</p>
+                        <a href="/sample" class="btn bg-neutral-blue">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        
+    </div>
+    <footer class="bg-light text-center text-lg-start mt-4">
+        <div class="container p-4">
+            <p class="text-muted">&copy; 2024 Source-Goal Asymmetry in the Languages of the World. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+</html>

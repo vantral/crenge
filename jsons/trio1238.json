@@ -1,0 +1,225 @@
+{
+  "language": "Trió",
+  "citation": "Meira, S. (2006). Approaching space in Tiriy&oacute; grammar. In S. C. Levinson &amp; D. P. Wilkins (Eds.),&nbsp;<em>Grammars of Space: Explorations in Cognitive Diversity</em>&nbsp;(pp. 311&ndash;358). chapter, Cambridge: Cambridge University Press.",
+  "data": [
+    {
+      "adposition": "pёe FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "(S/he) has come from Macapa’",
+      "№_as_in_source": "13a",
+      "page": 350,
+      "glosses": "Macapa  from REPT 3-come:PAST"
+    },
+    {
+      "adposition": "pёe FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "IN",
+      "translation_of_example": "I took the paper out of the bag",
+      "№_as_in_source": "13d",
+      "page": 351,
+      "glosses": "paper 1-take:PAST bag from"
+    },
+    {
+      "adposition": "pёe FROM",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME INTERVAL",
+      "translation_of_example": "From May to August",
+      "№_as_in_source": "13e",
+      "page": 351,
+      "glosses": "May from August to really"
+    },
+    {
+      "adposition": "pёe FROM",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME ANTERIOR",
+      "translation_of_example": "My mother brought me here, after I was born’",
+      "№_as_in_source": "13f",
+      "page": 349,
+      "glosses": "PAST-bring-PAST 1:PRO 1:mother ERG this to 1-be.born:NZR-PAST:POS from"
+    },
+    {
+      "adposition": "tae PATH",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL?",
+      "translation_of_example": "(S/he) went by/along this path",
+      "№_as_in_source": "15a",
+      "page": 349,
+      "glosses": "this.INAN path along 3-go:PAST"
+    },
+    {
+      "adposition": "tae PATH",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL?",
+      "translation_of_example": "Then the Tiriyo ́ went by/along the river",
+      "№_as_in_source": "15b",
+      "page": 349,
+      "glosses": "then Tiriyo ́ 3-go:PAST river along"
+    },
+    {
+      "adposition": "tae PATH",
+      "directional_meaning": "PATH",
+      "spatial_domain": "IN",
+      "translation_of_example": "(It) enters through small wounds",
+      "№_as_in_source": "5c",
+      "page": 349,
+      "glosses": "wound-DIM through 3-enter-PRES"
+    },
+    {
+      "adposition": "pona TO(WARDS)",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "S/he went to (the city of) Macapa ́",
+      "№_as_in_source": "10a",
+      "page": 346,
+      "glosses": "Macapa  to 3-go:PAST"
+    },
+    {
+      "adposition": "tae PATH",
+      "extended_uses_(non-spatials_and_argument-like)": "in a language",
+      "translation_of_example": "In the Tiriyo language",
+      "№_as_in_source": "15d",
+      "page": 350,
+      "glosses": "Tiriyo ́ 3-language-POS by"
+    },
+    {
+      "adposition": "tae PATH",
+      "extended_uses_(non-spatials_and_argument-like)": "according to",
+      "translation_of_example": "That went really according to my plan",
+      "№_as_in_source": "15e",
+      "page": 350,
+      "glosses": "that.INAN EMPH 1-O:NZR-plan-PAST:POS along really"
+    },
+    {
+      "adposition": "etae PATH +ON (the edge)",
+      "directional_meaning": "PATH",
+      "spatial_domain": "EDGE",
+      "translation_of_example": "I am going by/along the river (bank)",
+      "№_as_in_source": "17a",
+      "page": 350,
+      "glosses": "water along 1-go-PRES:CTY"
+    },
+    {
+      "adposition": "etae PATH +ON (the edge)",
+      "directional_meaning": "PATH",
+      "spatial_domain": "EDGE",
+      "translation_of_example": "(It) is going along the edge of the gourd",
+      "№_as_in_source": "17b",
+      "page": 350,
+      "glosses": "gourd along 3-go-PRES"
+    },
+    {
+      "adposition": "ta(ka) ON+TO",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "(S/hei) jumped onto his/herj beak",
+      "№_as_in_source": "10d",
+      "page": 347,
+      "glosses": "3-jump:PAST 3-beak onto"
+    },
+    {
+      "adposition": "ja HUMAN GOAL",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "a deer came to him",
+      "№_as_in_source": "3'",
+      "page": 339,
+      "glosses": "w ̈ıkapau PAST-W-come-PAST 3-to"
+    },
+    {
+      "adposition": "ja HUMAN GOAL",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "S/he went to Nasau(’s house)",
+      "№_as_in_source": "11a",
+      "page": 347,
+      "glosses": "Nasau to 3-go:PAST"
+    },
+    {
+      "adposition": "ja HUMAN GOAL",
+      "extended_uses_(non-spatials_and_argument-like)": "ERGATIVE",
+      "translation_of_example": "then he ran away with a little person",
+      "№_as_in_source": "3''",
+      "page": 339,
+      "glosses": "then person-DIM REDUP-PAST-run.away.with-PAST 3-ERG"
+    },
+    {
+      "adposition": "ja HUMAN GOAL",
+      "extended_uses_(non-spatials_and_argument-like)": "DATIVE?",
+      "translation_of_example": "this i am telling you",
+      "№_as_in_source": "22a'",
+      "page": 355,
+      "glosses": "this.INAN 1A-tell-PRES-CTY 2-to"
+    },
+    {
+      "adposition": "ta(ka) IN+TO",
+      "directional_meaning": "G/P?",
+      "spatial_domain": "IN",
+      "translation_of_example": "The round iron, the water container (i.e. drain pipe), there he (=cat) entered, kurun",
+      "№_as_in_source": "5a",
+      "page": 341,
+      "glosses": "iron round-NZR water 3:container this.ANA into 3-enter-PRES"
+    },
+    {
+      "adposition": "tao IN",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "this thing, he, that one (=bird) put inside, into this thing, into the water container",
+      "№_as_in_source": "5b",
+      "page": 341,
+      "glosses": "this.ANA 3:put.inside-PRES that.ANIM that.INAN in water 3:container in"
+    },
+    {
+      "adposition": "pona TO(WARDS)",
+      "directional_meaning": "G",
+      "spatial_domain": "GL/APUD?",
+      "translation_of_example": "the circle is going close to the small house, to the triangular house",
+      "№_as_in_source": "4a",
+      "page": 340,
+      "glosses": "HAVING-stalk-HAVING-NZR round-NZR 3-DETR-roll:PAST house-DIM near"
+    },
+    {
+      "adposition": "ranme NEAR",
+      "directional_meaning": "G",
+      "spatial_domain": "GL/APUD?",
+      "translation_of_example": "the circle is going close to the small house, to the triangular house",
+      "№_as_in_source": "4a'",
+      "page": 340,
+      "glosses": "HAVING-stalk-HAVING-NZR round-NZR 3-DETR-roll:PAST triangular.house to"
+    },
+    {
+      "adposition": "rehkii TO.THE.SUMMIT",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "The circle (lit. round one with a stalk) rose, to the summit of the heel of the blue one",
+      "№_as_in_source": "4b",
+      "page": 341,
+      "glosses": "round-NZR HAVING-stalk-HAVING-NZR 3-rise:PAST blue-NZR 3-heel to.summit.of"
+    },
+    {
+      "adposition": "epinё UNDER",
+      "directional_meaning": "G",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "really close to it, under it, you go under it",
+      "№_as_in_source": "22d'",
+      "page": 357,
+      "glosses": "this.ANA 3-close only 3:under 3:under 2-go-PRES:CTY"
+    },
+    {
+      "adposition": "juuwё ON,TOP",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "go on top of it",
+      "№_as_in_source": "22d''",
+      "page": 357,
+      "glosses": "this.INAN on.top go-IMPER"
+    },
+    {
+      "adposition": "pona TO(WARDS)",
+      "directional_meaning": "P",
+      "extended_uses_(non-spatials_and_argument-like)": "AGAINST",
+      "translation_of_example": "his stick is... against his armpit",
+      "№_as_in_source": "22a",
+      "page": 355,
+      "glosses": "3-armpit-POS against"
+    }
+  ]
+}

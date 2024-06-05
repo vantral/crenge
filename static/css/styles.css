@@ -1,0 +1,124 @@
+body {
+    padding-top: 80px;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+    background-color: #5a9bd4;
+}
+
+.card {
+    margin-bottom: 1.5rem;
+}
+
+.bg-neutral-blue {
+    background-color: #5a9bd4 !important;
+    color: white !important;
+}
+
+.btn-neutral-blue {
+    background-color: #5a9bd4;
+    border-color: #5a9bd4;
+}
+
+.btn-neutral-blue:hover {
+    background-color: #4a8bc2;
+    border-color: #4a8bc2;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-item {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+footer {
+    padding: 1rem 0;
+    background-color: #f8f9fa;
+}
+
+.card-img-top {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.intro-text {
+    font-size: 1.3rem; /* Increase font size for better readability */
+}
+
+.card-title {
+    font-size: 1.5rem; /* Increase card title font size */
+}
+
+.directory-tree ul {
+    list-style-type: none;
+}
+.directory-tree li {
+    margin: 5px 0;
+}
+.directory-tree ul ul {
+    margin-left: 20px;
+    border-left: 1px solid #ccc;
+    padding-left: 10px;
+}
+
+.directory-tree ul {
+    list-style-type: none;
+}
+.directory-tree li {
+    margin: 5px 0;
+}
+.directory-tree ul ul {
+    margin-left: 20px;
+    border-left: 1px solid #ccc;
+    padding-left: 10px;
+}
+.github-link {
+    margin-top: 20px;
+}
+.github-logo {
+    height: 30px;
+    margin-right: 5px;
+}
+/* Your existing styles here */
+
+.example {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.example p {
+    margin: 10px 0;
+}
+
+.example p strong {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+    /* border-collapse: collapse; */
+    -webkit-backface-visibility: hidden;
+}
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+    vertical-align: middle;
+}
+th {
+    background-color: #f2f2f2;
+}
+.no-border-bottom {
+    border-bottom: 1px solid white;
+}
+

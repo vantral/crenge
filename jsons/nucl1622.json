@@ -1,0 +1,256 @@
+{
+  "language": "Marind",
+  "citation": "Olsson, Bruno. A Grammar of Coastal Marind, Berlin, Boston: De Gruyter Mouton, 2021. https://doi.org/10.1515/9783110747065",
+  "data": [
+    {
+      "adposition": "kumaɣ lek INSIDE FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "IN",
+      "translation_of_example": "He just came out from the prison",
+      "№_as_in_source": "118",
+      "page": 112,
+      "glosses": "now neut-aff-3sg.a- emerge:3sg.u prison(m) inside from:I"
+    },
+    {
+      "adposition": "kumaɣ INSIDE",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "The egg is in the water",
+      "№_as_in_source": "119",
+      "page": 112,
+      "glosses": "egg water inside loc-3sg.a- put.inside-ext"
+    },
+    {
+      "adposition": "kumaɣ INSIDE",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "IN",
+      "translation_of_example": "Vitalis didn’t go forward either, he didn’t stand in the nggu grass.",
+      "№_as_in_source": "125",
+      "page": 115,
+      "glosses": "grass.sp inside III-dist neg neut-3sg.a- iness-stand"
+    },
+    {
+      "adposition": "kumaɣ INSIDE",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "IN",
+      "translation_of_example": "I saved them inside my head",
+      "№_as_in_source": "397",
+      "page": 310,
+      "glosses": "[ head inside ]Goal dir-1.a- pla-save"
+    },
+    {
+      "adposition": "kumaɣ INSIDE",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "IN",
+      "translation_of_example": "But in the output trough only a little sago settled.",
+      "№_as_in_source": "415",
+      "page": 315,
+      "glosses": "but leaf.base inside there sago [ little ] dir-3sg.a- iness-sit"
+    },
+    {
+      "adposition": "kumaɣ INSIDE",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "The mosquitos are inside the forest.",
+      "№_as_in_source": "428",
+      "page": 317,
+      "glosses": "mosquito [ forest inside ]Loc loc-3sg.a I/II.pl-dist emph:I/II.pl"
+    },
+    {
+      "adposition": "lahwalah ON",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "‘I put [the sago] on top of the spread out [leaves.]’",
+      "№_as_in_source": "153",
+      "page": 144,
+      "glosses": "spread.out on.top dir-1.a-dur-ct- put.pla"
+    },
+    {
+      "adposition": "lahwalah ON",
+      "directional_meaning": "G/P?",
+      "spatial_domain": "ON",
+      "translation_of_example": "They planted bananas on top of a brush turkey mound.",
+      "№_as_in_source": "396",
+      "page": 308,
+      "glosses": "[ brush.turkey.mound on.top ]Goal dir-3pl.a-ct- plant banana"
+    },
+    {
+      "adposition": "lahwalah ON",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "Put it on the table!",
+      "№_as_in_source": "463a",
+      "page": 332,
+      "glosses": "imp-ct- iness-put[table(m) on.top]Goal"
+    },
+    {
+      "adposition": "lahwalah ON",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "Put it on the table!",
+      "№_as_in_source": "463b",
+      "page": 332,
+      "glosses": "[ table(m) on.top ]Goal dir-fut:2sg.a-ct- iness-put"
+    },
+    {
+      "adposition": "lahwalah ON",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "We put the sago on top of the hands.",
+      "№_as_in_source": "788",
+      "page": 482,
+      "glosses": "sago(III) III-dist hand on.top III= dir-fut:1.a-1pl-ct- put:III.u"
+    },
+    {
+      "adposition": "lahwalah ON",
+      "directional_meaning": "P?",
+      "spatial_domain": "ON",
+      "translation_of_example": "While I was sitting on the motorbike, I was bending my head down",
+      "№_as_in_source": "797",
+      "page": 487,
+      "glosses": "[ motorcycle(m) on.top dep-1.a-dep-ct- be.sitting-ven ] dir-1.a- 1.u-aux duck-ext-ven"
+    },
+    {
+      "adposition": "mit APUD",
+      "directional_meaning": "P",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "His wife was sitting there, at Anselmus’ place",
+      "№_as_in_source": "117",
+      "page": 112,
+      "glosses": "3sg:wife there loc-dur-3sg.a- be.sitting A. near"
+    },
+    {
+      "adposition": "mit APUD",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "The tide was already near land",
+      "№_as_in_source": "120",
+      "page": 112,
+      "glosses": "tide land near perf-act-3sg.a- become"
+    },
+    {
+      "adposition": "mit APUD",
+      "extended_use": "almost",
+      "translation_of_example": "It got almost finished",
+      "№_as_in_source": "121",
+      "page": 113,
+      "glosses": "finish near dir-3sg.a- fall"
+    },
+    {
+      "adposition": "mit APUD",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "‘It’s leaning there by the coconut tree.",
+      "№_as_in_source": "748",
+      "page": 467,
+      "glosses": "coconut at prox:III= prs.neut-prstv-3sg.a- lean-ext"
+    },
+    {
+      "adposition": "nde AT",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "‘They didn’t stay in one place.’ (=they moved around)",
+      "№_as_in_source": "115",
+      "page": 111,
+      "glosses": "one village at neg neut-dur-3sg.a- 2|3pl.u-be here"
+    },
+    {
+      "adposition": "nde AT",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "We were still there on the other side of the river.",
+      "№_as_in_source": "465",
+      "page": 333,
+      "glosses": "1 side at [ still ] neut-1.a-dur-1pl- 1.u-be"
+    },
+    {
+      "adposition": "nde AT",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "We processed the sago not far from there, in that spot.",
+      "№_as_in_source": "466",
+      "page": 333,
+      "glosses": "sago III-dist far at [ neg ] neut-1.a-re-1pl- do emph:III place III-dist"
+    },
+    {
+      "adposition": "lVk FROM",
+      "extended_use": "TIME",
+      "translation_of_example": "Then in the morning we woke up from sleep.",
+      "№_as_in_source": "87",
+      "page": 101,
+      "glosses": "now morning loc-1.a-1pl- pla-wake.up sleep from:I/II.pl"
+    },
+    {
+      "adposition": "lVk FROM",
+      "extended_use": "REASON",
+      "translation_of_example": "She jumped out of fear?",
+      "№_as_in_source": "90",
+      "page": 102,
+      "glosses": "fear from:II obj-3sg.a-ct- jump"
+    },
+    {
+      "adposition": "lVk FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "We came out from the church service",
+      "№_as_in_source": "432",
+      "page": 318,
+      "glosses": "1 [ church.service(m) from:I/II.pl ]Source loc-1.a-1pl- emerge-1.u"
+    },
+    {
+      "adposition": "lVk FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Unexpectedly, there was a man from Sukegel",
+      "№_as_in_source": "732",
+      "page": 461,
+      "glosses": "S. from:I man(I) dir-dur-3sg.a- 3sg.u-aux be:3sg.u"
+    },
+    {
+      "adposition": "lVk FROM",
+      "directional_meaning": "?",
+      "spatial_domain": "?",
+      "extended_use": "?",
+      "translation_of_example": "I [male] saw him/her/it running (=while I was running)",
+      "№_as_in_source": "892a",
+      "page": 530,
+      "glosses": "running from:I neut-1.a- see:3sg.u"
+    },
+    {
+      "adposition": "lVk FROM",
+      "directional_meaning": "?",
+      "spatial_domain": "?",
+      "extended_use": "?",
+      "translation_of_example": "I saw her/it running (=while she/it was running)",
+      "№_as_in_source": "892b",
+      "page": 530,
+      "glosses": "running from:II obj-1.a- see:3sg.u"
+    },
+    {
+      "adposition": "lVk FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "From which village are you?",
+      "№_as_in_source": "944",
+      "page": 555,
+      "glosses": "which:I/II.pl village(III) from:I/II.pl prs.neut-int-2pl.a-act 2pl"
+    },
+    {
+      "adposition": "lVk FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Who knows when she will come up from the beach.",
+      "№_as_in_source": "952",
+      "page": 558,
+      "glosses": "what loc-fut-slf.int-3sg.a- 3sg.u-go.up.from.water beach from:II"
+    },
+    {
+      "adposition": "lVk FROM",
+      "extended_use": "ORIGIN",
+      "translation_of_example": "‘Takolep is from the Gebze clan, he is from the Awaba subclan.’",
+      "№_as_in_source": "35",
+      "page": 571,
+      "glosses": "Takolep I-dist G. prs.neut-3sg.a G. A. from:I prs.neut-3sg.a"
+    }
+  ]
+}

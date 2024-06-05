@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Topological Relations</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="/">Source-Goal Asymmetry</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/sample">Sample</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/chapters">Chapters</a>
+                </li>
+            </ul>
+        </div>
+    </nav>   
+    <div class="container mt-5">
+        <div class="jumbotron text-center bg-neutral-blue text-white">
+            <h1 class="display-4"><b>Topological Relations in Languages</b></h1>
+            <p class="lead">Detailed descriptions and images of primary topological relations tested in our research.</p>
+        </div>
+        <div class="mb-4">
+            <p>
+                Movement events as described by the means of a natural language involve moving Figure and Ground. People describe the movement of Figure with respect to Ground. The Figure may either be Goal or Source of the movement, or Place where Figure is permanently located. As many studies show, Goal and Source do not form a symmetrical pair. Goals are expressed in the discourse more often than Sources are. On the formal side, the expressions of Goal are simpler than the expressions of Source (REFS).
+            </p>
+            <p>
+                Current study aims at investigating another aspect of this asymmetry. Goal expressions are claimed to have more finely specified topological relation of Figure and Ground than Source expressions. An often cited example is French which makes use of three distinct prepositions to encode moving at, on or into something (à, sur and dans respectively) and one and only preposition de to describe moving from or off or out of something (e.g. Bourdin 1997, Kopecka & Vuillermet 2021). 
+            </p>
+            <p>
+                In this study, we aim to expand the empirical basis of such generalizations. We test for presence of this type of marking asymmetry in the adnominal encoding of goals and sources across different topological relations in 50 genetically and areally diverse languages using descriptive grammars as our main source of data. We focus on the basic non-projective topological relations IN, ON, UNDER and NEAR as we expect these configurations to most often distinguish between locational (Place) and directional (Goal and/or Source) roles overtly. We derive this expectation from the “hierarchy of locations'' suggested by Zwarts (2010) for the spatial expressions of European languages. 
+            </p>
+            <p>
+                A major methodological problem is data collection. Combinability of directional and topological meanings is very rarely exposed in the grammar in an exhaustive way. We do not simply convert the authors’ often patchy account into a spatial (a)symmetry table, but also conduct an examination of the whole body of textual examples present in the grammatical description. Sometimes, the discussion of the topic by the author and the examples she provides elsewhere in the grammar are not a perfect match. Combining and cross-checking the author’s interpretation of the use of spatial forms and their actual uses in examples results in a fuller view of the language’s spatial system.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <img src="{{ url_for('static', filename='images/in.jpg') }}" class="card-img-top" alt="IN Relation">
+                    <div class="card-body">
+                        <h5 class="card-title">IN</h5>
+                        <p class="card-text">Being inside a container.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <img src="{{ url_for('static', filename='images/on.jpg') }}" class="card-img-top" alt="ON Relation">
+                    <div class="card-body">
+                        <h5 class="card-title">ON</h5>
+                        <p class="card-text">Being on a flat horizontal surface.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <img src="{{ url_for('static', filename='images/under.jpg') }}" class="card-img-top" alt="UNDER Relation">
+                    <div class="card-body">
+                        <h5 class="card-title">UNDER</h5>
+                        <p class="card-text">Being under a reference point without touching it.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 shadow-sm">
+                    <img src="{{ url_for('static', filename='images/apud.jpg') }}" class="card-img-top" alt="APUD Relation">
+                    <div class="card-body">
+                        <h5 class="card-title">APUD</h5>
+                        <p class="card-text">Being in close proximity to a reference point without further specification.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-muted text-center citation-text">
+            <p>Images from Bowerman, M., & Pederson, E. (1992). Topological relations picture series. In S. C. Levinson (Ed.), Space stimuli kit 1.2 (pp. 51). Nijmegen: Max Planck Institute for Psycholinguistics. doi:10.17617/2.883589.</p>
+        </div>
+    </div>
+    <footer class="bg-light text-center text-lg-start mt-4">
+        <div class="container p-4">
+            <p class="text-muted">&copy; 2024 Source-Goal Asymmetry in the Languages of the World. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+</html>

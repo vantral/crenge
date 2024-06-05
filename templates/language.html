@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ language }} - Typological Research Project</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <style>
+        .card {
+            margin-bottom: 1rem;
+            border: none;
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .card-body {
+            padding: 2rem;
+        }
+        .example {
+            border-left: 5px solid #5a9bd4;
+            padding-left: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #5a9bd4;
+        }
+        .footer {
+            background-color: #5a9bd4;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .footer a {
+            color: #ffcc00;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="/">Source-Goal Asymmetry</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/sample">Sample</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/chapters">Chapters</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container mt-5 pt-5">
+        <div class="jumbotron text-center bg-neutral-blue text-white">
+            <h1 class="display-4"><b>Source-Goal Asymmetry in {{ language }}</b></h1>
+            <p class="lead">{{ citation | safe }}</p>
+        </div>
+        <div class="card mb-4">
+            <div class="card-body">
+                <p class="card-text">{{ text | safe }}</p>
+            </div>
+        </div>
+
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">Examples</h5>
+                {% for example in examples %}
+                <div class="example">
+                    <p><strong>Directional Meaning:</strong> {% if example.directional_meaning %}{{ example.directional_meaning }}{% else %}N/A{% endif %}</p>
+                    <p><strong>Spatial Domain:</strong> {% if example.spatial_domain %}{{ example.spatial_domain }}{% else %}N/A{% endif %}</p>
+                    <p><strong>Nominal Flag:</strong> {% if example.nominal_flag %}<span class="highlight highlight-nominal-flag">{{ example.nominal_flag }}</span>{% else %}N/A{% endif %}</p>
+                    <p><strong>Adposition:</strong> {% if example.adposition %}<span class="highlight highlight-adposition">{{ example.adposition }}</span>{% else %}N/A{% endif %}</p>
+                    <p><strong>Flag on Adposition:</strong> {% if example.flag_on_adposition %}<span class="highlight highlight-flag-on-adposition">{{ example.flag_on_adposition }}</span>{% else %}N/A{% endif %}</p>
+                    <p><strong>Glosses:</strong> {% if example.glosses %}{{ example.glosses }}{% else %}N/A{% endif %}</p>
+                    <p><strong>Translation:</strong> {% if example.translation_of_example %}{{ example.translation_of_example }}{% else %}N/A{% endif %}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <footer class="footer mt-4">
+        <div class="container">
+            <p>&copy; 2024 Source-Goal Asymmetry in the Languages of the World. All rights reserved.</p>
+            <p>Visit our <a href="/chapters">chapters page</a> for more information.</p>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

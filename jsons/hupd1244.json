@@ -1,0 +1,1067 @@
+{
+  "language": "Hup",
+  "citation": "Epps, Patience. A Grammar of Hup, Berlin, New York: De Gruyter Mouton, 2008. https://doi.org/10.1515/9783110199079",
+  "data": [
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL?",
+      "extended_uses": "ARG?",
+      "translation_of_example": "You called on the telephone to the town",
+      "№_as_in_source": 64.0,
+      "page": 182,
+      "glosses": "over.there 2sg speak-send-go-DEP=AGAIN town-DIR"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Go lie in the hammock",
+      "№_as_in_source": 65.0,
+      "page": 182
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "He cut (the cord) and sent her down, into the water",
+      "№_as_in_source": 66.0,
+      "page": 182
+    },
+    {
+      "nominal_flag": "-an",
+      "extended_uses": "ARG?",
+      "translation_of_example": "He is lying there spying into this hole",
+      "№_as_in_source": 67.0,
+      "page": 182,
+      "glosses": "this=AGAIN hole-DIR 3sg spy-lie-be-AGAIN-DECL"
+    },
+    {
+      "adposition": "maetah",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "They come from downriver",
+      "№_as_in_source": 68.0,
+      "page": 182,
+      "glosses": "downstream-DIR 3pl come-take-INFR2-DEP=AGAIN"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "?",
+      "spatial_domain": "GL",
+      "translation_of_example": "There they left me at the hospital.",
+      "№_as_in_source": 69.0,
+      "page": 182,
+      "glosses": "over.there medicine house-DIR 1sg.OBJ 3pl leave-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "?",
+      "spatial_domain": "GL",
+      "translation_of_example": "(They) came... our land was (between) here and there... (over by) the Rio Japu, (at the place) Traira-Bench.",
+      "№_as_in_source": 70.0,
+      "page": 182,
+      "glosses": "come-take-SEQ  1pl.POSS land here over.there Rio Japu-DIR traira bench-DIR"
+    },
+    {
+      "adposition": "g'od",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "Don’t spit inside the house!",
+      "№_as_in_source": 71.0,
+      "page": 183
+    },
+    {
+      "adposition": "húy \"in.water\"",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "In the water, where he was swimming, it’s said, he broke wind.",
+      "№_as_in_source": 72.0,
+      "page": 183,
+      "glosses": "water in.water=LOC"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "The deer has put him up here astraddle his antlers and gone off, apparently",
+      "№_as_in_source": 91.0,
+      "page": 188,
+      "glosses": "3sg=horn-DIR take-straddle-rest.atop-go-TEL-INCH=INFR"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "SUBSTANCE?",
+      "translation_of_example": "He washes the canoe at the water (i.e., the port)",
+      "№_as_in_source": 95.0,
+      "page": 189,
+      "glosses": "canoe water-DIR 3sg wash-DYNM"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "spatial_domain": "INSTR",
+      "translation_of_example": "He washes the canoe with water",
+      "№_as_in_source": 95.0,
+      "page": 189,
+      "glosses": "canoe water-OBL 3sg wash-DYNM"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "He left (them) on a bench, it’s said, in the dance house.",
+      "№_as_in_source": 5.0,
+      "page": 214,
+      "glosses": "leave=REP-DECL dance house-DIR\r\nbench 3sg"
+    },
+    {
+      "adposition": "máh \"near\"",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "S",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "Then, it’s said, that one, her husband, returned from (visiting) his affines",
+      "№_as_in_source": 43.0,
+      "page": 301,
+      "glosses": "that.ITG=REP that.ITG 3sg=affine=PL near-DIR 3sg=child.father arrive-return-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "She went to the roça by herself; at the same time her husband went fishing",
+      "№_as_in_source": 30.0,
+      "page": 346,
+      "glosses": "3sg roça-DIR go-DECL 3sg only"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "?",
+      "spatial_domain": "IN",
+      "translation_of_example": "Her arm had been swallowed up and stuck in the tapir’s anus.",
+      "№_as_in_source": 67.0,
+      "page": 418,
+      "glosses": "3sg.POSS arm tapir anus-DIR [suck.in-squeeze.tight]-take-TEL-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Have you just returned from the roça",
+      "№_as_in_source": 103.0,
+      "page": 426,
+      "glosses": "roça-DIR go-VENT-DYNM 2sg"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "It’s not very cold on the Rio Tiquié; they say that in the US it’s really cold.’ (i.e., ‘It is colder in the US than on the Rio Tiquié",
+      "№_as_in_source": 72.0,
+      "page": 461,
+      "glosses": "that.ITG=REP that.ITG 3sg=affine=PL near-DIR 3sg=child.father arrive-return-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G/P?",
+      "spatial_domain": "GL",
+      "translation_of_example": "Firefly, firefly!” my children would say, when I took them to the forest.",
+      "№_as_in_source": 31.0,
+      "page": 402,
+      "glosses": "sg stand-go-go.about-OBL-DECL forest-DIR"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "My father brought me to Taracuá Igarapé (as a young child).",
+      "№_as_in_source": 32.0,
+      "page": 402,
+      "glosses": "taracuá (ant) water-DIR 1sg=father 1sg.OBJ stand-come-INFR2-DECL"
+    },
+    {
+      "adposition": "máh \"near\"",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "Cesario takes it there, they say, maybe to where her boss is.",
+      "№_as_in_source": 89.0,
+      "page": 467
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "SUBSTANCE?",
+      "translation_of_example": "On top of each other, having fallen there in the water, they are climbing up on each other",
+      "№_as_in_source": 55.0,
+      "page": 493,
+      "glosses": "together-on.top over.there water-DIR fall-immerse-SEQ"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I won’t be quick; I have to make manioc bread, and I have to make mingau too; I won’t get to the field very soon",
+      "№_as_in_source": 68.0,
+      "page": 544,
+      "glosses": "ast arrive-INCH-NEG FUT.CNTR roça-DIR 1sg-DECL"
+    },
+    {
+      "adposition": "máh \"near\"",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "G/S?",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "I’m going to visit my daughter (and will return afterwards).",
+      "№_as_in_source": 124.0,
+      "page": 559,
+      "glosses": "daughter=DIM near-DIR 1sg go-VENT-FUT-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I always go only to Cabari (village)",
+      "№_as_in_source": 139.0,
+      "page": 563,
+      "glosses": "cabari(fruit sp.) water-DIR only 1sg go-HAB-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "ON?",
+      "translation_of_example": "Up here, on your necks",
+      "№_as_in_source": 171.0,
+      "page": 572,
+      "glosses": "here.OBJ high head-DYNM beginning-DIR"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Look how I spend every day at home, never saying “I’m off (alone) to the roça",
+      "№_as_in_source": 169.0,
+      "page": 711,
+      "glosses": "other.day 1sg be-OBL IMP2 over.there roça-DIR go-PERF-KE� say-DEP NEG:ID"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "She’s going to the roça with those who didn’t play ball.",
+      "№_as_in_source": 12.0,
+      "page": 728,
+      "glosses": "3sg roça-DIR go-DYNM ball kick-NEG=PL-OBL"
+    },
+    {
+      "adposition": "máh\"near\"",
+      "flag_on_adposition": "-an ",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "Up high, where Jesus is, only those without sins go",
+      "№_as_in_source": 55.0,
+      "page": 741,
+      "glosses": "high Jesus near-DIR NEG:R sin(Pt) NEG:EX=PL go-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G/P?",
+      "spatial_domain": "ON",
+      "translation_of_example": "Having pulled (her children) up, she set (them) up high, here, on the jirau",
+      "№_as_in_source": 1.0,
+      "page": 751,
+      "glosses": "pull-climb-rest.on-be-SEQ high 3sg set-TEL-INCH-DECL over.here jirau-DIR"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "The book is in the house.",
+      "№_as_in_source": 83.0,
+      "page": 775
+    },
+    {
+      "adposition": "haeh \"middle\"",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "G/P?",
+      "spatial_domain": "GL",
+      "translation_of_example": "having carried him away, they buried him in the middle of the forest",
+      "№_as_in_source": 60.0,
+      "page": 828,
+      "glosses": "take-carry.together-SEQ be-DYNM 3sg-OBJ 3pl forest middle-DIR 3sg-OBJ bury-stand-TEL-INCH be-INCH-DECL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "She’s stirring mingau with the stick that John brought from the forest.",
+      "№_as_in_source": 89.0,
+      "page": 837,
+      "glosses": "mingau stir-DYNM=INFR forest-DIR João take-enter-PERF-DEP tree small-OBL"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "I cry while walking in the roça",
+      "№_as_in_source": 103.0,
+      "page": 842
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "Having gone by the river, having gone by canoe, it’s said, she went",
+      "page": 882
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "she went up from the river, to her house",
+      "page": 886,
+      "glosses": "go.from.river-TEL-INCH-DECL house-DIR"
+    },
+    {
+      "adposition": "mah",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "S",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "Then, it’s said, her husband returned from his affinal",
+      "page": 888,
+      "glosses": "3sg=affine=PL near-DIR go-VENT-DEP"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "all the way to that thicket",
+      "page": 891
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "They chopped everything down in the thicket",
+      "page": 893
+    },
+    {
+      "nominal_flag": "-an",
+      "extended_uses": "ARG",
+      "translation_of_example": "‘In the neck, up here in the jaw. ",
+      "page": 896,
+      "glosses": "neck-DIR over.here tooth-box-DIR"
+    },
+    {
+      "nominal_flag": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "They shot her and she fell into the water",
+      "page": 910,
+      "glosses": "water-DIR=REP 3pl fire-throw-immerse-TEL-DECL water=stream small-DIR"
+    },
+    {
+      "adposition": "tu- \"near\"",
+      "flag_on_adposition": "an",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "all around my house",
+      "page": 911
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Having brought my siblings to stay in this land...",
+      "№_as_in_source": 13.0,
+      "page": 119,
+      "glosses": "1sg.POSS sibling=OBJ.PL this land-OBL pull-come-stand-SEQ"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "IN?",
+      "extended_uses": "ARG?",
+      "translation_of_example": "They poked around in the hole, right?",
+      "№_as_in_source": 65.0,
+      "page": 157,
+      "glosses": "hollow-OBL=REP 3pl poke-INT DST.CNTR TAG1"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "GL",
+      "translation_of_example": "I will be buried in another people’s land.",
+      "№_as_in_source": 87.0,
+      "page": 188,
+      "glosses": "other people=PL POSS land-OBL lie-want-see FRUST 1sg=EMPH.CO"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "They baked it in the fireplace (lit. ‘wood-hole’)",
+      "№_as_in_source": 89.0,
+      "page": 188
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "S/G/P",
+      "spatial_domain": "ON",
+      "translation_of_example": "(He) brought down those that had been put on the smoking-platform.",
+      "№_as_in_source": 93.0,
+      "page": 189,
+      "glosses": "that.ITG smoking.platform-OBL set.on-PERF=PL.OBJ send-send-descend-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "To my female affinal relations, to Tat Deh village, I came.",
+      "№_as_in_source": 94.0,
+      "page": 189,
+      "glosses": "this 1sg.POSS affine=FEM=PL-OBL 1sg arrive-come-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "To my female affinal relations, to Tat Deh village, I came.",
+      "№_as_in_source": 94.0,
+      "page": 189
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "There was a big pile (of it), in the water",
+      "№_as_in_source": 96.0,
+      "page": 189
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "‘I saw women in that town",
+      "№_as_in_source": 116.0,
+      "page": 195
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "I’m talking about those that eat fish in the river, the otters",
+      "№_as_in_source": 119.0,
+      "page": 196
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "In the forest, with macaw feathers...(our) classificatory fathers used to put (them on themselves).",
+      "№_as_in_source": 163.0,
+      "page": 207,
+      "glosses": "forest-OBL macaw hair-OBL father-ASSOC.PL set.on-PERF-DECL"
+    },
+    {
+      "adposition": "g’od \"inside\"",
+      "flag_on_adposition": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "Inside his house, the created one’s house...",
+      "№_as_in_source": 30.0,
+      "page": 224
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "When my mother brought me over here to live in this land...",
+      "№_as_in_source": 26.0,
+      "page": 295,
+      "glosses": "over.here this land-OBL 1sg.POSS mother 1sg.OBJ stand-come-stand-OBL=AGAIN"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "In this town stood a big house... that house was a big house.",
+      "№_as_in_source": 64.0,
+      "page": 308
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "As for us (people of the forest), we speak only Hup in our village",
+      "№_as_in_source": 54.0,
+      "page": 352
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "?",
+      "spatial_domain": "?",
+      "translation_of_example": "The towel hangs from the string.",
+      "№_as_in_source": 20.0,
+      "page": 378,
+      "glosses": "string-OBL towel(Pt) hang-DYNM"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "They put it (clay) into the fire to bake",
+      "№_as_in_source": 22.0,
+      "page": 400,
+      "glosses": "wood.hearth-OBL 3pl take-roast-TEL-INCH-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "S/G/P",
+      "spatial_domain": "ON",
+      "translation_of_example": "(He) caused those who had been placed on the smoking-grid to descend.",
+      "№_as_in_source": 29.0,
+      "page": 401,
+      "glosses": "that jirau-OBL set.on-PERF=PL.OBJ send-send-descend-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "‘The man who is going along the path is eating and gossiping while walking",
+      "№_as_in_source": 41.0,
+      "page": 405
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "ATTACH",
+      "translation_of_example": "They tied (his basket) tightly against the house-pole.",
+      "№_as_in_source": 63.0,
+      "page": 417
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Only look at (i.e., don’t steal) these things, that they’ve left in a house, or put into the water at their roça-side stream",
+      "№_as_in_source": 102.0,
+      "page": 472,
+      "glosses": "that.ITG=also only 2pl see-TEL.IMP house-OBL 3pl lay-NMZ"
+    },
+    {
+      "adposition": "g’od \"inside\"",
+      "flag_on_adposition": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "Inside my son-in-law’s house, you would show yourself thus",
+      "№_as_in_source": 16.0,
+      "page": 478
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL/SUBSTANCE?",
+      "translation_of_example": "The canoes are hitting against each other in the waves.",
+      "№_as_in_source": 45.0,
+      "page": 490,
+      "glosses": "canoe=PL wave-OBL INTRC-fall-be.against.vertical-DYNM"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Having brought my siblings to stay in this land, the land of the Toucan’sBeak Clansmen...",
+      "№_as_in_source": 66.0,
+      "page": 496,
+      "glosses": "1sg.POSS sibling=PL.OBJ this\r\nland-OBL pull-come-stand-SEQ"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "The water is going into my sore.",
+      "№_as_in_source": 94.0,
+      "page": 509,
+      "glosses": "water 1sg.OBJ wound-OBL FACT-enter-DYNM=NONVIS"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "S/P?",
+      "spatial_domain": "GL",
+      "translation_of_example": "In the roça from which you carried wood",
+      "№_as_in_source": 74.0,
+      "page": 545,
+      "glosses": "wood 2sg carry-VENT-PERF-DEP roça-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "to that house we came down river-wards, and crammed into it",
+      "№_as_in_source": 56.0,
+      "page": 605,
+      "glosses": "that house-OBL DST.CNTR 1pl arrive-go.to.water"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "In the future/someday they will live in that house.",
+      "№_as_in_source": 60.0,
+      "page": 606
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "If we lived only by the river, things would not go well for us, they say",
+      "№_as_in_source": 34.0,
+      "page": 619,
+      "glosses": "1pl LOC-DYNM=AGAIN water-OBL only 1pl be-COND"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The person that I believe is living on the river Içana",
+      "№_as_in_source": 137.0,
+      "page": 649,
+      "glosses": "Içana river-OBL be-NONVIS-DEP=MSC"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "In the forest, (long ago, they say), he wandered following (the tapir).’ (txt)",
+      "№_as_in_source": 164.0,
+      "page": 658
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "She broke it up and put it into her basket and went quickly out",
+      "№_as_in_source": 48.0,
+      "page": 680,
+      "glosses": "3sg.POSS basket-EMPH1-OBL break-be.inside-take-pass.go.out-TEL-INCH-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "spatial_domain": "ARG",
+      "translation_of_example": "Here, it’s said, (he) bit the spirit! The alligator bit (him), on the spirit’s rib cage",
+      "№_as_in_source": 3.0,
+      "page": 751,
+      "glosses": "here=REP spirit- OBJ bite-stand-EMPH1-DECL alligator bite-stand-EMPH1-DECL spirit rib.cage-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "ON/SUBSTANCE",
+      "translation_of_example": "‘On the woman’s fish-trap (in the water), the tapir defecated",
+      "№_as_in_source": 5.0,
+      "page": 752,
+      "glosses": "woman POSS fish.trap barricade-OBL=REP tapir defecate-immerse-INFR2-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "They lived here, in this house.",
+      "№_as_in_source": 21.0,
+      "page": 757
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "She served drink to him, in a big cuia! In a cuia this big, it’s said, she served him drink",
+      "№_as_in_source": 28.0,
+      "page": 759
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Uncle, who might speak the best Hup in this village?",
+      "№_as_in_source": 145.0,
+      "page": 789
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "So as for Bone-Son, they say he was born in a cow-trough",
+      "№_as_in_source": 120.0,
+      "page": 848
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I used to live in (the place called) Fish-Dabacuri, where there are no people, in the middle of the forest.",
+      "№_as_in_source": 149.0,
+      "page": 857
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "ARG",
+      "translation_of_example": "They put a spell into the drink, so that they would be (made) senseless.",
+      "№_as_in_source": 157.0,
+      "page": 859,
+      "glosses": "drink-OBL 3pl enchant-DEP RFLX-know-NEG 3pl be-FUT-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Having been at Tat Deh, he’ll go to São José.",
+      "№_as_in_source": 174.0,
+      "page": 864
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "IN",
+      "translation_of_example": "searched (them) out in clumps of roots",
+      "page": 875,
+      "glosses": "root.clump-OBL search.in-PERF-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Having carried them quickly off, at the stream he said, ",
+      "page": 879,
+      "glosses": "dangle-take-pass.go-SEQ=REP water=creek small-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Here in our land,",
+      "page": 881
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "those who go wandering in the forest",
+      "page": 882,
+      "glosses": "that.ITG forest-OBL stand-wander=PL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "the fish, having put them up high on the jirau,",
+      "page": 887,
+      "glosses": "fish=PL.OBJ high jirau-OBL set-SEQ"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL/SUBSTANCE?",
+      "translation_of_example": "she bathed (the child), in the lake.",
+      "page": 892,
+      "glosses": "thus=REP 3sg carry-bathe-DECL lake-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "ARG?",
+      "translation_of_example": "‘They shot (them) with arrows! In the belly, here, in the belly, right here in",
+      "page": 896,
+      "glosses": "belly-OBL here belly-OBL 3pl shoot.arrow-pierce-send-come-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "ARG?",
+      "translation_of_example": "her arm they cut! Here on the fleshy part!",
+      "page": 904,
+      "glosses": "arm=begin here 3sg-OBJ 3sg cut-come-send-INFR2-DECL this round.fleshy.part-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "Are there bombs in your town/country, Pattie",
+      "page": 914
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "In Manaus they really fight a lot",
+      "page": 915
+    },
+    {
+      "nominal_flag": "-Vt",
+      "adposition": "Yəh \"above\"",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "They appear on the surface of the television...",
+      "page": 915
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "bees, the ones that always swarm in the maniwara nests, ",
+      "page": 919
+    },
+    {
+      "nominal_flag": "-Vt",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "I think about how I’m living here in the land of the",
+      "page": 922
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "(She) had already gotten another (child), there, in the belly.",
+      "№_as_in_source": 27.0,
+      "page": 172
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The River Indians live by the river",
+      "№_as_in_source": 145.0,
+      "page": 201,
+      "glosses": "3pl=PL River.Indian=PL water=creek LOC be-DYNM"
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "directional_meaning": "P/G?",
+      "spatial_domain": "GL",
+      "translation_of_example": "Bone-Son left us in the forest (area); this is the way we are supposed to live.",
+      "№_as_in_source": 27.0,
+      "page": 295,
+      "glosses": "bone=son 1pl-OBJ leave-TEL-INCH-DECL forest LOC"
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "(Someone) says River Indians came from the Papuri (River region)... she says someone from over here said so",
+      "№_as_in_source": 62.0,
+      "page": 307,
+      "glosses": "Papuri LOC=REP river.indian=PL 3pl come-DECL"
+    },
+    {
+      "adposition": "hiyóʔ ON.TOP",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "‘The books fell on top of each other.’ (el)",
+      "№_as_in_source": 52.0,
+      "page": 491,
+      "glosses": "book=PL together-on.top.of INTRC-fall-rest.on-DYNM"
+    },
+    {
+      "adposition": "g'od INSIDE",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "The fruit is inside the cuia",
+      "№_as_in_source": 86.0,
+      "page": 467
+    },
+    {
+      "adposition": "g'od INSIDE",
+      "flag_on_adposition": "-an",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "I kicked the ball into the house.",
+      "№_as_in_source": 24.0,
+      "page": 400,
+      "glosses": "1sg ball=FRUIT kick-send-enter-DYNM house inside-OBJ"
+    },
+    {
+      "adposition": "máh NEAR",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "‘Beside the water there was a man who was sitting there fishing’",
+      "№_as_in_source": 90.0,
+      "page": 244,
+      "glosses": "water near"
+    },
+    {
+      "adposition": "máh NEAR",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "The person is warming himself right next to the fire.",
+      "№_as_in_source": 27.0,
+      "page": 675,
+      "glosses": "person fireplace near=DIM=TEL warm-DYNM"
+    },
+    {
+      "adposition": "máh NEAR",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": " her hammock was right next to the fireplace",
+      "page": 887,
+      "glosses": "wood-hole near"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "directional_meaning": "P",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "The cuia is lying under the table",
+      "№_as_in_source": 23.0,
+      "page": 379,
+      "glosses": "table under"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "directional_meaning": "P",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "After being under the canoe for a while, he climbed in again (to stay)’",
+      "№_as_in_source": 98.0,
+      "page": 424,
+      "glosses": "canoe UNDER=TEL stick.against-go.about-see-SEQ=REP 3sg climb-rest.on-stand-DECL"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "directional_meaning": "P",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "Meanwhile beneath her (hammock) apparently there was a big pile of bark.",
+      "№_as_in_source": 91.0,
+      "page": 467,
+      "glosses": "that.ITG=REP 3sg UNDER=INFR.EPIST tree=bark big"
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "extended_uses": "EMPH-TIME",
+      "translation_of_example": "While she went down to the water, (noise of going) until! he paused by the stream.",
+      "№_as_in_source": 140.0,
+      "page": 703,
+      "glosses": "water-take LOC 3sg go.to.river-UNDER IDEO until(EMPH) water=stream-DIR 3sg pause-DECL"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "extended_uses": "SML-CNCS",
+      "translation_of_example": "While she went down to the water, (noise of going) until! he paused by the stream.",
+      "№_as_in_source": 140.0,
+      "page": 703,
+      "glosses": "water-take LOC 3sg go.to.river-UNDER IDEO until(EMPH) water=stream-DIR 3sg pause-DECL"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "While she went down to the water, (noise of going) until! he paused by the stream.",
+      "№_as_in_source": 140.0,
+      "page": 703,
+      "glosses": "water-take LOC 3sg go.to.river-UNDER IDEO until(EMPH) water=stream-DIR 3sg pause-DECL"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "directional_meaning": "G/P?",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "Having sent those off, to the one who came to exist under the caapi thickets, to them I spoke",
+      "page": 917,
+      "glosses": "that-OBJ end-go-SEQ caapi thicket under"
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "extended_uses": "EMPH-PART",
+      "translation_of_example": "You try some yourself!",
+      "№_as_in_source": 114.0,
+      "page": 369,
+      "glosses": "2sg LOC drink-see-IMP"
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "extended_uses": "EMPH-PART",
+      "translation_of_example": "I’ll be the one to get the blame (culpa)",
+      "№_as_in_source": 116.0,
+      "page": 370,
+      "glosses": "1sg LOC-DYNM blame(Pt) be-FUT-DECL"
+    },
+    {
+      "adposition": "cóʔ LOC",
+      "extended_uses": "EMPH-TIME",
+      "translation_of_example": "So, they say, early the next morning he left her and went quickly away",
+      "№_as_in_source": 112.0,
+      "page": 369,
+      "glosses": "that.ITG=REP 3sg-OBJ tomorrow LOC day descend-DYNM 3sg go-lay-pass.go-TEL-INCH-DECL"
+    },
+    {
+      "adposition": "mɨʔ UNDER",
+      "extended_uses": "SMLT-CNCS",
+      "translation_of_example": "Although my brothers were there, I went (back) upstream",
+      "№_as_in_source": 178.0,
+      "page": 866,
+      "glosses": "1sg.POSS sibling=PL 3pl be-UNDER 1sg go.upriver-TEL-DECL"
+    },
+    {
+      "adposition": " hiyóʔ ON",
+      "extended_uses": "FAULT",
+      "translation_of_example": "It’s his fault!",
+      "№_as_in_source": 96.0,
+      "page": 468,
+      "glosses": "3sg.POSS fault that.ITG-DECL"
+    },
+    {
+      "adposition": "hipóʔ APUD",
+      "extended_uses": "ENTIRE",
+      "translation_of_example": "I’ve been writing all my life.",
+      "№_as_in_source": 95.0,
+      "page": 468,
+      "glosses": "1sg=life in.front 1sg write-DECL"
+    },
+    {
+      "adposition": "hipóʔ APUD",
+      "extended_uses": "IN FRONT OF",
+      "translation_of_example": "The ball is in front of the box.",
+      "№_as_in_source": 94.0,
+      "page": 468,
+      "glosses": "ball=FRUIT box in.front lie-DYNM"
+    },
+    {
+      "nominal_flag": "-an",
+      "extended_uses": "ADV CLAUSE",
+      "translation_of_example": "In the water, where he was swimming, it’s said, he broke wind",
+      "№_as_in_source": 72.0,
+      "page": 183,
+      "glosses": "water in.water-DIR=REP 3sg bathe-DIR=REP 3sg break.wind-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "COMITATIVE",
+      "translation_of_example": "I lived with my father",
+      "№_as_in_source": 77.0,
+      "page": 185,
+      "glosses": "1sg=father-OBL 1sg be-PERF-INFR2-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "INSTRUMENT",
+      "translation_of_example": "They would stop it up again with mud, the water tree",
+      "№_as_in_source": 81.0,
+      "page": 186,
+      "glosses": "mud-OBL DIST 3pl close-INFR2-DECL water=tree-DECL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "inanimate actor of a reflexive (passive) construction",
+      "translation_of_example": "The deer was crushed by the tree (that fell in the wind)",
+      "№_as_in_source": 99.0,
+      "page": 190,
+      "glosses": "deer RFLX=kill-DYNM tree-OBL"
+    },
+    {
+      "nominal_flag": "-Vt",
+      "extended_uses": "ADV CLAUSE",
+      "translation_of_example": "When the River Indians speak to me, I always speak (Tukano)",
+      "№_as_in_source": 100.0,
+      "page": 190,
+      "glosses": "River.Indian=PL1sg.OBJ 3pl speak-OBL 1sg speak-HAB-DECL"
+    }
+  ]
+}

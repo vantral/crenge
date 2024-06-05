@@ -1,0 +1,1017 @@
+{
+  "language": "Mapudungun",
+  "citation": "Smeets, Ineke. A Grammar of Mapuche: M - Sn, Berlin, Boston: De Gruyter Mouton, 2008. https://doi.org/10.1515/9783110211795",
+  "data": [
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "instrument",
+      "translation_of_example": "I threatened him with a knife",
+      "№_as_in_source": 5.0,
+      "page": 62.0,
+      "glosses": "threaten-tr-edo-ind1s knife-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "instrument/argument",
+      "translation_of_example": "her eyes are full of tears",
+      "№_as_in_source": 6.0,
+      "page": 62.0,
+      "glosses": "become.full-st-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "idk",
+      "translation_of_example": "he lives of borrowing",
+      "№_as_in_source": 7.0,
+      "page": 62.0,
+      "glosses": "lend-tr-pvn-inst get.life-st-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "there they danced for a long time",
+      "№_as_in_source": 8.0,
+      "page": 62.0,
+      "glosses": "that-inst dance-ind-3ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "I stayed at my brothers",
+      "№_as_in_source": 9.0,
+      "page": 62.0,
+      "glosses": "stay-loc-ind1s brother-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "SOURCE",
+      "spatial_domain": "GL",
+      "translation_of_example": "we used to make a cable from one town to another",
+      "№_as_in_source": 10.0,
+      "page": 62.0,
+      "glosses": "make-cf-ipd-ind-1ns-p one town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "we used to make a cable from one town to another",
+      "№_as_in_source": 10.0,
+      "page": 62.0,
+      "glosses": "make-cf-ipd-ind-1ns-p other town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "SOURCE",
+      "spatial_domain": "ON",
+      "translation_of_example": "I fell backward from the chair",
+      "№_as_in_source": 11.0,
+      "page": 62.0,
+      "glosses": "fall.backward-leave/go.out-ind1s the chair-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "partitive",
+      "translation_of_example": "this stands apart from the others/this stands apart among others",
+      "№_as_in_source": 12.0,
+      "page": 62.0,
+      "glosses": "separate-st-ind-3 other-distr-svn-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "he will go to town",
+      "№_as_in_source": 13.0,
+      "page": 62.0,
+      "glosses": "go-nrld-ind-3 town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "he is at the back",
+      "№_as_in_source": 15.0,
+      "page": 63.0,
+      "glosses": "back-inst be-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "temporal",
+      "translation_of_example": "i have been ill for three days",
+      "№_as_in_source": 17.0,
+      "page": 63.0,
+      "glosses": "three day-inst illness-ipd-ind1s"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "temporal",
+      "translation_of_example": "i left three days ago/i left three days later",
+      "№_as_in_source": 18.0,
+      "page": 63.0,
+      "glosses": "three day-inst leave-ind1s"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "temporal",
+      "translation_of_example": "i will leave in three days/i will leave three days later",
+      "№_as_in_source": 19.0,
+      "page": 63.0,
+      "glosses": "three day-inst leave-nrld-ind1s"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "cause",
+      "translation_of_example": "you could catch a cold in view of the cold",
+      "№_as_in_source": 20.0,
+      "page": 63.0,
+      "glosses": "catch.a.cold-nrld-ipd-ind-2-s cold-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "standard of comparison",
+      "translation_of_example": "rude is younger than me",
+      "№_as_in_source": 23.0,
+      "page": 64.0,
+      "glosses": "i-inst next-pvn"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "partitive",
+      "translation_of_example": "the topmost of all",
+      "№_as_in_source": 25.0,
+      "page": 64.0,
+      "glosses": "quite-all-inst top-st-svn"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "circumstances (author's term)",
+      "translation_of_example": "they lived in fear",
+      "№_as_in_source": 28.0,
+      "page": 64.0,
+      "glosses": "fear-pvn-inst be-cf-ipd-ind-3ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "i overhear him",
+      "№_as_in_source": 30.0,
+      "page": 65.0,
+      "glosses": "hear-tr-st-ind1s he-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "argument (addressee)",
+      "translation_of_example": "tell him",
+      "№_as_in_source": 32.0,
+      "page": 65.0,
+      "glosses": "speak-imp-2s he-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "he would entrust the baby to his friend",
+      "№_as_in_source": 34.0,
+      "page": 65.0,
+      "glosses": "entrust-cf-ipd-ind-3 poss3 coll friend-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "idk",
+      "translation_of_example": "i feel like having a beer",
+      "№_as_in_source": 36.0,
+      "page": 65.0,
+      "glosses": "feel.like-st-ind1s beer-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "argument",
+      "translation_of_example": "i am thinking of him",
+      "№_as_in_source": 38.0,
+      "page": 65.0,
+      "glosses": "think-st-ind1s he-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "he is upstairs in the house",
+      "№_as_in_source": 58.0,
+      "page": 68.0,
+      "glosses": "above-st-ind-3 house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "price",
+      "translation_of_example": "i bought it for this much",
+      "№_as_in_source": 63.0,
+      "page": 69.0,
+      "glosses": "this.much-verb-pvn-inst buy-ind1s"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "in which street have you been exactly?",
+      "№_as_in_source": 10.0,
+      "page": 75.0,
+      "glosses": "which street-inst be-th-ind-2-s"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "in a river there is fresh water, but the sea has salt water",
+      "№_as_in_source": 21.0,
+      "page": 77.0,
+      "glosses": "river-inst be-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "SOURCE",
+      "spatial_domain": "IN",
+      "translation_of_example": "you must not go out of the house until i come back",
+      "№_as_in_source": 22.0,
+      "page": 77.0,
+      "glosses": "go.out-neg-nrld-ind-2-s house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "they carried in a sack",
+      "№_as_in_source": 13.0,
+      "page": 81.0,
+      "glosses": "carry-cf-ipd-ind-3 one sack-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "here is where we work",
+      "№_as_in_source": 12.0,
+      "page": 85.0,
+      "glosses": "that-this-inst be-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "in this house they suffer a lot",
+      "№_as_in_source": 30.0,
+      "page": 89.0,
+      "glosses": "that-the-adj house-inst very illness-fac-ref-loc-cf-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "i am in between [of them]",
+      "№_as_in_source": 31.0,
+      "page": 90.0,
+      "glosses": "middle-inst the be-ind1s"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "and there, they sat down",
+      "№_as_in_source": 44.0,
+      "page": 91.0,
+      "glosses": "that-inst the sit.down-pfps-ref-loc-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "therefore, for this reason, you know, we are back here on this plot",
+      "№_as_in_source": 45.0,
+      "page": 91.0,
+      "glosses": "be-hh-re-ind-1ns-p that-this-adj field-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "there [is] the place where i work",
+      "№_as_in_source": 58.0,
+      "page": 93.0,
+      "glosses": "that-the-inst poss1s work-px-cf-ivn"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN/GL",
+      "translation_of_example": "he used to have his own school, in his own house",
+      "№_as_in_source": 11.0,
+      "page": 99.0,
+      "glosses": "have-cf-ipd-ind-3 self poss3 house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "he/she is not in his/her house",
+      "№_as_in_source": 5.0,
+      "page": 104.0,
+      "glosses": "he/she be-neg-ind-3 he/she poss3 house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "we used to sleep in a haystack",
+      "№_as_in_source": 2.0,
+      "page": 109.0,
+      "glosses": "sleep-verb-cf-ipd-ind-1ns-p reed-gr-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "he used to go to church every sunday",
+      "№_as_in_source": 7.0,
+      "page": 110.0,
+      "glosses": "go-cf-ipd-ind-3 ex church-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "because he himself wanted to go to town",
+      "№_as_in_source": 84.0,
+      "page": 197.0,
+      "glosses": "go-pvn town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "he used to be kept hidden by her, i am told, in a wooden place, where there are rather many birds",
+      "№_as_in_source": 87.0,
+      "page": 197.0,
+      "glosses": "hide-ca-cf-rep-ipd.ido-ind-3-ds wood-gr-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "every time she goes to her family, she takes presents",
+      "№_as_in_source": 163.0,
+      "page": 209.0,
+      "glosses": "go-cf-ivn poss3 family-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "when one who had made a complaint came back home, he would look there for all kinds of things to bring to these rich [people]",
+      "№_as_in_source": 241.0,
+      "page": 224.0,
+      "glosses": "arrive-re-cf-ivn house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "all the people who had been at this funeral went back home taking [food with them]",
+      "№_as_in_source": 242.0,
+      "page": 224.0,
+      "glosses": "be-csvn this-adj funeral-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "all the people who had been at this funeral went back home taking [food with them]",
+      "№_as_in_source": 242.0,
+      "page": 224.0,
+      "glosses": "go-carry-re-ind-3ns-p poss3 house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "comitative",
+      "translation_of_example": "people used to work each with a great number of oxen",
+      "№_as_in_source": 21.0,
+      "page": 112.0,
+      "glosses": "much-distr-verb-pvn ox-inst work-cf-ipd-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "i wanted to live in this house so badly",
+      "№_as_in_source": 3.0,
+      "page": 231.0,
+      "glosses": "be-nrld.ovn this-adj house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "SOURCE",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "I would go out to find work again. [With] that money, which I would earn from those rich people, I would earn my books and things. That way I used to study in my country",
+      "№_as_in_source": 11.0,
+      "page": 232.0,
+      "glosses": "earn-cf-ipd.ovn the the coll rich-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "I would go out to find work again. [With] that money, which I would earn from those rich people, I would earn my books and things. That way I used to study in my country",
+      "№_as_in_source": 11.0,
+      "page": 232.0,
+      "glosses": "inscription-verb-cf-ipd-ind1s the the-poss1s land-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "he should have gone to church but he didn't",
+      "№_as_in_source": 14.0,
+      "page": 233.0,
+      "glosses": "church-inst go-force-ipd-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "idk",
+      "spatial_domain": "idk",
+      "translation_of_example": "if this fits in there, then it will work fine",
+      "№_as_in_source": 9.0,
+      "page": 236.0,
+      "glosses": "fit-cond-3 that.over.there-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "he must be crazy to go out in such weather",
+      "№_as_in_source": 18.0,
+      "page": 238.0,
+      "glosses": "go.out-nbld.ovn such sun/weather-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "transport",
+      "translation_of_example": "it is impossible to go on a horse",
+      "№_as_in_source": 31.0,
+      "page": 240.0,
+      "glosses": "go-pvn horse-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PATH",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "he must be crazy , that one. he went through all that rain",
+      "№_as_in_source": 3.0,
+      "page": 247.0,
+      "glosses": "go-cross-th-ind-3 that.much rain-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "idk",
+      "translation_of_example": "I used to meet you here",
+      "№_as_in_source": 4.0,
+      "page": 252.0,
+      "glosses": "this-inst see-cf-ido-ind-1ns-d-ds"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "the man who walked round in town every day has died",
+      "№_as_in_source": 11.0,
+      "page": 253.0,
+      "glosses": "walk.round-cf-ipd-svn-adj town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "IN",
+      "translation_of_example": "i looked in my house to see if my cat was still there or not",
+      "№_as_in_source": 10.0,
+      "page": 256.0,
+      "glosses": "watch-ind1s poss1s house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "come and meet me at the station",
+      "№_as_in_source": 1.0,
+      "page": 257.0,
+      "glosses": "meet-hh-nrld-ido-ind1s-ds station-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "meet me there at the station",
+      "№_as_in_source": 7.0,
+      "page": 258.0,
+      "glosses": "meet-loc-nrld-ido-ind1s-ds station-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "is there water left in the kettle?",
+      "№_as_in_source": 1.0,
+      "page": 260.0,
+      "glosses": "be-ps-ind-3 kettle-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "abstract",
+      "translation_of_example": "i insist on this matter (lit.: I have sat myselft down in this matter)",
+      "№_as_in_source": 13.0,
+      "page": 291.0,
+      "glosses": "sit.down-ca-ref-st-ind1s matter-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "IN/ON",
+      "translation_of_example": "I dropped you in your chair",
+      "№_as_in_source": 1.0,
+      "page": 299.0,
+      "glosses": "drop-go.down-ca-ido-ind-1ns-d-ds poss2s chair-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "IN/ON",
+      "translation_of_example": "i got dust in my eye",
+      "№_as_in_source": 8.0,
+      "page": 302.0,
+      "glosses": "enter-exp-ind1s poss1s eye-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "I came across a friend at the station",
+      "№_as_in_source": 22.0,
+      "page": 304.0,
+      "glosses": "meet-oo-ind1s station-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE/GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "I went to meet a friend at the station",
+      "№_as_in_source": 23.0,
+      "page": 304.0,
+      "glosses": "meet-th-ind1s station-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL?",
+      "translation_of_example": "I put the suitcase closer to the bed",
+      "№_as_in_source": 5.0,
+      "page": 316.0,
+      "glosses": "near-ca-put.at-edo-ind1s bed-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL/ON",
+      "translation_of_example": "this way we are not crowded together on a rather small piece of land",
+      "№_as_in_source": 11.0,
+      "page": 322.0,
+      "glosses": "land-inst heap-st-neg-ind-1ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "will you go to town this afternoon?",
+      "№_as_in_source": 27.0,
+      "page": 332.0,
+      "glosses": "go-nrld-svn town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "and therefor they used to hire themselves out, as it were, to their rich bosses",
+      "№_as_in_source": 78.0,
+      "page": 340.0,
+      "glosses": "sell-ref-cf-ipd-ind-3 the-poss3 coll rich-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "I put wood on the fire",
+      "№_as_in_source": 29.0,
+      "page": 351.0,
+      "glosses": "light-put.at-edo-ind1s fire-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "they go out at night to inflict illness on the neigbours",
+      "№_as_in_source": 34.0,
+      "page": 352.0,
+      "glosses": "give-sickness-nrld-svn coll neighbour-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "I went to town to buy bread so that you would not be hungry any more",
+      "№_as_in_source": 36.0,
+      "page": 352.0,
+      "glosses": "go-ind1s town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "they used to have all kinds of things on their farms so that their labourers did not have to go out in order to go to town",
+      "№_as_in_source": 51.0,
+      "page": 355.0,
+      "glosses": "have-cf-ipd-ind-3 farm-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "they used to have all kinds of things on their farms so that their labourers did not have to go out in order to go to town",
+      "№_as_in_source": 51.0,
+      "page": 355.0,
+      "glosses": "go-nrld.ovn town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "APUD",
+      "translation_of_example": "sometimes when they resisted, they were caught and left tied to a tree",
+      "№_as_in_source": 5.0,
+      "page": 358.0,
+      "glosses": "one tree-inst tie-put.at-pfps-pass-cf-ipd-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PATH",
+      "spatial_domain": "ON/GL",
+      "translation_of_example": "they make them get lost and go astray",
+      "№_as_in_source": 8.0,
+      "page": 359.0,
+      "glosses": "other road-inst go-ca-cf-edo-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "I was bored in my country",
+      "№_as_in_source": 15.0,
+      "page": 359.0,
+      "glosses": "get.bored-ref-ind1s the-poss1s land-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "passivised agent",
+      "translation_of_example": "these flying heads are owned by witches",
+      "№_as_in_source": 11.0,
+      "page": 374.0,
+      "glosses": "have-pvn-verb-ind-3 coll witch-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "ON",
+      "translation_of_example": "every time we found work, we only cut wheat on slopes",
+      "№_as_in_source": 9.0,
+      "page": 379.0,
+      "glosses": "hill-inst cut-wheat-cf-ipd-ind-1ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "SOURCE",
+      "spatial_domain": "GL",
+      "translation_of_example": "whenever I returned from school and arrived back home, I used to help my father and mother there with all kinds of work",
+      "№_as_in_source": 4.0,
+      "page": 381.0,
+      "glosses": "return-th-cf-ivn school-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "whenever I returned from school and arrived back home, I used to help my father and mother there with all kinds of work",
+      "№_as_in_source": 4.0,
+      "page": 381.0,
+      "glosses": "arrive-re-ind1s house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "we used to go back to our houses",
+      "№_as_in_source": 11.0,
+      "page": 382.0,
+      "glosses": "return-recf-ipd-ind-1ns-p poss1p house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "in the big towns we passed through all kinds of work",
+      "№_as_in_source": 16.0,
+      "page": 382.0,
+      "glosses": "big-distr town-inst pass-hh-ind-1ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "abstract",
+      "translation_of_example": "in the big towns we passed through all kinds of work",
+      "№_as_in_source": 16.0,
+      "page": 382.0,
+      "glosses": "all.kind work-inst pass-hh-ind-1ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "some got married in town",
+      "№_as_in_source": 19.0,
+      "page": 383.0,
+      "glosses": "town-inst wife-verb-loc-ind-3ns-p"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "some went back, but to their wife's land",
+      "№_as_in_source": 21.0,
+      "page": 383.0,
+      "glosses": "go.back-ind-3ns-p poss3 wife land-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "a missionary walked around in my reservation",
+      "№_as_in_source": 1.0,
+      "page": 384.0,
+      "glosses": "wander-th-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "ON/GL",
+      "translation_of_example": "He has another house on earth",
+      "№_as_in_source": 9.0,
+      "page": 385.0,
+      "glosses": "land-inst have-ben-edo-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "he was about to come back into town",
+      "№_as_in_source": 30.0,
+      "page": 387.0,
+      "glosses": "come-re-nrld-svn town-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "idk",
+      "spatial_domain": "idk",
+      "translation_of_example": "when he was almost about to fly, he bumped against a fence",
+      "№_as_in_source": 31.0,
+      "page": 387.0,
+      "glosses": "cut-tr-ind-3 one fence-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "so that they would not go back home",
+      "№_as_in_source": 21.0,
+      "page": 391.0,
+      "glosses": "go.back-neg-nrld-ivn poss3 house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "ON/GL",
+      "translation_of_example": "they must build their house on hills",
+      "№_as_in_source": 29.0,
+      "page": 392.0,
+      "glosses": "make-nrld.obn hill-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "they brought them all sort of liquor and they used to bring tobacco to their houses",
+      "№_as_in_source": 34.0,
+      "page": 393.0,
+      "glosses": "bring-cf-ipd.edo-ind-3ns-p poss3 house-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "but the head chiefs in town, who knew everything about this business, told the Mapuche",
+      "№_as_in_source": 47.0,
+      "page": 395.0,
+      "glosses": "town-inst that-say-cf-ipd.edo-ind-3"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "at whatever feast whenever he had become drunk",
+      "№_as_in_source": 33.0,
+      "page": 401.0,
+      "glosses": "what feast-inst-ever finished get.drunk-cf-ivn"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "ON",
+      "translation_of_example": "he also used to go to the hills to have a look at whatever",
+      "№_as_in_source": 38.0,
+      "page": 401.0,
+      "glosses": "go.out-cf-ipd-ind-3 hill-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "when he died there was a very big funeral in our reservation",
+      "№_as_in_source": 41.0,
+      "page": 402.0,
+      "glosses": "be-ind-3 poss1p reservation-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "first, one waited for his son who lived in another town",
+      "№_as_in_source": 43.0,
+      "page": 402.0,
+      "glosses": "town-inst be-loc-svn"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "when the sun had almost set we brought him to the cemetery to bury him",
+      "№_as_in_source": 54.0,
+      "page": 403.0,
+      "glosses": "carry-edo-ind-1ns-p cemetery-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "the midget lives in this cave",
+      "№_as_in_source": 2.0,
+      "page": 415.0,
+      "glosses": "be-ind-3 the cave-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "IN",
+      "translation_of_example": "that finger was taken to the cave and then the midget was made",
+      "№_as_in_source": 7.0,
+      "page": 415.0,
+      "glosses": "carry-pass-ind-3 cave inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "extended_uses_(non-spatials_and_argument-like)": "material",
+      "translation_of_example": "of just one finger only",
+      "№_as_in_source": 8.0,
+      "page": 415.0,
+      "glosses": "finger-hand-inst"
+    },
+    {
+      "nominal_flag": "-mew ~ -mu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "you must go to that house and to that house",
+      "№_as_in_source": 9.0,
+      "page": 415.0,
+      "glosses": "go-nrld-ind-2-s that-adj house-inst"
+    },
+    {
+      "nominal_flag": "(-mew ~ -mu)",
+      "adposition": "wente",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "he is at the house",
+      "glosses": "top house be-ind\r\n-3"
+    },
+    {
+      "adposition": "wente-mu",
+      "directional_meaning": "?",
+      "spatial_domain": "ON",
+      "translation_of_example": "put it on top of the wood"
+    },
+    {
+      "adposition": "wente",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "ON",
+      "translation_of_example": "it is on top of the table"
+    },
+    {
+      "nominal_flag": "(-mew ~ -mu)",
+      "adposition": "mi˜ nche",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "underneath the house there are a lot of mice"
+    },
+    {
+      "nominal_flag": "(-mew ~ -mu)",
+      "adposition": "wif",
+      "directional_meaning": "PATH",
+      "spatial_domain": "APUD",
+      "translation_of_example": "a lot of people walk along the river"
+    },
+    {
+      "adposition": "pu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "IN",
+      "translation_of_example": "I am in town",
+      "glosses": "I be-ind.1s loc town"
+    },
+    {
+      "adposition": "pu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "he landed in a lake",
+      "glosses": "arrive-ind-3 one loc lake"
+    },
+    {
+      "adposition": "pu",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "IN",
+      "translation_of_example": "I threw a bottle of wine into the river",
+      "glosses": "stream-cond-3 only bottle be-ps-px-neg-ind-3"
+    },
+    {
+      "adposition": "wechu-ntu",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "ON",
+      "translation_of_example": "on top of the mountain"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "SOURCE",
+      "spatial_domain": "GL",
+      "translation_of_example": "do you come from Galvarino?"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "in ourp parts such an ag`ed man is no more.",
+      "glosses": "Galvarino side let.be-ref-loc-nrld-ind-2-s part"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "this governor had grown up in ourp region.",
+      "glosses": "that-the-adj governor grown-rep-ind-3 we side"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "ON",
+      "translation_of_example": "one will cry at the head [of the bed], the other at the foot-end, my dear (2×).",
+      "glosses": "other-verb-svn the foot side itj dear"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "to the North"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "GOAL",
+      "spatial_domain": "GL",
+      "translation_of_example": "in the direction of the sea"
+    },
+    {
+      "adposition": "p¨ ul´e",
+      "directional_meaning": "PLACE",
+      "spatial_domain": "GL",
+      "translation_of_example": "at the seaside",
+      "glosses": "sea side"
+    }
+  ]
+}

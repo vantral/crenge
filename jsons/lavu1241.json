@@ -1,0 +1,1518 @@
+{
+  "language": "Lavukaleve",
+  "citation": "Terrill, A. (2003). A Grammar of Lavukaleve. Berlin, New York: De Gruyter Mouton. https://doi.org/10.1515/9783110923964",
+  "data": [
+    {
+      "adposition": "nam TO",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "she didn't show herself to them",
+      "№_as_in_source": "7",
+      "page": 37
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "He took the coconut to the one she had relly meant",
+      "№_as_in_source": "8",
+      "page": 38,
+      "glosses": "3sgfO- in 3sgS- say -sgf be.really -sgf sgfArt"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "When some [of the] people make a fire in the bush in their gardens",
+      "№_as_in_source": "26",
+      "page": 64,
+      "glosses": "people 3plPOSS-some bush-LOC place-LOC fire "
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "ABSTRACT",
+      "translation_of_example": "... the thing was always in my mind",
+      "№_as_in_source": "28",
+      "page": 66,
+      "glosses": "lsgPOSS-mind-LOC thing(f) 3sgfO-SBD-continue"
+    },
+    {
+      "adposition": "nun FROM",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME construction",
+      "translation_of_example": "They took us on foot, on and on and on we went, then we reached Pipisala.",
+      "№_as_in_source": "29",
+      "page": 66
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "Give me a bit",
+      "№_as_in_source": "30",
+      "page": 66,
+      "glosses": "lsgO-in part(f) one.sgf"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME",
+      "translation_of_example": "upon evening coming",
+      "№_as_in_source": "35",
+      "page": 69,
+      "glosses": "evening-LOC 3sgnO-SBD-do-ANT"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "GL",
+      "translation_of_example": "the people just put out their light",
+      "№_as_in_source": "35",
+      "page": 69,
+      "glosses": "door-LOC 3sgfO- 3plS- put.on -ANT"
+    },
+    {
+      "adposition": "ham FOR",
+      "extended_uses_(non-spatials_and_argument-like)": "BEN",
+      "translation_of_example": "take the Holy Communion to them",
+      "№_as_in_source": "44",
+      "page": 72,
+      "glosses": "3plO- for INT food(n) holy 3sgnO-take go"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "n this place, some [two] sisters are living",
+      "№_as_in_source": "63",
+      "page": 80,
+      "glosses": "place 3sgnO-in"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "to there I will go",
+      "№_as_in_source": "63",
+      "page": 80,
+      "glosses": "3sgnO-to there"
+    },
+    {
+      "adposition": "na",
+      "translation_of_example": "cant interpret it maybe skip?",
+      "№_as_in_source": "74",
+      "page": 84
+    },
+    {
+      "adposition": "vulima-n BEHIND",
+      "flag_on_adposition": "n LOC",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME",
+      "translation_of_example": "When [the two men] died, after them, the lives of these chiefs [who we all know] changed",
+      "№_as_in_source": "75",
+      "page": 85,
+      "glosses": "3duPOSS-behind -LOC"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "PURPOSE",
+      "translation_of_example": "Once upon a time, Mafur went up to Fean, in this Kengaraon harbour, to go spear fishing",
+      "№_as_in_source": "77",
+      "page": 86,
+      "glosses": "3sgmO-in  spear(m) 3sgmO- pull -PURP"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Once upon a time, Mafur went up to Fean, in this Kengaraon harbour, to go spear fishing",
+      "№_as_in_source": "77",
+      "page": 86,
+      "glosses": "3sgS- go.up Fean Kengarao-LOC harbour"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "ON",
+      "translation_of_example": "He went out on a tree that was leaning over seawards [lit: on one of these leaning trees],...",
+      "№_as_in_source": "79",
+      "page": 86,
+      "glosses": "stick(f) leaning-sgf SPEC-sgf one.sgf3sgfO- in go.seawards"
+    },
+    {
+      "adposition": "nam TO",
+      "extended_uses_(non-spatials_and_argument-like)": "NEGPOSS",
+      "translation_of_example": "Those before [lit: the then ones] had nothing",
+      "№_as_in_source": "80",
+      "page": 87
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "Especially those who join this mothers' group,...",
+      "№_as_in_source": "83",
+      "page": 88,
+      "glosses": "mother(f) 3sgPOSS-group(n) 3sgnO-in SPEC-pl"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "?",
+      "spatial_domain": "?",
+      "translation_of_example": " then I shine the torch on the last coconut",
+      "№_as_in_source": "85",
+      "page": 88,
+      "glosses": "coconut(n) 3sgS-finish-NOMZR-LOC SPEC-sgn 3sgnO-illuminate-NF"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "in the doorway",
+      "№_as_in_source": "92",
+      "page": 90,
+      "glosses": "door-LOC"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "It went right round Karumulun",
+      "№_as_in_source": "96",
+      "page": 92,
+      "glosses": "Karumulun(f) sgfArt sgfO-in go.seawards go.round EMPH"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "they come to the shore",
+      "№_as_in_source": "99",
+      "page": 93,
+      "glosses": "edge-LOC come-DUR"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Taking it, then she put it in the eye of the coconut",
+      "№_as_in_source": "105",
+      "page": 95,
+      "glosses": "coconut(n) sgnArt 3sgPOSS-eye(n) sgnArt 3sgnO- in 3sgnO- 3sgS- put.on"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": ".I worked on spare parts",
+      "№_as_in_source": "126",
+      "page": 144,
+      "glosses": "spare.parts(pl) 3plO- in 3sgnFOC work(f)"
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "One baby stone sits on top of it",
+      "№_as_in_source": "127",
+      "page": 144,
+      "glosses": "3sgmO-on.top 3sgnFOC stone(f)"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "Go inland to that old man over there",
+      "№_as_in_source": "135",
+      "page": 149,
+      "glosses": "go. inland-DURIMP.sg grandparent-sgm 3sgmO-to"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "RECIPIENT",
+      "translation_of_example": " her giving water to him",
+      "№_as_in_source": "138",
+      "page": 150,
+      "glosses": "3sgmO-in "
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "then upon her giving it [the pana (f)] in a bamboo container",
+      "№_as_in_source": "138",
+      "page": 151,
+      "glosses": "bamboo.water.container(f) sgfArt 3sgfO-in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "They go into the bush.",
+      "№_as_in_source": "140",
+      "page": 151
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "INSTRUMENT",
+      "translation_of_example": "...now they don't [know how to] kill fish with hola poison properly",
+      "№_as_in_source": "141",
+      "page": 151,
+      "glosses": "tree.sp(m) sgmArt 3sgmO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ATTACH",
+      "translation_of_example": "It's that one you tie for the kite [lit: leaf].",
+      "№_as_in_source": "142",
+      "page": 151,
+      "glosses": "leaf(n) sgnArt 3sgnO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "you brother did such and such to me",
+      "№_as_in_source": "143",
+      "page": 152,
+      "glosses": "lsg lsgO-in do 3sgS- HAB"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "We want to] come back again to you",
+      "№_as_in_source": "144",
+      "page": 152
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "The two are there. At the river.",
+      "№_as_in_source": "145",
+      "page": 152,
+      "glosses": "river sgmArt 3sgmO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "PURPOSE",
+      "translation_of_example": "He asked them \"For what [i.e. why] have you come like this?",
+      "№_as_in_source": "146",
+      "page": 153
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "MATERIAL",
+      "translation_of_example": "The house is made from sago",
+      "№_as_in_source": "147",
+      "page": 153
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "INSTRUMENT",
+      "translation_of_example": "Having put a rubber thong round her teeth, they tied her up with rope..",
+      "№_as_in_source": "148",
+      "page": 153
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "go down to the two [girls].'",
+      "№_as_in_source": "149",
+      "page": 153,
+      "glosses": "3duS-go.down other,NTRL.duf 3dufO-to"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "nd stayed, at the river",
+      "№_as_in_source": "151",
+      "page": 154,
+      "glosses": "river sgmArt 3sgmO-to"
+    },
+    {
+      "adposition": "namula FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "from you [come] all holy desires",
+      "№_as_in_source": "153",
+      "page": 155,
+      "glosses": "2sg 2sg- from 3sgnFOC"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME",
+      "translation_of_example": "When letters came from big places [i.e. overseas] [I] carried them",
+      "№_as_in_source": "154",
+      "page": 155,
+      "glosses": "time(m) 3sgmO-in"
+    },
+    {
+      "adposition": "namula FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "When letters came from big places [i.e. overseas] [I] carried them",
+      "№_as_in_source": "154",
+      "page": 155,
+      "glosses": "in village(n) big 3sgnO-from"
+    },
+    {
+      "adposition": "hal ABOVE",
+      "directional_meaning": "P",
+      "spatial_domain": "ABOVE",
+      "translation_of_example": "clouds are above the mountain",
+      "№_as_in_source": "155",
+      "page": 156,
+      "glosses": "mountain(f)sgfArt 3sgfO-above"
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "we were sitting down on the wharf, as a group",
+      "№_as_in_source": "157",
+      "page": 156,
+      "glosses": "wharf(f) 3sgfO-on.top"
+    },
+    {
+      "adposition": "umu UNDERNEATH",
+      "directional_meaning": "P/G",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "First I put a bomil leaf underneath, and on top one simiu leaf.",
+      "№_as_in_source": "158",
+      "page": 156,
+      "glosses": "leaf sgnArt under 3sgnO-put.on"
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P/G",
+      "spatial_domain": "ON",
+      "translation_of_example": "First I put a bomil leaf underneath, and on top one simiu leaf.",
+      "№_as_in_source": "158",
+      "page": 156,
+      "glosses": "3sgnO-on.top red.leaf (f) one.sgf"
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "...he stood up on the reef, he didn't stand up quickl",
+      "№_as_in_source": "159",
+      "page": 156,
+      "glosses": "reef(m) 3sgmO- on.top"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "?",
+      "translation_of_example": "...keep us from all troubles and dangers of this night, through Jesus Christ our Lord. Amen.' (Barua nd.)",
+      "№_as_in_source": "168",
+      "page": 159,
+      "glosses": "all thing(f) be.bad and dangers evening(n) MOD.PROX.sgn 3sgnO-in continue-fut-sgf sgfArt 3sgfO-in  Jesus Christ(m) lpl.ex-Lord(m) sgmArt 3sgmO- because amen "
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "We went down to the town ",
+      "№_as_in_source": "172",
+      "page": 160,
+      "glosses": "town(f) sgfArt 3sgfO- to"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "adposition": "nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "We went down to the town like people who've come out from the bush",
+      "№_as_in_source": "172",
+      "page": 160,
+      "glosses": "bush-LOC from"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "Those people who are going walking through the bush, go out from the line\" he said",
+      "№_as_in_source": "179",
+      "page": 165,
+      "glosses": "line sgfArt  3sgfO-in"
+    },
+    {
+      "nominal_flag": "ne PERL",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "Those people who are going walking through the bush, go out from the line\" he said",
+      "№_as_in_source": "179",
+      "page": 165,
+      "glosses": "bush-perl walk-nf-bush"
+    },
+    {
+      "nominal_flag": "ne PERL",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "When a truck came it just went along a side of a road",
+      "№_as_in_source": "181",
+      "page": 165,
+      "glosses": " side -PERL 3sgP0SS- only"
+    },
+    {
+      "nominal_flag": "ne PERL",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "He would go alongside of her, then turn and go a different way.'",
+      "№_as_in_source": "180",
+      "page": 165,
+      "glosses": "3sgP0SS-side-PERL just go.round-NF"
+    },
+    {
+      "nominal_flag": "ne PERL",
+      "directional_meaning": "PATH",
+      "spatial_domain": "GL",
+      "translation_of_example": "He would go alongside of her, then turn and go a different way.'",
+      "№_as_in_source": "180",
+      "page": 165,
+      "glosses": " different.place-PERL go"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "They went down and got to Giant's Foot (place name)..",
+      "№_as_in_source": "184",
+      "page": 166,
+      "glosses": "giant's  foot(n) 3sgnO- to"
+    },
+    {
+      "adposition": "nam nun TO FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "[Coming] from Isabel, they asked the devil or god...",
+      "№_as_in_source": "185",
+      "page": 167,
+      "glosses": "Isabel(m) 3sgmO-at from"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "adposition": "nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "They dug a hole from their house going underground inland ",
+      "№_as_in_source": "186",
+      "page": 167,
+      "glosses": "3duPOSS-house-LOC from"
+    },
+    {
+      "adposition": "nam nun TO FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "IN",
+      "translation_of_example": "Then a lizard standing up emerged from in a hole in the ngali nut tree, and he saw him",
+      "№_as_in_source": "188",
+      "page": 167,
+      "glosses": "3sgPOSS- hole(m) 3sgmO-to from"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "It was from there, they took us on the Charles Fox (a ship) to Vera Naaso and dropped us [back home]",
+      "№_as_in_source": "189",
+      "page": 168,
+      "glosses": "ship.name (n) 3sgnO- in"
+    },
+    {
+      "adposition": "nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "It was from there",
+      "№_as_in_source": "189",
+      "page": 168,
+      "glosses": "there-PSNV from"
+    },
+    {
+      "adposition": "nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "It went out from way over there at Selwyn [College",
+      "№_as_in_source": "190",
+      "page": 168,
+      "glosses": "Selwyn there.UNSP from"
+    },
+    {
+      "adposition": "nun FROM",
+      "extended_uses_(non-spatials_and_argument-like)": "TIME",
+      "translation_of_example": "Then during the evening we go up, we go round to the weathercoast",
+      "№_as_in_source": "191",
+      "page": 168,
+      "glosses": "evening from"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "DURING",
+      "translation_of_example": "From a young boy [lit: during boyhood], I first went to school..",
+      "№_as_in_source": "192",
+      "page": 168,
+      "glosses": "boy from"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "You two go to the other side where you tied them up",
+      "№_as_in_source": "193",
+      "page": 171,
+      "glosses": "tie-sgn sgnArt 3sgnO-in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "You two go to the other side where you tied them up",
+      "№_as_in_source": "193",
+      "page": 171,
+      "glosses": "side(n) one.sgn 3sgnO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "She gave it to him, but he didn't want to eat that nut pudding",
+      "№_as_in_source": "213",
+      "page": 178,
+      "glosses": "3sgmO- in 3sgnO- 3sgS- give -ANT"
+    },
+    {
+      "nominal_flag": "n LOC",
+      "extended_uses_(non-spatials_and_argument-like)": "?",
+      "translation_of_example": "She gave it to him, but he didn't want to eat that nut pudding",
+      "№_as_in_source": "213",
+      "page": 178,
+      "glosses": "just 3sgPOSS-hate -LOC"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "then walk around and tie it up all over the place in those different rooms",
+      "№_as_in_source": "215",
+      "page": 178,
+      "glosses": "room-pl different-pl MOD.NTRL.pl 3plO- in"
+    },
+    {
+      "adposition": "nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "It floated from over there in the east",
+      "№_as_in_source": "242",
+      "page": 192,
+      "glosses": "there.DIST from"
+    },
+    {
+      "adposition": "nam nun TO FROM",
+      "directional_meaning": "P/S",
+      "spatial_domain": "GL",
+      "translation_of_example": "(Where is that canoe from?) \"From that island far away!",
+      "№_as_in_source": "247",
+      "page": 193,
+      "glosses": "mod.dist.sgn 3sgnO-to from"
+    },
+    {
+      "adposition": "kelei-n NEAR",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "They're close to us. These [ones] are close",
+      "№_as_in_source": "253",
+      "page": 195,
+      "glosses": "pn.prox.pl 1pl.in-near-LOC"
+    },
+    {
+      "adposition": "uke NEAR",
+      "translation_of_example": "These [ones] are close\"",
+      "№_as_in_source": "253",
+      "page": 195,
+      "glosses": "near exist-pl"
+    },
+    {
+      "flag_on_adposition": "ne -PERL",
+      "translation_of_example": "They go inland through the bush",
+      "№_as_in_source": "265",
+      "page": 198,
+      "glosses": "go. inland bush -PERL"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSENSE",
+      "translation_of_example": "but the leaf they call fafanem, there wasn't any.",
+      "№_as_in_source": "257",
+      "page": 196,
+      "glosses": "PN.NTRL.sgn 3sgfO- parcel(m) there leaf(n) 3sgmO-in  leaf.sp(m) do/say 3plS-HAB -sgm sgmArt there no"
+    },
+    {
+      "adposition": "na lai-n ON.TOP",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "Then right on top of it [the rock] there is one skull",
+      "№_as_in_source": "260",
+      "page": 197,
+      "glosses": "3sgmO-in top-LOC"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "At that time, we [in our group] were seven in number.",
+      "№_as_in_source": "271",
+      "page": 201,
+      "glosses": "time(m) MOD.PROX.sgm-psnv-m/n 3sgmO- in"
+    },
+    {
+      "adposition": "foto-n MIDDLE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "GL",
+      "translation_of_example": "She goes way down there, then she comes up, in the middle of the canoes.",
+      "№_as_in_source": "275",
+      "page": 202,
+      "glosses": "canoes plArt 3plpossO-middle-LOC"
+    },
+    {
+      "adposition": "koli-n INTERIOR",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "From there I came straight here in a canoe",
+      "№_as_in_source": "276",
+      "page": 202,
+      "glosses": "canoe(n) 3sgPOSS- interior -LOC"
+    },
+    {
+      "adposition": "nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": " if you come from far away, from Australia",
+      "№_as_in_source": "277",
+      "page": 203,
+      "glosses": "Australia from"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I'd go to one [office (f), as a security guard]",
+      "№_as_in_source": "283",
+      "page": 206,
+      "glosses": "one.sgf 3sgfO-to arrive "
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "[She] told the sea eagle to go to one island",
+      "№_as_in_source": "284",
+      "page": 206,
+      "glosses": "island(n) one.sgn 3sgnO- in"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "They would put out the money on each of the tables in turn like that.'",
+      "№_as_in_source": "285",
+      "page": 206,
+      "glosses": "um table -pi plArt 3plPOSS- chance -LOC  then -PSNV  money(m) 3sgmO-put.on"
+    },
+    {
+      "adposition": "fot MIDDLE na",
+      "directional_meaning": "P/S",
+      "spatial_domain": "GL",
+      "translation_of_example": "In between Malaita and Isabel, it was there that the cyclone came from",
+      "№_as_in_source": "291",
+      "page": 209,
+      "glosses": "3plPOSS-middle(n) 3sgO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "THEME?",
+      "translation_of_example": "Every day our mother is always talking like that about that distant island",
+      "№_as_in_source": "295",
+      "page": 210,
+      "glosses": "island(n) MOD.DIST-sgn.PSNV 3sgnO-in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "an ancestor of the same name] had lived on that island before",
+      "№_as_in_source": "296",
+      "page": 210,
+      "glosses": "island(n) MOD.NTRL.sgn 3sgnO- in"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "Ί (m) don't want to say that bit.",
+      "№_as_in_source": "309",
+      "page": 215,
+      "glosses": "1sgposs-hate -LOC"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "there were woman at the red cross",
+      "№_as_in_source": "311",
+      "page": 215,
+      "glosses": "Red.Cross(n)3sgnO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "It's this one I'll talk about",
+      "№_as_in_source": "314",
+      "page": 217,
+      "glosses": "then MOD.PROX.sgm-PSNV -m/n 3sgmO- in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "INSTRUMENT",
+      "translation_of_example": " I will hammer them. With nails.",
+      "№_as_in_source": "325",
+      "page": 225,
+      "glosses": "nails(pl) 3plO- in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "she gave the food to her husband",
+      "№_as_in_source": "333",
+      "page": 228,
+      "glosses": "3sgPOSS-husband(m)sgmArt 3sgmO- in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "... you will show the coconut to her",
+      "№_as_in_source": "335",
+      "page": 229,
+      "glosses": "3sgf-in coconut 3sgnArt 3sgO-2sgS-show -FUT"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "They go seawards to their mother",
+      "№_as_in_source": "341",
+      "page": 232,
+      "glosses": "3duPOSS-mother(f) agfArt 3sgfO-to  3duS-go.seawards"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": " pull it [the canoe] straight out seawards to the village.",
+      "№_as_in_source": "342",
+      "page": 232,
+      "glosses": "go.seawards village-LOC"
+    },
+    {
+      "adposition": "na lai-n ON.TOP",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "ON",
+      "translation_of_example": "they go up on top of sharp rocks",
+      "№_as_in_source": "353",
+      "page": 238,
+      "glosses": "sharp.rocks(pl) 3plO-in top-LOC there.dist go.up be.on.top-pl"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "He went inland and talked to the stones [i.e. gravestones]",
+      "№_as_in_source": "359",
+      "page": 240,
+      "glosses": "stones(pl) 3plO- in talking 3sgS-do"
+    },
+    {
+      "adposition": "foto-n MIDDLE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "...they stopped in the middle of the big road.'",
+      "№_as_in_source": "360",
+      "page": 240,
+      "glosses": "road(n) big.sgn 3sgPOSS-middle-LOC stop"
+    },
+    {
+      "adposition": "koli-n INTERIOR",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "the house is inside the fence",
+      "№_as_in_source": "365",
+      "page": 241,
+      "glosses": "house(n) sgnArt fence(m) sgmArt 3sgPOSS-interior -LOC 3sgnFOC  3sgS-exist"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ATTACH",
+      "translation_of_example": "The lamp is hanging from the roof..",
+      "№_as_in_source": "366",
+      "page": 241,
+      "glosses": "lamp(f) sgfArt roof(n) sgnArt 3sgnO- in 3sgnFOC hang -NF 3sgS- exist"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "You (f) will go inside it.'",
+      "№_as_in_source": "375",
+      "page": 246,
+      "glosses": "3sgnO- in go.inside-nf-sgf"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "?",
+      "translation_of_example": "cant interpret it maybe skip?",
+      "№_as_in_source": "377",
+      "page": 247,
+      "glosses": "then time(m) 3sgmO-in war(f) sgfArt finish-PURP 3sgS-say-sgm 3sgmO-in 3sgnFOC REDUP-thing(f) sgfArt all 3sgfO-carry 3sgnFOC 3plS- HAB "
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Ί (f) have never stepped down on the ground",
+      "№_as_in_source": "381",
+      "page": 249,
+      "glosses": "then ground(n) 3sgnO-in go.down stand-NEG-sgf lsgFOC"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "they were floating again [the men] held them. In the canoes",
+      "№_as_in_source": "384",
+      "page": 250,
+      "glosses": "canoes(pl) plArt 3plO- in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "In the place where she was standing",
+      "№_as_in_source": "388",
+      "page": 254,
+      "glosses": "part(f) 3sgfO- in stand -NF 3sgS- continue -sgf sgfArt 3sgfO-in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "They were people from all different islands who came.",
+      "№_as_in_source": "397",
+      "page": 257,
+      "glosses": "different.islands(pl) 3plO- in people(pl)SPEC-pl3plFOC come -pi 3plEFOC"
+    },
+    {
+      "adposition": "gea-n BOTTOM",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "UNDER/BOTTOM",
+      "translation_of_example": "and the boy is hiding in the bottom of the tree",
+      "№_as_in_source": "414",
+      "page": 262,
+      "glosses": "tree(f) one.sgf3sgPOSS-bottom-LOC then hide-sgm"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "S",
+      "spatial_domain": "IN",
+      "translation_of_example": "I drop the anchor from the canoe,",
+      "№_as_in_source": "418",
+      "page": 263,
+      "glosses": "canoe(m) sgmArt 3sgmO-in"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "His thoughts had changed, to come back to his wife. [i.e. he had changed his mind and decided to return to his wife",
+      "№_as_in_source": "419",
+      "page": 263,
+      "glosses": "3sgposs-wife(f) 3sgfO-to"
+    },
+    {
+      "adposition": "na rolo-n INSIDE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "He was right inside the cave.'",
+      "№_as_in_source": "422",
+      "page": 264,
+      "glosses": "cave(m) sgmArt 3sgmO-in inside-LOC LOCEMPH then go.inside-igm"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "then into a small basin, um, she put in the nut pudding.'",
+      "№_as_in_source": "484",
+      "page": 292,
+      "glosses": "basin(f) small -sgf 3sgfO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "they float, staring at the canoe.",
+      "№_as_in_source": "490",
+      "page": 294,
+      "glosses": "float-NF look.on-NF 3sgnFOC 3plS-exist canoe(n) sgnArt 3sgnO-in"
+    },
+    {
+      "adposition": "kelei-n NEAR",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "They're close to us. Close to us.'",
+      "№_as_in_source": "499",
+      "page": 297,
+      "glosses": "PN.PROX.pl lpl.in- near -LOC exist -pl"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "Planes, and cartridges, and cars, everything to do with the war, everything to do with it, urn was inside the hole.",
+      "№_as_in_source": "504",
+      "page": 300,
+      "glosses": "hole(m) sgmArt 3sgmO- in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "upon him looking inside the canoe,",
+      "№_as_in_source": "509",
+      "page": 302,
+      "glosses": "canoe(n) sgnArt 3sgnO-in  3sgmO-SBD- peer.down"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "What [place] did it come out from?",
+      "№_as_in_source": "521",
+      "page": 311,
+      "glosses": "what(m) 3sgmEFOC 3sgmO-in emerge 3sgS-HAB"
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "Janet is lying on a mat",
+      "№_as_in_source": "559",
+      "page": 327,
+      "glosses": "pandanus(f) 3sgfO-on.top lie.down -RE -IMPF"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "He is sitting on a mat (now)",
+      "№_as_in_source": "565",
+      "page": 329,
+      "glosses": "pandanus(f) 3sgfO- in sit -NF 3sgnFOC 3sgS- exist"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "?",
+      "translation_of_example": "cant interpret it maybe skip?",
+      "№_as_in_source": "567",
+      "page": 329
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "[she was] standing on top of the stone, looking out for her husband",
+      "№_as_in_source": "574",
+      "page": 331,
+      "glosses": "stone(f) sgfArt 3sgfO-on.top"
+    },
+    {
+      "adposition": "na nam TO",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "Then she showed herself to them.'",
+      "№_as_in_source": "575",
+      "page": 331,
+      "glosses": "MOD.NTRL.sgn -PSNV 3sgnO-in just 3plO-to ACT 3sgS-appear"
+    },
+    {
+      "flag_on_adposition": "-n LOC",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "in his hat was talking about her",
+      "№_as_in_source": "577",
+      "page": 332,
+      "glosses": "3sgPOSS- hate -LOC"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "He went and went and went, and reached her",
+      "№_as_in_source": "582",
+      "page": 334,
+      "glosses": "3sgfO-to  3sgS-appear"
+    },
+    {
+      "adposition": "na umu UNDER",
+      "directional_meaning": "P",
+      "spatial_domain": "UNDER",
+      "translation_of_example": "Don't sit under the coconut tree.",
+      "№_as_in_source": "589",
+      "page": 337,
+      "glosses": "tabu/holy coconut.tree(n) sgnArt 3sgnO-in under 2sg- sit -ADMON"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Go to Isabel",
+      "№_as_in_source": "599",
+      "page": 341,
+      "glosses": "Isabel 3sgfO- to"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "GL",
+      "translation_of_example": "When they put it out in the sun you will be able to take it",
+      "№_as_in_source": "613",
+      "page": 304,
+      "glosses": "sun(m) 3sgmO- in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "and [we work] in school also teaching the children,... [lit: throwing knowledge to the children]'",
+      "№_as_in_source": "629",
+      "page": 350,
+      "glosses": "children(pl) 3plO-in know-NOMZR 3sgnO-throw -NOMZR"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "He will go down to the lower side of the airfield",
+      "№_as_in_source": "637",
+      "page": 355,
+      "glosses": " go.up plane 3sgPOSS- field(n) sgnArt 3sgnO- to go.down-LOCZR"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "may be made clean from all their sins,",
+      "№_as_in_source": "642",
+      "page": 356,
+      "glosses": "3plPOSS- sin-pl 3plO- in clean-intr"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "I went to a bigger school",
+      "№_as_in_source": "648",
+      "page": 358,
+      "glosses": "be.big-MORE SPEC -sgn one.sgn 3sgnO-in  "
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "GL",
+      "translation_of_example": " make a fire and I sit it down on it, the pot.'",
+      "№_as_in_source": "658",
+      "page": 361,
+      "glosses": "fire(n) sgnArt 3sgnO- throw -NF 3sgnO- in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "HANGING",
+      "translation_of_example": "The clothes are hung [lit: thrown] on the clothesline",
+      "№_as_in_source": "668",
+      "page": 366,
+      "glosses": "cable sgfArt 3sgfO-in"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "?",
+      "translation_of_example": "I see mytself in a mirror",
+      "№_as_in_source": "673",
+      "page": 368,
+      "glosses": "shadow(f) 3sgfO- in lsgPOSS- self lsgO- see 3sgnFOC lsg-HAB"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "INSTRUMENT",
+      "translation_of_example": "I cut myself on a knife",
+      "№_as_in_source": "674",
+      "page": 368,
+      "glosses": "knife(f) 3sgfO- in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "..he goes shorewards to the reef",
+      "№_as_in_source": "695",
+      "page": 376,
+      "glosses": "dry.place(n) 3sgnO-in go.shorewards go.in -sgm"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "GL",
+      "translation_of_example": "and also they always look after the area they live in",
+      "№_as_in_source": "725",
+      "page": 391,
+      "glosses": "part(f) 3sgfO-in"
+    },
+    {
+      "adposition": "na fai-n INSIDE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Upon him [the rat] going inside his [the dog's] ear, then the two go shorewards",
+      "№_as_in_source": "736",
+      "page": 395,
+      "glosses": "3sgmO-in inside-LOC"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Putting on my goggles, taking a string [basket] that I will put the taalea in, I go down.'",
+      "№_as_in_source": "755b",
+      "page": 404,
+      "glosses": "rope(n) 3sgnO-in small.giant.clam(f) 3sgfO- lsgS-put.inside-FUT-sgn"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "she put them in a basket, putting them in, she gave him the food",
+      "№_as_in_source": "782",
+      "page": 418,
+      "glosses": "basket(f) sgfArt  3sgfO- in 3plO- 3sgS- put.inside"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Taking it out and in a basin,",
+      "№_as_in_source": "782",
+      "page": 417,
+      "glosses": "basin(f) sgfArt 3sgfO- in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "IN",
+      "translation_of_example": "Then us all getting into the trucks,",
+      "№_as_in_source": "806",
+      "page": 433,
+      "glosses": "car -PL 3plO-in"
+    },
+    {
+      "adposition": "kelei NEAR",
+      "directional_meaning": "P",
+      "spatial_domain": "APUD",
+      "translation_of_example": "...even if you were not close to the door yet, the door would open.'",
+      "№_as_in_source": "817",
+      "page": 436,
+      "glosses": "door(n) sgnArt  3sgnO- near do-NEG"
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "G",
+      "spatial_domain": "APUD",
+      "translation_of_example": "He went inside to the shelf",
+      "№_as_in_source": "823",
+      "page": 438,
+      "glosses": "go.inside shelf -LOC LOCEMPH"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "The first thing I want to talk about,",
+      "№_as_in_source": "837",
+      "page": 443,
+      "glosses": "thing(f) first 3sgfO- in talking"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "The man who I laughed at had lost his pig",
+      "№_as_in_source": "848",
+      "page": 448,
+      "glosses": "man(m) 3sgmO-in REDUP- laugh -IMPF"
+    },
+    {
+      "adposition": "na nun FROM",
+      "directional_meaning": "S",
+      "spatial_domain": "GL",
+      "translation_of_example": "We didn't know the place where this stone tuna came from",
+      "№_as_in_source": "852",
+      "page": 449,
+      "glosses": "place(n) 3sgnO- in from 3sgS-come -sgn"
+    },
+    {
+      "adposition": "na fai-n INSIDE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "GL?IN?",
+      "translation_of_example": "they are all in the house the two wanted",
+      "№_as_in_source": "854",
+      "page": 449,
+      "glosses": "house(n) 3duS- want -sgn sgnArt 3sgnO-in inside -LOC"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "they went inland to the place where the man had gutted the pig",
+      "№_as_in_source": "856",
+      "page": 450,
+      "glosses": "go.inland -DUR part(f) 3sgfO- in pig(m) sgmArt man(m) sgmArt 3sgmO- 3sgS- gut -sgf sgfAr 3sgfO-to"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "Was it you (m) who was cruel to my mother,",
+      "№_as_in_source": "861",
+      "page": 453,
+      "glosses": "lsgPOSS-mother(f) 3sgfO-in disparagement(m) "
+    },
+    {
+      "nominal_flag": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "He [the dog] doesn't know the rat is inside the dog's ear.",
+      "№_as_in_source": "889",
+      "page": 461,
+      "glosses": "rat(m) dog(m) ear -LOC  3sgS- exist -sgn"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "But nothing shook in it [the boat (m)]",
+      "№_as_in_source": "899",
+      "page": 464,
+      "glosses": "but thing(f) one.sgf -none 3sgmO- in shake -NEG"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "BETWEEN",
+      "translation_of_example": "O n e [old coconut (f)] is on the left - of the two - this one on the right, between two, don't take it'.",
+      "№_as_in_source": "906",
+      "page": 466,
+      "glosses": "two.f 3sgfO-in"
+    },
+    {
+      "adposition": "rarava-n SIDE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Catching him, they tied him up and took him to a river bank.'",
+      "№_as_in_source": "915b",
+      "page": 471,
+      "glosses": "river(m) 3sgPOSS-side-LOC 3sgmO- 3duS- put.on"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P",
+      "spatial_domain": "ON",
+      "translation_of_example": "I draw markings for cutting its belly",
+      "№_as_in_source": "920b",
+      "page": 474,
+      "glosses": "interior(m) sgmArt 3sgmO-in sth.written(f)"
+    },
+    {
+      "adposition": "foto-n MIDDLE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "SUBSTANCE",
+      "translation_of_example": "Turning it around, oh my goodness!, the sago tree falls down in the middle of them all, then...'",
+      "№_as_in_source": "923a",
+      "page": 476,
+      "glosses": "fall/jump other.NTRL.sgn 3plPOSS-middle -LOC fall/jump"
+    },
+    {
+      "adposition": "rolo-n INSIDE",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P",
+      "spatial_domain": "IN",
+      "translation_of_example": "A man giant and a woman giant were living in a cave.'",
+      "№_as_in_source": "927b",
+      "page": 479,
+      "glosses": "cave(m) 3sgPOSSinside-LOC stay-DUR"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "P",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "He went to them, and having slept three days with them, he went back seawards",
+      "№_as_in_source": "927e",
+      "page": 480,
+      "glosses": "3dumO-to sleep-NF"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "He went to them, and having slept three days with them, he went back seawards",
+      "№_as_in_source": "927e'",
+      "page": 480,
+      "glosses": "3dumO-to go-NF"
+    },
+    {
+      "adposition": "koli-n INTERIOR",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "then [they] put them inside their canoe and go shorewards.'",
+      "№_as_in_source": "929a",
+      "page": 482,
+      "glosses": "canoe(n) 3sgPOSS- interior-LOC put.in"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "They went to the village",
+      "№_as_in_source": "jn-039",
+      "page": 497,
+      "glosses": "village sgnArt 3sgnO- to"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "The way they went, one man to one house, ",
+      "№_as_in_source": "jn-040",
+      "page": 497,
+      "glosses": "house one.sgn 3sgnO-in"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "One man went to the house",
+      "№_as_in_source": "jn-052",
+      "page": 500,
+      "glosses": "house sgnArt 3sgnO- to"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "put his hand in a basket",
+      "№_as_in_source": "jn-052'",
+      "page": 500,
+      "glosses": "basket sgnArt 3sgnO-in 3sgPOSS- limb 3sgnO-3sgS- put.inside -PleOT"
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "Let's go inland with it\" they said",
+      "№_as_in_source": "jn-108",
+      "page": 510,
+      "glosses": "3sgmO-in go.inland"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "HUMAN",
+      "translation_of_example": "it reached the man at the top",
+      "№_as_in_source": "jn-132",
+      "page": 515,
+      "glosses": "3sgmO-to "
+    },
+    {
+      "adposition": "na",
+      "extended_uses_(non-spatials_and_argument-like)": "ABSTRACT",
+      "translation_of_example": "...went inland. In the dark",
+      "№_as_in_source": "jn-161",
+      "page": 520,
+      "glosses": "darkness sgfArt 3sgfO-in"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "APUD",
+      "translation_of_example": "They went seawards to his (Tagoila's) canoe",
+      "№_as_in_source": "jt2-027",
+      "page": 526,
+      "glosses": "3sgPOSS-canoe sgnArt sgnO-to"
+    },
+    {
+      "adposition": "nam TO",
+      "extended_uses_(non-spatials_and_argument-like)": "ARG",
+      "translation_of_example": "They hit him in the neck,",
+      "№_as_in_source": "jt2-038",
+      "page": 528,
+      "glosses": "3sgPOSS-neck sgnArt  3sgnO-to"
+    },
+    {
+      "adposition": "koli-n INTERIOR",
+      "flag_on_adposition": "-n LOC",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "and put him upside down in this canoe",
+      "№_as_in_source": "jt2-038'",
+      "page": 528,
+      "glosses": "canoe sgnArt  3sgPOSS-interior-LOC"
+    },
+    {
+      "adposition": "tat ON.TOP",
+      "directional_meaning": "P/G",
+      "spatial_domain": "ON",
+      "translation_of_example": "They laid him down, and covered him with his rice",
+      "№_as_in_source": "jt2-039",
+      "page": 529,
+      "glosses": "3sgmO-on.top 3sg.poss-rice "
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "P/G",
+      "spatial_domain": "IN",
+      "translation_of_example": "They put some seawater in it.",
+      "№_as_in_source": "jt2-040",
+      "page": 529,
+      "glosses": "3sgmO-in"
+    },
+    {
+      "adposition": "nam TO",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "it floated and reached an island",
+      "№_as_in_source": "jt2-041",
+      "page": 529,
+      "glosses": "island one.sgn 3sgnO-to"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "Then, the word went round the village",
+      "№_as_in_source": "jt2-044",
+      "page": 529,
+      "glosses": " village -pi 3plO-in"
+    },
+    {
+      "adposition": "na",
+      "directional_meaning": "G",
+      "spatial_domain": "GL",
+      "translation_of_example": "To that end they walked around",
+      "№_as_in_source": "jt2-049",
+      "page": 530,
+      "glosses": "REDUP- part 3sgfO- in walk-DUR"
+    }
+  ]
+}

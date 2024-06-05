@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapters - Typological Research Project</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="/">Source-Goal Asymmetry</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/sample">Sample</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/chapters">Chapters</a>
+                </li>
+            </ul>
+        </div>
+    </nav>    
+    <div class="container mt-5">
+        <div class="jumbotron text-center bg-neutral-blue text-white">
+            <h1 class="display-4"><b>Source-Goal Asymmetry in the Languages of the World</b></h1>
+            <p class="lead">Chapters on the specific languages studied in this project.</p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Chapters</h2>
+                <ul class="list-group">
+                    <li class="list-group-item"><a href="/chapters/hupd1244">Hup</a></li>
+                    <li class="list-group-item"><a href="/chapters/lavu1241">Lavukaleve</a></li>
+                    <li class="list-group-item"><a href="/chapters/mapu1241">Mapudungun</a></li>
+                    <li class="list-group-item"><a href="/chapters/nucl1622">Marind</a></li>
+                    <li class="list-group-item"><a href="/chapters/trio1238">Trió</a></li>
+                    <li class="list-group-item"><a href="/chapters/finn1318">Finnish</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer class="bg-light text-center text-lg-start mt-4">
+        <div class="container p-4">
+            <p class="text-muted">&copy; 2024 Source-Goal Asymmetry in the Languages of the World. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+</html>

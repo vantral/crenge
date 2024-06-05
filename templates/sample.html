@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample - Source-Goal Asymmetry</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <a class="navbar-brand" href="/">Source-Goal Asymmetry</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/sample">Sample</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/chapters">Chapters</a>
+                </li>
+            </ul>
+        </div>
+    </nav>   
+    <div class="container mt-5">
+        <div class="jumbotron text-center bg-neutral-blue text-white">
+            <h1 class="display-4"><b>Sample of Languages</b></h1>
+            <p class="lead">Map of languages and discussion of sampling methods used in the research.</p>
+        </div>
+        <div class="row">
+            <div class="col-md-12 mb-4">
+                <div id="map-container" class="shadow-sm" style="height: 500px;">
+                    <!-- The map will be inserted here -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card mb-4 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">Languages Covered So Far</h5>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">
+                                    <b><a href="/chapters/hupd1244">Hup (hupd1244)</a></b> - Spoken by the Hupdë people in Brazil. This language belongs to the Nadahup family and has around 1500 speakers.
+                                </li>
+                                <li class="list-group-item">
+                                    <b><a href="/chapters/lavu1241">Lavukaleve (lavu1241)</a></b> - A language of the Solomon Islands, part of the Central Solomons language family, with approximately 2000 speakers.
+                                </li>
+                                <li class="list-group-item">
+                                    <b><a href="/chapters/mapu1241">Mapudungun (mapu1241)</a></b> - Spoken by the Mapuche people in Chile and Argentina, this language is part of the Araucanian language family and has about 200,000 speakers.
+                                </li>
+                                <li class="list-group-item">
+                                    <b><a href="/chapters/nucl1622">Marind (nucl1622)</a></b> - A Papuan language spoken by the Marind people in Indonesia, with around 10,000 speakers.
+                                </li>
+                                <li class="list-group-item">
+                                    <b><a href="/chapters/trio1238">Trió (trio1238)</a></b> - A Cariban language spoken by the Trio people in Suriname and Brazil, with about 2000 speakers.
+                                </li>
+                                <li class="list-group-item">
+                                    <b><a href="/chapters/finn1318">Finnish (finn1318)</a></b> - A Uralic language spoken by approximately 5 million people in Finland.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Sample</h5>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <h6>Papunesia</h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <b>Marind (nucl1622)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Kapingamarangi (kapi1249)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Toaripi (toar1246)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Thao (thao1240)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Ida'an (idaa1241)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Kobon (kobo1249)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Pampanga (pamp1243)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Batak (bata1301)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Palauan (pala1344)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Aghu (aghu1255)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Seediq (taro1264)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Yakan (yaka1277)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Itawit (itaw1240)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>South Nuaulu (sout2895)</b>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <h6>South America</h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <b>Mapudungun (mapu1245)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Hup (hupd1244)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Trio (trio1238)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Shipibo-Conibo (ship1254)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Resígaro (resi1247)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Cusco Quechua (cusc1236)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Terena-Kinikinao-Chane (tere1279)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Huambisa (huam1247)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Lavukaleve (lavu1241)</b>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <h6>Eurasia</h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <b>Finnish (finn1318)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>French (stan1290)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>English (stan1293)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Kazym-Berezover-Suryskarer Khanty (khan1273)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Harsusi (hars1241)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Hokkaido Ainu (ainu1240)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Latvian (latv1249)</b>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <h6>North America</h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <b>Sipacapense (sipa1247)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Kalaallisut (kala1399)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Tanacross (tana1290)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Northern Haida (nort2938)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Tlingit (tlin1245)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Eyak (eyak1241)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Central Tarahumara (cent2131)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Lakota (lako1247)</b>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- Africa -->
+                            <div class="col-md-4">
+                                <h6>Africa</h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <b>Adamawa Fulfulde (adam1253)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Ewe (ewee1241)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Pogolo (pogo1243)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Plateau Malagasy (plat1254)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Tamasheq (tama1365)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Male (Ethiopia) (male1284)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Mofu-Gudur (mofu1248)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Nanerigé Sénoufo (nane1238)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Jeli (jeri1242)</b>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- Australia -->
+                            <div class="col-md-4">
+                                <h6>Australia</h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <b>Dhangu (dhan1270)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Warrwa (warr1258)</b>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <b>Ngandi (ngan1295)</b>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-12">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        
+                        <div class="content">
+                            <h3>Sampling Methods</h3>
+                                <div class="github-link">
+                                    <p>
+                                        <i class="fab fa-github github-logo"></i>
+                                        <a href="https://github.com/vantral/genera_and_sampling" target="_blank">View on GitHub</a>
+                                    </p>
+                                </div>
+                            <p><b>Dryer (1989)</b> and <b>Bickel (2008)</b>, among others, proposed methods for creating a probability sample in linguistic studies. <b>Dryer (1989)</b> introduced the concept of "genus" to mitigate genealogical bias. A genus refers to a grouping of languages with a time depth not exceeding 3,500 to 4,000 years <b>(Dryer, 1989)</b>. These genera are considered sufficiently independent to be included in the sample. Another criterion for independence is the distant geographic location of languages. <b>Dryer (1989)</b> argues that so-called Macro-Areas (Africa, Eurasia, Australia + New Guinea, North America, South America) are independent from each other in terms of linguistic properties.</p>
+                            <p>While the methodology involving genera and macroareas may raise questions, the concepts have been employed in other studies dedicated to language sampling. <b>Miestamo et al. (2016)</b> proposed a method for creating a variety sample based on genera and macroareas, following the framework established by <b>Dryer (1989)</b> regarding the relative independence of genera and macroareas. In variety sampling, complete independence is not mandatory. <b>Miestamo et al. (2016)</b> divided the world into six macroareas, with a distinct categorization for Australia and New Guinea. The Genus-Macroarea method involves selecting languages from a macroarea in proportion to the number of genera within that macroarea, aiming to achieve a representative and diverse sample of languages across different geographic and genetic classifications.</p>
+                            <h3>Automatic Sampling</h3>
+                            <p>Since genera are defined on the genealogical basis, it is important to be competent enough for doing it. For now, the only study where genera are systematically annotated is WALS <b>(WALS)</b>. The main problem of WALS is that it is a frozen project and no new languages could be added and consequently receive a genus.</p>
+                            <p>WALS contains 2,662 languages while Glottolog <b>(Hammarstrom et al., 2014)</b> contains 8,604 languages. Thus even if Glottolog is reducable to WALS (which it is not), the maximum coverage of genus annotation would be no more than 30 percent of all languages. This is an important methodological problem. While one can use sampling methods involving genera, they are limited to less than a half languages of the world.</p>
+                            <h4>Automatic Annotation of Genera</h4>
+                            <p>One of our objectives is to enhance the database of languages for which genera are identified. It is worth noting that whether or not one subscribes to the concept of genera from a theoretical standpoint is not crucial. Genera serve as practical tools for assembling a diverse sample.</p>
+                            <p>The approach to extend the number of known genera is straightforward. If we establish that certain languages are classified under the same genus in WALS, then it follows that all languages stemming from their earliest shared ancestor fall within this specific genus. This method provides a simple yet effective means of augmenting our understanding of language diversity.</p>
+                            <p>Initially, it was imperative to transform the data from Glottolog into a machine-readable format while preserving the genealogical information. Subsequently, this data needed to be converted into a tree structure using Python. The next step involved identifying the shared ancestor and assigning all of its descendants to the appropriate genus.</p>
+                            <p>However, this process posed several potential challenges. Firstly, sign languages and creoles needed to be excluded. Although WALS categorizes them under specific genera, Glottolog distributes them differently. Secondly, discrepancies between WALS and Glottolog were encountered. Sometimes, following the algorithm described above resulted in conflicts.</p>
+                            <p>For instance, WALS classifies Khanty, Mansi, and Hungarian under the Ugric genus. However, recent research has demonstrated that this genealogical grouping is not accurate, as common innovations are attributed to extensive language contact instead. Glottolog adopts a newer classification (Figure 1), whereas WALS utilizes the one depicted in Figure 2. Consequently, applying the algorithm would erroneously assign the Ugric genus to all Uralic languages.</p>
+                            <figure>
+                                <figcaption>Figure 1: Glottolog Classification</figcaption>
+                            <div class="directory-tree">
+                                <ul>
+                                    <li>Uralic
+                                        <ul>
+                                            <li>Finnic</li>
+                                            <li>Hungaric
+                                                <ul>
+                                                    <li>Hungarian</li>
+                                                    <li>Old Hungarian</li>
+                                                </ul>
+                                            </li>
+                                            <li>Khantyic
+                                                <ul>
+                                                    <li>East Khanty
+                                                        <ul>
+                                                            <li>Surgut Khanty</li>
+                                                            <li>Vach-Vasjugan</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>Northern Khanty
+                                                        <ul>
+                                                            <li>Kazym-Berezover-Suryskarer Khanty</li>
+                                                            <li>Obdorsk Khanty</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>Southern Khanty</li>
+                                                </ul>
+                                            </li>
+                                            <li>Mansic
+                                                <ul>
+                                                    <li>North-Central Mansi
+                                                        <ul>
+                                                            <li>Central Mansi</li>
+                                                            <li>Northern Mansi</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>Southern Mansi</li>
+                                                </ul>
+                                            </li>
+                                            <li>Mari</li>
+                                            <li>Mordvin</li>
+                                            <li>Permian</li>
+                                            <li>Saami</li>
+                                            <li>Samoyedic</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            </figure>
+                            <figure>
+                                <figcaption>Figure 2: Ugric languages according to WALS</figcaption>
+                                <div class="directory-tree">
+                                    <ul>
+                                        <li>Uralic
+                                            <ul>
+                                                <li>Ugric
+                                                    <ul>
+                                                        <li>Khanty</li>
+                                                        <li>Mansi</li>
+                                                        <li>Hungurian</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </figure>
+                            <p>Given the impossibility of achieving a perfect match between WALS and Glottolog, the decision was made to leave all nodes unchanged if any of their descendants were assigned a different genus by WALS initially.</p>
+                            <p>The proposed method operates independently of genealogical expertise, relying instead on logical principles to yield accurate results, barring errors present in the databases.</p>
+                            <p>Following the initial merging of WALS with Glottolog, only 28.1 percent of languages in Glottolog were annotated with a genus. However, after implementing the algorithm and accounting for isolates not included in WALS, the coverage increased significantly to 75.8 percent. In practical terms, this means that we successfully annotated 6,506 languages from Glottolog with their respective genera.</p>
+                            <h4>Making Sample</h4>
+                            <p>We utilized the Genus-Macroarea sampling method proposed by <b>Miestamo et al. (2016)</b> and automated by <b>Cheveleva (2023)</b>. This method involves selecting a proportional number of languages from each of the six macroareas based on the total number of genera within each macroarea. While <b>Cheveleva (2023)</b> recalculated the proportions for each macroarea using a newer version of WALS, we performed a further recalculation to ensure the most accurate data. The recalculated proportions are detailed in Table 1.</p>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th>Glottolog</th>
+                                        <th>%</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Africa</td>
+                                        <td>131</td>
+                                        <td>18.1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Australia</td>
+                                        <td>44</td>
+                                        <td>6</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Papunesia</td>
+                                        <td>200</td>
+                                        <td>27.7</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Eurasia</td>
+                                        <td>96</td>
+                                        <td>13.3</td>
+                                    </tr>
+                                    <tr>
+                                        <td>North America</td>
+                                        <td>112</td>
+                                        <td>15.5</td>
+                                    </tr>
+                                    <tr>
+                                        <td>South America</td>
+                                        <td>139</td>
+                                        <td>19.3</td>
+                                    </tr>
+                                    <tr>
+                                        <td><b>Total</b></td>
+                                        <td><b>722</b></td>
+                                        <td><b>100</b></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p>Inspired by the methodology proposed by <b>Cheveleva (2023)</b>, we undertook the task of annotating the number of pages for each grammar available for every language. Unlike the previous study, we utilized more comprehensive data and accounted for automatically identified sources. Notably, Glottolog employs an internal algorithm to automatically assess the classification of new items in the bibliography. Items automatically annotated as grammars were excluded from the database compiled by <b>Cheveleva (2023)</b> due to their distinct tag.</p>
+                            <p>Moreover, we made modifications to the automatic sample creation algorithm originally proposed by <b>Cheveleva (2023)</b>. While retaining the concept of automatic suggestion of genera, we introduced a more manual selection process. Our algorithm now suggests genera that warrant closer examination, allowing linguists to make informed decisions regarding language selection. To facilitate this process, we created individual tables for each genus, providing information on the lengths of available grammars and the rationale for assigning each language to a specific genus. In cases where a language was assigned to a genus based on a common ancestor with two other languages, we included details about the common ancestor and the related languages.</p>
+                            <p>Additionally, we implemented lists of prechosen and banned genera to further refine the sampling process. The prechosen genera list enables linguists to select genera based on their personal familiarity or the availability of data. Conversely, the banned genera list allows linguists to exclude genera for which they could not find suitable grammatical descriptions, thereby necessitating a re-sampling of languages.</p>
+                            <p>These modifications have facilitated a more nuanced sampling process, affording greater control over each step of language selection and enhancing the overall quality of the sample.</p>
+
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="bg-light text-center text-lg-start mt-4">
+        <div class="container p-4">
+            <p class="text-muted">&copy; 2024 Source-Goal Asymmetry in the Languages of the World. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="https://kit.fontawesome.com/7d5e6d7016.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+    <!-- Include the Leaflet.js library -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <style>
+        .grey-marker {
+            filter: grayscale(100%) brightness(70%);
+        }
+    </style>
+    <script>
+        // Initialize the map
+        var map = L.map('map-container').setView([20, 0], 2); // Coordinates set to show the whole world
+
+        // Add a tile layer to the map (this is a base layer)
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+        
+        var greyIcon = new L.Icon({
+            iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png',
+            shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
+            iconSize: [18.75, 30.75], // size of the icon
+            iconAnchor: [9.375, 30.75], // point of the icon which will correspond to marker's location
+            popupAnchor: [1, -34], // point from which the popup should open relative to the iconAnchor
+            shadowSize: [30.75, 30.75], // size of the shadow
+            className: 'grey-marker' // add a custom class for CSS styling
+        });
+
+        function addGreyPinMarker(latitude, longitude, language, code) {
+            L.marker([latitude, longitude], {icon: greyIcon}).addTo(map)
+                .bindPopup('<b>' + language + '</b><br>' + code);
+        }
+
+        var additionalLanguages = [
+            {latitude: 1.039166, longitude: 154.797223, language: 'Kapingamarangi', code: 'kapi1249'} ,
+            {latitude: -8.07231, longitude: 146.206, language: 'Toaripi', code: 'toar1246'} ,
+            {latitude: 23.8333, longitude: 120.93, language: 'Thao', code: 'thao1240'} ,
+            {latitude: 5.29059, longitude: 118.515, language: "Ida'an", code: 'idaa1241'} ,
+            {latitude: -5.16446, longitude: 144.46, language: 'Kobon', code: 'kobo1249'} ,
+            {latitude: 14.9603, longitude: 120.502, language: 'Pampanga', code: 'pamp1243'} ,
+            {latitude: 10.1115, longitude: 119.025, language: 'Batak', code: 'bata1301'} ,
+            {latitude: 7.34138, longitude: 134.476678, language: 'Palauan', code: 'pala1344'} ,
+            {latitude: -6.34674, longitude: 140.043, language: 'Aghu', code: 'aghu1255'} ,
+            {latitude: 23.9032, longitude: 121.358, language: 'Seediq', code: 'taro1264'} ,
+            {latitude: 6.531023, longitude: 122.021729, language: 'Yakan', code: 'yaka1277'} ,
+            {latitude: 17.7329, longitude: 121.58, language: 'Itawit', code: 'itaw1240'} ,
+            {latitude: -3.23411, longitude: 129.148, language: 'South Nuaulu', code: 'sout2895'} ,
+            {latitude: 1.49792, longitude: -54.7457, language: 'Apalaí', code: 'apal1257'} ,
+            {latitude: -7.17105, longitude: -74.8219, language: 'Shipibo-Conibo', code: 'ship1254'} ,
+            {latitude: -1.169535, longitude: -71.60524, language: 'Resígaro', code: 'resi1247'} ,
+            {latitude: 43.2787, longitude: -1.31622, language: 'Basque', code: 'basq1248'} ,
+            {latitude: -14.0853, longitude: -71.7663, language: 'Cusco Quechua', code: 'cusc1236'} ,
+            {latitude: -20.6614, longitude: -56.0329, language: 'Terena-Kinikinao-Chane', code: 'tere1279'} ,
+            {latitude: -3.99109, longitude: -77.9797, language: 'Huambisa', code: 'huam1247'} ,
+            {latitude: -12.2661, longitude: -53.4651, language: 'Kamayurá', code: 'kama1373'} ,
+            {latitude: 48.0, longitude: 2.0, language: 'French', code: 'stan1290'} ,
+            {latitude: 53.0, longitude: -1.0, language: 'English', code: 'stan1293'} ,
+            {latitude: 62.4308, longitude: 66.1218, language: 'Kazym-Berezover-Suryskarer Khanty', code: 'khan1273'} ,
+            {latitude: 19.6511, longitude: 56.1562, language: 'Harsusi', code: 'hars1241'} ,
+            {latitude: 43.633654, longitude: 142.46167, language: 'Hokkaido Ainu', code: 'ainu1240'} ,
+            {latitude: 56.826108, longitude: 24.309118, language: 'Latvian', code: 'latv1249'} ,
+            {latitude: 15.23054, longitude: -91.7041, language: 'Sipacapense', code: 'sipa1247'} ,
+            {latitude: 69.3761, longitude: -52.864, language: 'Kalaallisut', code: 'kala1399'} ,
+            {latitude: 63.4046, longitude: -143.338, language: 'Tanacross', code: 'tana1290'} ,
+            {latitude: 54.004532, longitude: -132.079257, language: 'Northern Haida', code: 'nort2938'} ,
+            {latitude: 59.4447, longitude: -135.29, language: 'Tlingit', code: 'tlin1245'} ,
+            {latitude: 60.4232, longitude: -144.762, language: 'Eyak', code: 'eyak1241'} ,
+            {latitude: 27.5648, longitude: -107.154, language: 'Central Tarahumara', code: 'cent2131'} ,
+            {latitude: 46.3699, longitude: -103.95, language: 'Lakota', code: 'lako1247'} ,
+            {latitude: 8.140326, longitude: 13.077338, language: 'Adamawa Fulfulde', code: 'adam1253'} ,
+            {latitude: 6.46061, longitude: 0.814975, language: 'Ewe', code: 'ewee1241'} ,
+            {latitude: -8.72283, longitude: 36.4148, language: 'Pogolo', code: 'pogo1243'} ,
+            {latitude: -19.5907, longitude: 47.1211, language: 'Plateau Malagasy', code: 'plat1254'} ,
+            {latitude: 14.2038, longitude: -2.41269, language: 'Tamasheq', code: 'tama1365'} ,
+            {latitude: 5.91975, longitude: 36.9892, language: 'Male (Ethiopia)', code: 'male1284'} ,
+            {latitude: 10.567, longitude: 14.0314, language: 'Mofu-Gudur', code: 'mofu1248'} ,
+            {latitude: 11.7548, longitude: -4.92148, language: 'Nanerigé Sénoufo', code: 'nane1238'} ,
+            {latitude: 9.3957, longitude: -5.66717, language: 'Jeli', code: 'jeri1242'} ,
+            {latitude: -11.9493, longitude: 135.752, language: 'Dhangu', code: 'dhan1270'} ,
+            {latitude: -17.0965, longitude: 123.971, language: 'Warrwa', code: 'warr1258'} ,
+            {latitude: -12.8448, longitude: 134.649, language: 'Ngandi', code: 'ngan1295'}
+        ];
+
+
+        // Add markers to the map for each language
+        var languages = [
+            { "name": "Hup (hupd1244)", "lat": -1.5, "lng": -66.5 },
+            { "name": "Lavukaleve (lavu1241)", "lat": -8.5, "lng": 160.0 },
+            { "name": "Mapudungun (mapu1241)", "lat": -38.5, "lng": -72.0 },
+            { "name": "Marind (nucl1622)", "lat": -7.5, "lng": 139.0 },
+            { "name": "Trió (trio1238)", "lat": 3.0, "lng": -56.0 },
+            { "name": "Finnish (finn1318)", "lat": 60.0, "lng": 25.0 }
+        ];
+
+        languages.forEach(function(language) {
+            L.marker([language.lat, language.lng])
+                .addTo(map)
+                .bindPopup(language.name);
+        });
+
+         // Add additional languages with grey pins
+         additionalLanguages.forEach(function(lang) {
+            addGreyPinMarker(lang.latitude, lang.longitude, lang.language, lang.code);
+        });
+    </script>
+</body>
